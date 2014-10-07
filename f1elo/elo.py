@@ -1,10 +1,10 @@
-import __main__
-from os import path
-
-from f1elo.model import *
-
 import json
 from itertools import combinations
+from os import path
+
+import __main__
+from f1elo.model import *
+
 
 class Elo:
     def __init__(self, session):

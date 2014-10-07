@@ -1,7 +1,7 @@
-from sqlalchemy import Column, Table, ForeignKey
-from sqlalchemy.types import Date, Float, Integer, String, Boolean
-from sqlalchemy.orm import backref, relationship, sessionmaker
+from sqlalchemy import Column, ForeignKey, Table
 from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import backref, relationship, sessionmaker
+from sqlalchemy.types import Boolean, Date, Float, Integer, String
 
 Base = declarative_base()
 

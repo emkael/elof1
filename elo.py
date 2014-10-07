@@ -1,10 +1,12 @@
 #!/usr/bin/env python
-from f1elo.db import Session
-from f1elo.model import *
-from f1elo.elo import Elo
-import dateutil.parser, dateutil.relativedelta
-import datetime
 import argparse
+import datetime
+
+import dateutil.parser
+import dateutil.relativedelta
+from f1elo.db import Session
+from f1elo.elo import Elo
+from f1elo.model import *
 
 session = Session()
 elo = Elo(session)
@@ -86,4 +88,3 @@ for rank in sorted(drivers.values(), key=lambda rank: rank.ranking, reverse=True
     print rank
 
 session.commit()
-

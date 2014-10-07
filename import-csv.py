@@ -1,10 +1,11 @@
-from f1elo.db import Session, find_driver
-from f1elo.model import *
+import csv
 import sys
+
+from f1elo.db import find_driver, Session
+from f1elo.model import *
 
 session = Session()
 
-import csv
 with open(sys.argv[1]) as f:
     reader = csv.reader(f)
     for row in reader:
