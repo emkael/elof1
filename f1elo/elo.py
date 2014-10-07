@@ -32,11 +32,6 @@ class Elo:
                 entries_to_compare.append(e)
         for c in combinations(entries_to_compare, 2):
             score = self.get_score(rankings[c[0]] - rankings[c[1]], self.get_outcome(c), self.get_importance(race, [rankings[c[0]], rankings[c[1]]]))
-            #print c[0], '@', rankings[c[0]]
-            #print 'against'
-            #print c[1], '@', rankings[c[1]]
-            #print 'score: ', score
-            #print
             new_rankings[c[0]] += score
             new_rankings[c[1]] -= score
         return new_rankings
@@ -49,7 +44,7 @@ class Elo:
         if min_rank <= 2400:
             return base_importance * 0.75
         return base_importance / 2
-        
+
 
     def get_outcome(self, entries):
         if entries[0].result_group < entries[1].result_group:
@@ -57,6 +52,6 @@ class Elo:
         elif entries[0].result_group > entries[1].result_group:
             return 0
         return 0.5
-    
+
     def get_score(self, difference, outcome, importance):
         return importance * (outcome - 1 / (1 + (10 ** (-difference / self.config['disparity']))))

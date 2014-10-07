@@ -73,18 +73,21 @@ if date is None:
     date = datetime.date.today()
     date += one_day
 
-print 'Rankings for %s' % date
-
 one_year = dateutil.relativedelta.relativedelta(years=1)
-
 rankings = session.query(Ranking).filter(Ranking.rank_date > (date - one_year)).filter(Ranking.rank_date <= date).all()
 
-drivers = {}
-for ranking in rankings:
-    if not drivers.has_key(ranking.driver):
-        drivers[ranking.driver] = ranking.driver.get_ranking(date)
+if len(rankings):
+    print 'Rankings for %s' % date
 
-for rank in sorted(drivers.values(), key=lambda rank: rank.ranking, reverse=True):
-    print rank
+    drivers = {}
+    for ranking in rankings:
+        if not drivers.has_key(ranking.driver):
+            drivers[ranking.driver] = ranking.driver.get_ranking(date)
+
+
+    for rank in sorted(drivers.values(), key=lambda rank: rank.ranking, reverse=True):
+        print rank
+else:
+    print 'No rankings for %s' % date
 
 session.commit()
