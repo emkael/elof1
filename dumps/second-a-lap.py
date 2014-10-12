@@ -18,7 +18,7 @@ def fetch(url):
     for table in tables:
         name = "".join(x for x in title if x.isalnum()) + '-' + str(i) + '.txt'
         print name
-        path = open(name, 'w')
+        path = open('second-a-lap/' + name, 'w')
         print >>path, etree.tostring(table)
         i += 1
 
