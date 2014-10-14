@@ -1,11 +1,20 @@
 #!/usr/bin/env python
 
+import csv
+import json
+import os
+import pprint
+import re
+import string
+import urllib
+import urllib2
+import urlparse
 from sys import argv
-import urlparse, urllib, urllib2
-import json, pprint
-from lxml import html, etree
+
+from lxml import etree, html
+
 from bs4 import BeautifulSoup
-import os, string, re, csv
+
 
 def fetch(url):
     print url
