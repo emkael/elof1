@@ -67,11 +67,9 @@ def compile(files):
 if __name__ == "__main__":
     if len(argv) > 1:
         if argv[1] == 'fetch' and len(argv) > 2:
-            url = urlparse.urlparse(argv[2])
-            fetch(url.path)
+            for url in argv[2:]:
+                fetch(urlparse.urlparse(url).path)
         elif argv[1] == 'compile':
-            files = argv[2:]
-            compile(files)
+            compile(argv[2:])
         else:
-            url = urlparse.urlparse(argv[1])
-            fetch(url.path)
+            fetch(urlparse.urlparse(argv[1]).path)
