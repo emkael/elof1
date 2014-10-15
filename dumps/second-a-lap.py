@@ -28,10 +28,10 @@ def fetch(url):
     for table in tables:
         name = "".join(x for x in title if x.isalnum()) + '-' + str(i)
         print name
-        path = open('second-a-lap/' + name + '.txt', 'w')
+        path = open(os.path.join('second-a-lap', name + '.txt'), 'w')
         table = etree.tostring(table)
         print >>path, table
-        csv_file = csv.writer(open('second-a-lap/csv/' + name + '.csv', 'w'))
+        csv_file = csv.writer(open(os.path.join('second-a-lap', 'csv', name + '.csv'), 'w'))
         soup = BeautifulSoup(table)
         for row in soup.find_all('tr'):
             row = map(lambda t: re.sub('\s+', ' ', " ".join(t.stripped_strings)).encode('utf-8'), row.find_all(re.compile('t[dh]')))
