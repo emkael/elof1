@@ -9,7 +9,7 @@ from f1elo.model import *
 class Elo:
     def __init__(self, session):
         self.session = session
-        self.config = json.load(open(path.dirname(__main__.__file__) + '/config/elo.json'))
+        self.config = json.load(open(path.join(path.dirname(__main__.__file__), 'config', 'elo.json')))
 
     def get_ranking(self, driver, rank_date=None):
         rank = driver.get_ranking(rank_date)

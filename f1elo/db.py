@@ -6,7 +6,7 @@ from f1elo.model import Driver
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-config = json.load(open(path.dirname(__main__.__file__) + '/config/db.json'))
+config = json.load(open(path.join(path.dirname(__main__.__file__), 'config', 'db.json')))
 engine = create_engine("mysql://{0[user]}:{0[pass]}@{0[host]}/{0[db]}?charset=utf8".format(config))
 Session = sessionmaker(bind=engine)
 
