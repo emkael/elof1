@@ -37,7 +37,7 @@ France,Maurice Trintignant
 3,1,42,Italy,Giuseppe Farina,1
 3,2,44,Italy,Carlo Felice Trossi,2
 3,3,46,Italy,Tazio Nuvolari,2
-3,4,38,Switzerland,Toulo de Graffenried,3
+3,4,38,Switzerland,Emmanuel de Graffenried,3
 3,5,34,United Kingdom,Raymond Mays,3
 3,6,26,United Kingdom,George Abecassis,3
 3,7,36,United Kingdom,Ian Connell,4
@@ -50,7 +50,7 @@ France,Maurice Trintignant
 4,2,44,Italy,Carlo Felice Trossi,2
 4,3,18,France,Jean-Pierre Wimille,3
 4,4,46,Italy,Tazio Nuvolari,4
-4,5,38,Switzerland,Toulo de Graffenried,4
+4,5,38,Switzerland,Emmanuel de Graffenried,4
 4,6,2,Thailand,Prince Bira,4
 4,7,20,Italy,Achille Varzi,5
 4,8,22,France,Raymond Sommer,5
@@ -109,7 +109,7 @@ France,Maurice Trintignant
 8,6,44,Italy,Luigi Villoresi,3
 8,7,48,Italy,Nello Pagani,4
 8,8,42,Thailand,Prince Bira,4
-8,9,54,Switzerland,Toulo de Graffenried,5
+8,9,54,Switzerland,Emmanuel de Graffenried,5
 8,10,16,France,"Raph",5
 8,11,26,United Kingdom,Robert Ansell,6
 8,12,12,France,Henri Louveau,6
@@ -143,7 +143,7 @@ United Kingdom,Cuth Harrison
 10,Ret,18,Switzerland,Christian Kautz,0
 10,Ret,20,Monaco,Louis Chiron,0
 10,Ret,42,United Kingdom,Peter Whitehead,0
-10,Ret,16,Switzerland,Toulo de Graffenried,0
+10,Ret,16,Switzerland,Emmanuel de Graffenried,0
 10,Ret,30,France,Benoit Falchetto,0
 11,1,24,Italy,Consalvo Sanesi,1
 11,2,30,Italy,Carlo Felice Trossi,2
@@ -152,7 +152,7 @@ United Kingdom,Cuth Harrison
 11,5,34,Italy,Alberto Ascari,5
 11,6,18,Monaco,Louis Chiron,6
 11,7,8,France,Raymond Sommer,7
-11,8,32,Switzerland,Toulo de Graffenried,8
+11,8,32,Switzerland,Emmanuel de Graffenried,8
 11,9,2,Italy,Alessandro Gaboardi,9
 11,10,14,France,Pierre Levegh,10
 11,11,52,Italy,Lorenzo Arrigoni,11
@@ -190,7 +190,7 @@ United Kingdom,Cuth Harrison
 12,Ret,4,Italy,Nello Pagani,0
 12,Ret,26,Thailand,Prince Bira,0
 12,Ret,18,Monaco,Louis Chiron,0
-12,Ret,32,Switzerland,Toulo de Graffenried,0
+12,Ret,32,Switzerland,Emmanuel de Graffenried,0
 12,DNS,38,Italy,Arialdo Ruggeri,0
 12,DNS,46,Italy,Giovanni Minozzi,0
 13,1,,France,Henri Louveau,1
@@ -371,7 +371,7 @@ Italy,Luigi Villoresi
 23,23,,United Kingdom,Sam Gilbey,23
 23,24,,Italy,Luigi Villoresi,24
 23,25,,Italy,Alberto Ascari,25
-23,–,,United Kingdom,Lord Selsdon,0
+23,–,,United Kingdom,John Selsdon,0
 23,–,,United Kingdom,Fred Ashmore,0
 23,–,,United Kingdom,Anthony Baring,0
 23,–,,United Kingdom,Leslie Brooke,0
@@ -496,7 +496,7 @@ United Kingdom,Ken Richardson
 30,12,12,France,Georges Grignard,6
 30,13,2,Belgium,Johnny Claes,6
 30,14,38,Switzerland,Toni Branca,7
-30,15,44,Switzerland,Rudi Fischer,8
+30,15,44,Switzerland,Rudolf Fischer,8
 30,16,48,United States,Harry Schell,9
 30,17,42,Switzerland,Alfred Dattner,10
 30,Ret,20,Italy,Giuseppe Farina,0

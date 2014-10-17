@@ -26,7 +26,7 @@ France,Georges Grignard
 37,Ret,12,Argentina,José Froilán González,0
 37,Ret,4,Italy,Alberto Ascari,0
 36,3,22,United Kingdom,Reg Parnell,3
-36,13,20,Switzerland,Toulo de Graffenried,13
+36,13,20,Switzerland,Emmanuel de Graffenried,13
 36,7,29,United Kingdom,Brian Shawe-Taylor,7
 36,1,28,United Kingdom,Cuth Harrison,1
 36,5,25,United Kingdom,Graham Whitehead,5
@@ -39,7 +39,7 @@ France,Georges Grignard
 36,4,26,United Kingdom,Peter Walker,4
 36,11,23,United Kingdom,David Hampshire,11
 38,1,22,United Kingdom,Reg Parnell,1
-38,2,20,Switzerland,Toulo de Graffenried,2
+38,2,20,Switzerland,Emmanuel de Graffenried,2
 38,3,29,United Kingdom,Brian Shawe-Taylor,2
 38,4,28,United Kingdom,Cuth Harrison,3
 38,5,25,United Kingdom,Graham Whitehead,3
@@ -70,7 +70,7 @@ France,Georges Grignard
 39,16,16,United Kingdom,Peter Whitehead,16
 39,17,17,United Kingdom,Reg Parnell,17
 39,19,19,Italy,Dorino Serafini,19
-39,20,20,Switzerland,Rudi Fischer,20
+39,20,20,Switzerland,Rudolf Fischer,20
 40,1,18,Argentina,Juan Manuel Fangio,1
 40,2,24,Italy,Luigi Villoresi,2
 40,3,6,Argentina,Alfredo Pian,3
@@ -90,7 +90,7 @@ France,Georges Grignard
 40,Ret,4,United Kingdom,Peter Whitehead,0
 40,Ret,36,United Kingdom,Reg Parnell,0
 40,Ret,38,Italy,Dorino Serafini,0
-40,Ret,8,Switzerland,Rudi Fischer,0
+40,Ret,8,Switzerland,Rudolf Fischer,0
 41,1,8,France,Georges Grignard,1
 41,2,15,France,Louis Gérard,2
 41,3,12,France,Marc Versini,3
@@ -109,7 +109,7 @@ France,Georges Grignard
 42,5,21,Thailand,Prince Bira,5
 42,6,14,France,Yves Giraud-Cabantous,6
 42,7,17,France,Eugene Martin,7
-42,8,20,Switzerland,Toulo de Graffenried,8
+42,8,20,Switzerland,Emmanuel de Graffenried,8
 42,9,15,France,Louis Rosier,9
 42,10,9,United Kingdom,Peter Walker,10
 42,11,19,Monaco,Louis Chiron,11
@@ -140,7 +140,7 @@ United Kingdom,Brian Shawe-Taylor
 43,Ret,21,Thailand,Prince Bira,0
 43,Ret,5,United Kingdom,David Murray,0
 43,Ret,24,United Kingdom,Geoffrey Crossley,0
-43,Ret,20,Switzerland,Toulo de Graffenried,0
+43,Ret,20,Switzerland,Emmanuel de Graffenried,0
 43,Ret,19,Monaco,Louis Chiron,0
 43,Ret,17,France,Eugene Martin,0
 43,Ret,9,United Kingdom,Peter Walker,0
@@ -157,7 +157,7 @@ United Kingdom,Tony Rolt
 44,9,42,France,Raymond Sommer,9
 44,10,16,France,Louis Rosier,10
 44,11,10,France,Robert Manzon,11
-44,12,52,Switzerland,Toulo de Graffenried,12
+44,12,52,Switzerland,Emmanuel de Graffenried,12
 44,13,12,France,Maurice Trintignant,13
 44,14,24,United Kingdom,Cuth Harrison,14
 44,15,50,Thailand,Prince Bira,15
@@ -181,7 +181,7 @@ United Kingdom,Tony Rolt
 45,Ret,36,Italy,Luigi Fagioli,7
 45,Ret,16,France,Louis Rosier,7
 45,Ret,10,France,Robert Manzon,7
-45,Ret,52,Switzerland,Toulo de Graffenried,7
+45,Ret,52,Switzerland,Emmanuel de Graffenried,7
 45,Ret,12,France,Maurice Trintignant,7
 45,Ret,24,United Kingdom,Cuth Harrison,7
 45,Ret,44,Italy,Franco Rol,7
@@ -198,7 +198,7 @@ United Kingdom,Tony Rolt
 46,8,30,Thailand,Prince Bira,8
 46,9,8,France,Eugene Martin,9
 46,10,10,France,Louis Rosier,10
-46,11,32,Switzerland,Toulo de Graffenried,11
+46,11,32,Switzerland,Emmanuel de Graffenried,11
 46,12,34,Italy,Felice Bonetto,12
 46,13,20,France,Raymond Sommer,13
 46,14,4,Belgium,Johnny Claes,14
@@ -211,7 +211,7 @@ United Kingdom,Tony Rolt
 47,3,10,France,Louis Rosier,3
 47,4,30,Thailand,Prince Bira,4
 47,5,34,Italy,Felice Bonetto,4
-47,6,32,Switzerland,Toulo de Graffenried,4
+47,6,32,Switzerland,Emmanuel de Graffenried,4
 47,7,2,Italy,Nello Pagani,5
 47,8,44,United States,Harry Schell,5
 47,9,26,Monaco,Louis Chiron,5
@@ -226,7 +226,7 @@ United Kingdom,Tony Rolt
 47,Ret,6,France,Yves Giraud-Cabantous,8
 48,3,1,United Kingdom,Bob Gerard,3
 48,1,12,United Kingdom,Cuth Harrison,1
-48,7,5,Switzerland,Toulo de Graffenried,7
+48,7,5,Switzerland,Emmanuel de Graffenried,7
 48,5,15,United Kingdom,Brian Shawe-Taylor,5
 48,6,3,United Kingdom,David Hampshire,6
 48,8,2,United Kingdom,Reg Parnell,8
@@ -239,7 +239,7 @@ United Kingdom,Tony Rolt
 48,10,16,Republic of Ireland,Joe Kelly,10
 49,1,1,United Kingdom,Bob Gerard,1
 49,2,12,United Kingdom,Cuth Harrison,2
-49,3,5,Switzerland,Toulo de Graffenried,2
+49,3,5,Switzerland,Emmanuel de Graffenried,2
 49,4,15,United Kingdom,Brian Shawe-Taylor,3
 49,5,3,United Kingdom,David Hampshire,4
 49,6,2,United Kingdom,Reg Parnell,4
@@ -337,7 +337,7 @@ United Kingdom,Lance Macklin
 54,Ret,26,Thailand,Prince Bira,0
 55,2,10,United Kingdom,Peter Whitehead,2
 55,7,5,United Kingdom,Reg Parnell,7
-55,5,3,Switzerland,Toulo de Graffenried,5
+55,5,3,Switzerland,Emmanuel de Graffenried,5
 55,3,11,United Kingdom,Bob Gerard,3
 55,6,15,United Kingdom,Brian Shawe-Taylor,6
 55,17,18,United Kingdom,Geoffrey Crossley,17
@@ -357,7 +357,7 @@ United Kingdom,Lance Macklin
 55,20,24,United Kingdom,Sid Logan,20
 56,1,10,United Kingdom,Peter Whitehead,1
 56,2,5,United Kingdom,Reg Parnell,2
-56,3,3,Switzerland,Toulo de Graffenried,2
+56,3,3,Switzerland,Emmanuel de Graffenried,2
 56,4,11,United Kingdom,Bob Gerard,2
 56,5,15,United Kingdom,Brian Shawe-Taylor,2
 56,6,18,United Kingdom,Geoffrey Crossley,3
@@ -530,7 +530,7 @@ United Kingdom,Philip Fotheringham-Parker
 65,14,64,France,Henri Louveau,14
 65,15,30,Thailand,Prince Bira,15
 65,16,24,France,Philippe Étancelin,16
-65,17,38,Switzerland,Toulo de Graffenried,17
+65,17,38,Switzerland,Emmanuel de Graffenried,17
 65,18,8,United Kingdom,Peter Whitehead,18
 65,19,6,Monaco,Louis Chiron,19
 65,20,56,France,Pierre Levegh,20
@@ -547,7 +547,7 @@ Italy,Alberto Ascari
 66,3,36,Italy,Luigi Fagioli,2
 66,4,58,France,Louis Rosier,3
 66,5,24,France,Philippe Étancelin,3
-66,6,38,Switzerland,Toulo de Graffenried,4
+66,6,38,Switzerland,Emmanuel de Graffenried,4
 66,7,8,United Kingdom,Peter Whitehead,4
 66,Ret,50,United Kingdom,David Murray,0
 66,Ret,32,United Kingdom,Cuth Harrison,0

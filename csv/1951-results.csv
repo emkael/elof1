@@ -1,6 +1,6 @@
 73,3,24,Italy,Luigi Villoresi,3
 73,4,18,Italy,Dorino Serafini,4
-73,6,16,Switzerland,Rudi Fischer,6
+73,6,16,Switzerland,Rudolf Fischer,6
 73,7,2,France,Henri Louveau,7
 73,9,4,France,Louis Rosier,9
 73,1,20,Italy,Alberto Ascari,1
@@ -12,7 +12,7 @@
 73,5,12,Italy,Giovanni Bracco,5
 74,1,24,Italy,Luigi Villoresi,1
 74,2,18,Italy,Dorino Serafini,2
-74,3,16,Switzerland,Rudi Fischer,2
+74,3,16,Switzerland,Rudolf Fischer,2
 74,4,2,France,Henri Louveau,3
 74,5,4,France,Louis Rosier,3
 74,NC,20,Italy,Alberto Ascari,4
@@ -27,7 +27,7 @@
 75,6,2,Italy,Giuseppe Farina,6
 75,11,28,France,Yves Giraud-Cabantous,11
 75,9,16,France,Philippe Étancelin,9
-75,8,30,Switzerland,Rudi Fischer,8
+75,8,30,Switzerland,Rudolf Fischer,8
 75,13,20,France,Henri Louveau,13
 75,5,26,Switzerland,Emmanuel de Graffenried,5
 75,3,14,Italy,Dorino Serafini,3
@@ -42,7 +42,7 @@
 76,3,2,Italy,Giuseppe Farina,3
 76,4,28,France,Yves Giraud-Cabantous,3
 76,5,16,France,Philippe Étancelin,4
-76,6,30,Switzerland,Rudi Fischer,5
+76,6,30,Switzerland,Rudolf Fischer,5
 76,Ret,20,France,Henri Louveau,6
 76,Ret,26,Switzerland,Emmanuel de Graffenried,0
 76,Ret,14,Italy,Dorino Serafini,0
@@ -74,7 +74,7 @@
 78,Ret,35,United Kingdom,David Murray,0
 79,1,18,Italy,Alberto Ascari,1
 79,4,30,Italy,Dorino Serafini,4
-79,7,40,Switzerland,Rudi Fischer,7
+79,7,40,Switzerland,Rudolf Fischer,7
 79,8,8,United States,Harry Schell,8
 79,10,16,United Kingdom,Stirling Moss,10
 79,17,14,France,Guy Mairesse,17
@@ -91,7 +91,7 @@
 79,5,20,Thailand,Prince Bira,5
 80,1,18,Italy,Alberto Ascari,1
 80,2,30,Italy,Dorino Serafini,2
-80,3,40,Switzerland,Rudi Fischer,2
+80,3,40,Switzerland,Rudolf Fischer,2
 80,4,8,United States,Harry Schell,3
 80,5,16,United Kingdom,Stirling Moss,4
 80,6,14,France,Guy Mairesse,5
@@ -107,7 +107,7 @@
 80,Ret,6,United Kingdom,Louis Rosier,0
 80,Ret,20,Thailand,Prince Bira,8
 81,1,14,France,Louis Rosier,1
-81,4,22,Switzerland,Rudi Fischer,4
+81,4,22,Switzerland,Rudolf Fischer,4
 81,5,26,United Kingdom,Peter Whitehead,5
 81,7,28,Thailand,Prince Bira,7
 81,2,4,France,Maurice Trintignant,2
@@ -122,7 +122,7 @@
 81,3,12,United States,Harry Schell,3
 81,12,10,Switzerland,Emmanuel de Graffenried,12
 82,1,14,France,Louis Rosier,1
-82,2,22,Switzerland,Rudi Fischer,2
+82,2,22,Switzerland,Rudolf Fischer,2
 82,3,26,United Kingdom,Peter Whitehead,3
 82,4,28,Thailand,Prince Bira,4
 82,5,4,France,Maurice Trintignant,5
@@ -228,7 +228,7 @@ United States,Harry Schell
 88,7,20,Italy,Alberto Ascari,7
 88,8,8,France,Louis Rosier,8
 88,9,16,United Kingdom,Peter Whitehead,9
-88,10,38,Switzerland,Rudi Fischer,10
+88,10,38,Switzerland,Rudolf Fischer,10
 88,11,10,France,Henri Louveau,11
 88,12,4,France,Philippe Étancelin,12
 88,13,42,Argentina,José Froilán González,13
@@ -250,7 +250,7 @@ United States,Harry Schell
 89,8,14,United Kingdom,Stirling Moss,4
 89,9,8,France,Louis Rosier,5
 89,10,4,France,Philippe Étancelin,5
-89,11,38,Switzerland,Rudi Fischer,5
+89,11,38,Switzerland,Rudolf Fischer,5
 89,12,32,United States,Harry Schell,6
 89,13,2,Belgium,Johnny Claes,7
 89,14,40,France,Guy Mairesse,8
@@ -437,7 +437,7 @@ Italy,Luigi Fagioli
 100,1,16,France,Louis Rosier,8
 100,2,8,France,Philippe Étancelin,4
 100,3,28,United Kingdom,Stirling Moss,6
-100,4,26,United Kingdom,Rudi Fischer,7
+100,4,26,Switzerland,Rudolf Fischer,7
 100,5,30,United Kingdom,Duncan Hamilton,11
 100,6,24,United Kingdom,Lance Macklin,10
 100,7,4,Belgium,André Pilette,3
@@ -449,7 +449,7 @@ Italy,Luigi Fagioli
 101,1,16,France,Louis Rosier,1
 101,2,8,France,Philippe Étancelin,2
 101,3,28,United Kingdom,Stirling Moss,2
-101,4,26,United Kingdom,Rudi Fischer,3
+101,4,26,Switzerland,Rudolf Fischer,3
 101,5,30,United Kingdom,Duncan Hamilton,4
 101,6,24,United Kingdom,Lance Macklin,5
 101,7,4,Belgium,André Pilette,5
@@ -465,7 +465,7 @@ Italy,Luigi Fagioli
 102,5,72,Italy,Luigi Villoresi,5
 102,6,73,Italy,Piero Taruffi,6
 102,7,78,West Germany,Paul Pietsch,7
-102,8,91,Switzerland,Rudi Fischer,8
+102,8,91,Switzerland,Rudolf Fischer,8
 102,9,82,France,Robert Manzon,9
 102,10,77,Italy,Felice Bonetto,10
 102,11,87,France,Yves Giraud-Cabantous,11
@@ -486,7 +486,7 @@ Italy,Luigi Fagioli
 103,3,74,Argentina,José Froilán González,2
 103,4,72,Italy,Luigi Villoresi,3
 103,5,73,Italy,Piero Taruffi,3
-103,6,91,Switzerland,Rudi Fischer,4
+103,6,91,Switzerland,Rudolf Fischer,4
 103,7,82,France,Robert Manzon,4
 103,8,84,France,Louis Rosier,4
 103,9,90,France,Pierre Levegh,5
@@ -626,7 +626,7 @@ Italy,Alberto Ascari
 110,20,22,France,Pierre Levegh,20
 110,21,26,Belgium,Johnny Claes,21
 110,22,28,Belgium,Jacques Swaters,22
-110,23,14,Switzerland,Rudi Fischer,23
+110,23,14,Switzerland,Rudolf Fischer,23
 110,24,32,West Germany,Hans Stuck,23
 111,1,2,Italy,Alberto Ascari,1
 111,2,6,Argentina,José Froilán González,2
