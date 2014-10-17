@@ -1,0 +1,4 @@
+{
+       "engine": "sqlite",
+       "file": "elo.db"
+}
