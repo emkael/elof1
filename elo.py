@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import argparse
 import dateutil.parser
+import sys
 
 parser = argparse.ArgumentParser(description='Ranks Formula One drivers using Elo rating',
                                  formatter_class=argparse.RawTextHelpFormatter)
@@ -9,8 +10,9 @@ parser.add_argument('command', metavar='COMMAND', nargs='?',
                     "print - prints the rankings for all drivers ranked in 12 months,\n"
                     "reset - resets the rankings,\n"
                     "rate - calculates the rankings\n"
+                    "init - init clean database for the application\n"
                     "Default value is 'print'.",
-                    default='print', choices=['print', 'rate', 'reset'])
+                    default='print', choices=['print', 'rate', 'reset', 'init'])
 parser.add_argument('--date',
                     help='Date for which the action should be executed.\n'
                     'Print ratings for DATE,\n'
@@ -18,21 +20,26 @@ parser.add_argument('--date',
                     'or rank the races all the way up to DATE.')
 parser.add_argument('--limit', help='Ranking list (display) cut-off point.', type=int)
 parser.add_argument('-v', help='Display verbose info on rating progress.', action='store_true')
+parser.add_argument('--force', '-f', help='Force database initialization (for "init" command).', action='store_true')
 
 arguments = parser.parse_args()
+
 command = arguments.command.lower()
+
 date = arguments.date
 if date:
     date = dateutil.parser.parse(date).date()
 
 from f1elo.interface import Interface
-
 interface = Interface(date)
 
 if command == 'reset':
     interface.reset(_debug=arguments.v)
 elif command == 'rate':
     interface.rate( _debug=arguments.v)
+elif command == 'init':
+    interface.init_db(force=arguments.force)
+    sys.exit(0)
 
 rankings = interface.fetch()
 

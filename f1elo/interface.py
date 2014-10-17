@@ -1,6 +1,8 @@
 import datetime
 import dateutil.relativedelta
 
+from sqlalchemy import MetaData
+
 from f1elo.db import Session
 from f1elo.elo import Elo
 from f1elo.model import *
@@ -9,6 +11,12 @@ class Interface:
     def __init__(self, date=None):
         self.session = Session()
         self.date = date
+
+    def init_db(self, force=False):
+        from f1elo.model import Base
+        if force:
+            Base.metadata.drop_all(self.session.get_bind())
+        Base.metadata.create_all(self.session.get_bind())
 
     def reset(self, date=None, _debug=False):
         if date is None:

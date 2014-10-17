@@ -10,7 +10,6 @@ config = json.load(open(path.join(path.dirname(__main__.__file__), 'config', 'db
 engine = create_engine("mysql://{0[user]}:{0[pass]}@{0[host]}/{0[db]}?charset=utf8".format(config))
 Session = sessionmaker(bind=engine)
 
-
 def find_driver(name, country, session):
     driver = session.query(Driver).filter(Driver.driver==name).first()
     if driver:
