@@ -1,0 +1,27 @@
+== Scoring rules ==
+Every race or ranked qualifying session results for each entry are handed ordinal numbers as "groups" in which the entry was classified.
+
+For qualifying, a group is simply the qualifying position (not applying any grid drop penalties, but applying disqualification/exclusion).
+
+For races the following rules apply:
+ * race winning entry forms group "1"
+ * among the drivers classified on the lead lap, other groups are as follows: 2-3 places are group "2", 4-5 places are group "3", 6-10 places are group "4", 11-15 places are group "5", etc.
+ * for drivers classified outside the lead lap, the groups are formed by the drivers classified with the same numbers of completed laps (each distinct lap number as a separate group)
+ * non-classified drivers (because of completing not enough laps, but not retiring) form a single separate group, below all the classified drivers
+ * drivers retiring due to driver accidents form a single separate group, below other drivers
+ * drivers disqualified from the race form a single separate group, below other drivers
+ * drivers retiring due to mechanical issues form a special "0" group together with drivers which did not start the race
+
+After separating session results into groups, all entries from non-"0" groups form a "tournament". All possible entry couples are paired against each other to form "duels". The outcome of the duel may be a win/loss (if the entries are grouped in different groups) or a draw (if entries are grouped within the same group).
+
+All such duels are then treated as input for Elo rating algorithm.
+
+Specific rules regarding Elo implementation for this application's purposes:
+ * rankings are applied (evaluated) after each session ("tournament")
+ * no minimum rating limit for driver is enforced
+ * drivers are rated from their first entry (there's no initial grace period)
+ * shared drive entries have the effective ranking equal to the average ranking of drivers sharing the drive; pending ranking points from duels of such entries are divided equally between drivers sharing the drive
+
+Other than that, standard Elo rating conventions apply:
+ * drivers start with identical initial rating
+ * duels between high-ranked drivers change their rankings by fewer points than duels between low-ranked drivers
