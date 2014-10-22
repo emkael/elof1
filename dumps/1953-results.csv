@@ -1,450 +1,884 @@
-Race,Pos,Nat.,Driver,
-0,1,It,Giuseppe Farina,1
-0,2,GB,Mike Hawthorn,2
-0,3,Fr,Philippe Étancelin,3
-0,4,USA,Harry Schell,3
-0,5,Fr,Pierre Levegh,4
-0,6,Fr,Georges Grignard,4
-0,7,Fr,Louis Rosier,4
-0,8,GB,Bob Gerard,4
-0,9,GB,John Lyons,5
-0,10,GB,Stirling Moss,6
-0,R,Fr,Maurice Trintignant,0
-0,R,Bel,Johnny Claes,0
-0,R,Fr,Jean Behra,0
-0,R,Fr,Yves Giraud-Cabantous,0
-0,R,Fr,Élie Bayol,0
-0,DNS,Swz,Ottorino Volonterio,0
-100,1,It,Giuseppe Farina,1
-100,2,GB,Mike Hawthorn,2
-100,10,Fr,Philippe Étancelin,10
-100,7,USA,Harry Schell,7
-100,11,Fr,Pierre Levegh,11
-100,9,Fr,Georges Grignard,9
-100,4,Fr,Louis Rosier,4
-100,14,GB,Bob Gerard,14
-100,8,GB,John Lyons,8
-100,12,GB,Stirling Moss,12
-100,3,Fr,Maurice Trintignant,3
-100,15,Bel,Johnny Claes,15
-100,5,Fr,Jean Behra,5
-100,13,Fr,Yves Giraud-Cabantous,13
-100,6,Fr,Élie Bayol,6
-100,16,Swz,Ottorino Volonterio,16
-1,1,It,Alberto Ascari,1
-1,2,It,Luigi Villoresi,2
-1,3,Arg,José Froilán Gonzalez,2
-1,4,GB,Mike Hawthorn,2
-1,5,It,Óscar Gálvez,2
-1,6,Fr,Jean Behra,3
-1,7,Fr USA,Maurice Trintignant Harry Schell,4
-1,8,GB,John Barber,5
-1,9,GB,Alan Brown,6
-1,R,Fr,Robert Manzon,0
-1,R,Arg,Juan Manuel Fangio,0
-1,R,It,Felice Bonetto,0
-1,R,It,Giuseppe Farina,7
-1,R,Arg,Carlos Menditéguy,0
-1,R,Arg,Pablos Birger,0
-1,R,Arg,Adolfo Schewelm Cruz,0
-101,1,It,Alberto Ascari,1
-101,3,It,Luigi Villoresi,3
-101,5,Arg,José Froilán Gonzalez,5
-101,6,GB,Mike Hawthorn,6
-101,9,It,Óscar Gálvez,9
-101,11,Fr,Jean Behra,11
-101,7,Fr USA,Maurice Trintignant Harry Schell,7
-101,16,GB,John Barber,16
-101,12,GB,Alan Brown,12
-101,8,Fr,Robert Manzon,8
-101,2,Arg,Juan Manuel Fangio,2
-101,15,It,Felice Bonetto,15
-101,4,It,Giuseppe Farina,4
-101,10,Arg,Carlos Menditéguy,10
-101,14,Arg,Pablos Birger,14
-101,13,Arg,Adolfo Schewelm Cruz,13
-2,1,It,Alberto Ascari,1
-2,2,It,Giuseppe Farina,2
-2,3,It Arg,Felice Bonetto José Froilán Gonzalez,3
-2,4,GB,Mike Hawthorn,3
-2,5,Swz,Emmanuel de Graffenried,4
-2,6,Fr,Maurice Trintignant,5
-2,7,Fr,Louis Rosier,6
-2,8,GB,Peter Collins,7
-2,9,GB,Stirling Moss,8
-2,R,It,Luigi Villoresi,0
-2,R,GB,Ken McAlpine,0
-2,R,USA,Harry Schell,0
-2,NC,Bel,Johnny Claes,9
-2,R,Arg,Juan Manuel Fangio,0
-2,R,Arg,Roberto Mieres,0
-2,R,Arg,José Froilán Gonzalez,0
-2,R,GB,Ken Wharton,0
-2,R,GB,Roy Salvadori,0
-2,R,GB,Lance Macklin,0
-2,DNS,USA,Fred Wacker,0
-102,1,It,Alberto Ascari,1
-102,3,It,Giuseppe Farina,3
-102,13,It Arg,Felice Bonetto José Froilán Gonzalez,13
-102,6,GB,Mike Hawthorn,6
-102,7,Swz,Emmanuel de Graffenried,7
-102,12,Fr,Maurice Trintignant,12
-102,8,Fr,Louis Rosier,8
-102,16,GB,Peter Collins,16
-102,9,GB,Stirling Moss,9
-102,4,It,Luigi Villoresi,4
-102,14,GB,Ken McAlpine,14
-102,10,USA,Harry Schell,10
-102,17,Bel,Johnny Claes,17
-102,2,Arg,Juan Manuel Fangio,2
-102,19,Arg,Roberto Mieres,19
-102,5,Arg,José Froilán Gonzalez,5
-102,18,GB,Ken Wharton,18
-102,11,GB,Roy Salvadori,11
-102,15,GB,Lance Macklin,15
-102,20,USA,Fred Wacker,20
-3,1,It,Alberto Ascari,1
-3,2,It,Luigi Villoresi,2
-3,R,Bel Arg,Johnny Claes Juan Manuel Fangio,3
-3,3,Arg,Onofre Marimón,4
-3,4,Swz,Emmanuel de Graffenried,4
-3,5,Fr,Maurice Trintignant,4
-3,6,GB,Mike Hawthorn,4
-3,7,USA,Harry Schell,5
-3,8,Fr,Louis Rosier,5
-3,9,USA,Fred Wacker,6
-3,10,Bel,Paul Frère,7
-3,11,Bel,André Pilette,8
-3,R,GB,Lance Macklin,0
-3,R,It,Giuseppe Farina,0
-3,R,Arg,Juan Manuel Fangio,0
-3,R,Arg,José Froilán Gonzalez,0
-3,R,Fr,Jean Behra,0
-3,R,GB,Peter Collins,0
-3,R,Bel,Georges Berger,0
-3,R,Bel,Arthur Legat,0
-103,2,It,Alberto Ascari,2
-103,5,It,Luigi Villoresi,5
-103,10,Bel Arg,Johnny Claes Juan Manuel Fangio,10
-103,6,Arg,Onofre Marimón,6
-103,9,Swz,Emmanuel de Graffenried,9
-103,8,Fr,Maurice Trintignant,8
-103,7,GB,Mike Hawthorn,7
-103,12,USA,Harry Schell,12
-103,13,Fr,Louis Rosier,13
-103,15,USA,Fred Wacker,15
-103,11,Bel,Paul Frère,11
-103,18,Bel,André Pilette,18
-103,17,GB,Lance Macklin,17
-103,4,It,Giuseppe Farina,4
-103,1,Arg,Juan Manuel Fangio,1
-103,3,Arg,José Froilán Gonzalez,3
-103,14,Fr,Jean Behra,14
-103,16,GB,Peter Collins,16
-103,20,Bel,Georges Berger,20
-103,19,Bel,Arthur Legat,19
-4,1,GB,Mike Hawthorn,1
-4,2,Arg,Juan Manuel Fangio,2
-4,3,Arg,José Froilán Gonzalez,2
-4,4,It,Alberto Ascari,3
-4,5,It,Giuseppe Farina,3
-4,6,It,Luigi Villoresi,4
-4,7,Swz,Emmanuel de Graffenried,5
-4,8,Fr,Louis Rosier,6
-4,9,Arg,Onofre Marimón,7
-4,10,Fr,Jean Behra,7
-4,11,GB,Bob Gerard,7
-4,12,Bel,Johnny Claes,8
-4,13,GB,Peter Collins,9
-4,14,Fr,Yves Giraud-Cabantous,10
-4,15,Mon,Louis Chiron,11
-4,R,It,Felice Bonetto,0
-4,R,GB,Stirling Moss,0
-4,R,Th,B. Bira,0
-4,R,Fr,Élie Bayol,0
-4,R,GB,Ken Wharton,0
-4,R,Fr,Maurice Trintignant,0
-4,R,GB,Lance Macklin,0
-4,R,USA,Harry Schell,0
-4,R,Arg,Roberto Mieres,0
-4,R,GB,Roy Salvadori,0
-104,7,GB,Mike Hawthorn,7
-104,4,Arg,Juan Manuel Fangio,4
-104,5,Arg,José Froilán Gonzalez,5
-104,1,It,Alberto Ascari,1
-104,6,It,Giuseppe Farina,6
-104,3,It,Luigi Villoresi,3
-104,9,Swz,Emmanuel de Graffenried,9
-104,10,Fr,Louis Rosier,10
-104,8,Arg,Onofre Marimón,8
-104,22,Fr,Jean Behra,22
-104,12,GB,Bob Gerard,12
-104,21,Bel,Johnny Claes,21
-104,17,GB,Peter Collins,17
-104,18,Fr,Yves Giraud-Cabantous,18
-104,25,Mon,Louis Chiron,25
-104,2,It,Felice Bonetto,2
-104,13,GB,Stirling Moss,13
-104,11,Th,B. Bira,11
-104,15,Fr,Élie Bayol,15
-104,14,GB,Ken Wharton,14
-104,23,Fr,Maurice Trintignant,23
-104,16,GB,Lance Macklin,16
-104,20,USA,Harry Schell,20
-104,24,Arg,Roberto Mieres,24
-104,19,GB,Roy Salvadori,19
-5,1,It,Alberto Ascari,1
-5,2,Arg,Juan Manuel Fangio,2
-5,3,It,Giuseppe Farina,3
-5,4,Arg,José Froilán Gonzalez,3
-5,5,GB,Mike Hawthorn,4
-5,6,It,Felice Bonetto,5
-5,7,Th,B. Bira,5
-5,8,GB,Ken Wharton,6
-5,R,GB,Jimmy Stewart,7
-5,9,GB,Peter Whitehead,8
-5,10,Fr,Louis Rosier,9
-5,R,GB,Tony Rolt,0
-5,R,It,Luigi Villoresi,0
-5,R,Arg,Onofre Marimón,0
-5,R,GB,Alan Brown,0
-5,R,GB,Peter Collins,10
-5,R,GB,Jack Fairman,0
-5,R,GB,Roy Salvadori,0
-5,R,Swz,Emmanuel de Graffenried,0
-5,R,GB,Lance Macklin,0
-5,R,Fr,Jean Behra,0
-5,R,GB,Ian Stewart,0
-5,R,Fr,Maurice Trintignant,0
-5,R,GB,Duncan Hamilton,0
-5,R,GB,Bob Gerard,0
-5,R,USA,Harry Schell,0
-5,R,GB,Ken McAlpine,0
-5,R,GB,Tony Crook,0
-105,1,It,Alberto Ascari,1
-105,4,Arg,Juan Manuel Fangio,4
-105,5,It,Giuseppe Farina,5
-105,2,Arg,José Froilán Gonzalez,2
-105,3,GB,Mike Hawthorn,3
-105,16,It,Felice Bonetto,16
-105,19,Th,B. Bira,19
-105,11,GB,Ken Wharton,11
-105,15,GB,Jimmy Stewart,15
-105,14,GB,Peter Whitehead,14
-105,24,Fr,Louis Rosier,24
-105,10,GB,Tony Rolt,10
-105,6,It,Luigi Villoresi,6
-105,7,Arg,Onofre Marimón,7
-105,21,GB,Alan Brown,21
-105,23,GB,Peter Collins,23
-105,27,GB,Jack Fairman,27
-105,28,GB,Roy Salvadori,28
-105,26,Swz,Emmanuel de Graffenried,26
-105,12,GB,Lance Macklin,12
-105,22,Fr,Jean Behra,22
-105,20,GB,Ian Stewart,20
-105,8,Fr,Maurice Trintignant,8
-105,17,GB,Duncan Hamilton,17
-105,18,GB,Bob Gerard,18
-105,9,USA,Harry Schell,9
-105,13,GB,Ken McAlpine,13
-105,25,GB,Tony Crook,25
-6,1,It,Giuseppe Farina,1
-6,2,Arg,Juan Manuel Fangio,2
-6,3,GB,Mike Hawthorn,2
-6,4,It,Felice Bonetto,3
-6,5,Swz,Emmanuel de Graffenried,4
-6,6,GB,Stirling Moss,4
-6,7,Bel,Jacques Swaters,4
-6,8,It It,Alberto Ascari Luigi Villoresi,4
-6,9,Ger,Hans Herrman,4
-6,10,Fr,Louis Rosier,4
-6,11,GB,Rodney Nuckey,5
-6,12,Ger,Theo Helfrich,5
-6,13,GB,Ken McAlpine,5
-6,14,Ger,Rudolf Krause,5
-6,R,It It,Luigi Villoresi Alberto Ascari,0
-6,R,GB,Alan Brown,0
-6,15,Ger,Ernst Klodwig,6
-6,16,Ger,Wolfgang Seidel,7
-6,R,Arg,Onofre Marimón,0
-6,R,Ger,Edgar Barth,0
-6,R,Bel,Johnny Claes,0
-6,R,Ger,Oswald Karch,0
-6,R,Ger,Willi Heeks,0
-6,R,Fr,Jean Behra,0
-6,R,USA,Harry Schell,0
-6,R,Th,B. Bira,0
-6,R,Ger,Theo Fitzau,0
-6,R,Ger,Kurt Adolff,0
-6,R,Ger,Karl-Günther Bechem,0
-6,R,Fr,Maurice Trintignant,0
-6,R,GB,Roy Salvadori,0
-6,R,Ger,Erwin Bauer,0
-6,R,Ger,Hans Stuck,0
-6,R,Ger,Ernst Loof,0
-106,3,It,Giuseppe Farina,3
-106,2,Arg,Juan Manuel Fangio,2
-106,4,GB,Mike Hawthorn,4
-106,7,It,Felice Bonetto,7
-106,11,Swz,Emmanuel de Graffenried,11
-106,12,GB,Stirling Moss,12
-106,19,Bel,Jacques Swaters,19
-106,1,It It,Alberto Ascari Luigi Villoresi,1
-106,14,Ger,Hans Herrman,14
-106,22,Fr,Louis Rosier,22
-106,20,GB,Rodney Nuckey,20
-106,28,Ger,Theo Helfrich,28
-106,16,GB,Ken McAlpine,16
-106,26,Ger,Rudolf Krause,26
-106,6,It It,Luigi Villoresi Alberto Ascari,6
-106,17,GB,Alan Brown,17
-106,32,Ger,Ernst Klodwig,32
-106,29,Ger,Wolfgang Seidel,29
-106,8,Arg,Onofre Marimón,8
-106,24,Ger,Edgar Barth,24
-106,25,Bel,Johnny Claes,25
-106,34,Ger,Oswald Karch,34
-106,18,Ger,Willi Heeks,18
-106,9,Fr,Jean Behra,9
-106,10,USA,Harry Schell,10
-106,15,Th,B. Bira,15
-106,21,Ger,Theo Fitzau,21
-106,27,Ger,Kurt Adolff,27
-106,30,Ger,Karl-Günther Bechem,30
-106,5,Fr,Maurice Trintignant,5
-106,13,GB,Roy Salvadori,13
-106,33,Ger,Erwin Bauer,33
-106,23,Ger,Hans Stuck,23
-106,31,Ger,Ernst Loof,31
-7,1,It,Alberto Ascari,1
-7,2,It,Giuseppe Farina,2
-7,3,GB,Mike Hawthorn,2
-7,4,Arg It,Juan Manuel Fangio Felice Bonetto,3
-7,5,Ger,Hermann Lang,4
-7,6,It,Luigi Villoresi,4
-7,7,GB,Ken Wharton,4
-7,R,Brz,Chico Landi,0
-7,8,Swz,Max de Terra,5
-7,9,Swz,Albert Scherrer,6
-7,R,Swz,Emmanuel de Graffenried,0
-7,R,Arg,Onofre Marimón,0
-7,R,Fr,Maurice Trintignant,0
-7,R,Fr,Jean Behra,0
-7,R,It Arg,Felice Bonetto Juan Manuel Fangio,0
-7,R,GB,Lance Macklin,0
-7,R,Swz,Peter Hirt,0
-7,R,Bel,Paul Frère,0
-7,R,Bel,Jacques Swaters,7
-7,R,Fr,Louis Rosier,7
-107,2,It,Alberto Ascari,2
-107,3,It,Giuseppe Farina,3
-107,7,GB,Mike Hawthorn,7
-107,1,Arg It,Juan Manuel Fangio Felice Bonetto,1
-107,11,Ger,Hermann Lang,11
-107,6,It,Luigi Villoresi,6
-107,9,GB,Ken Wharton,9
-107,20,Brz,Chico Landi,20
-107,19,Swz,Max de Terra,19
-107,18,Swz,Albert Scherrer,18
-107,8,Swz,Emmanuel de Graffenried,8
-107,5,Arg,Onofre Marimón,5
-107,4,Fr,Maurice Trintignant,4
-107,12,Fr,Jean Behra,12
-107,10,It Arg,Felice Bonetto Juan Manuel Fangio,10
-107,15,GB,Lance Macklin,15
-107,17,Swz,Peter Hirt,17
-107,16,Bel,Paul Frère,16
-107,13,Bel,Jacques Swaters,13
-107,14,Fr,Louis Rosier,14
-8,1,Arg,Juan Manuel Fangio,1
-8,2,It,Giuseppe Farina,2
-8,R,It,Alberto Ascari,3
-8,3,It,Luigi Villoresi,4
-8,4,GB,Mike Hawthorn,4
-8,5,Fr,Maurice Trintignant,4
-8,R,It,Felice Bonetto,5
-8,6,Arg,Roberto Mieres,5
-8,7,It It,Sergio Mantovani Luigi Musso,6
-8,R,Arg,Onofre Marimón,7
-8,8,It,Umberto Maglioli,8
-8,9,USA,Harry Schell,8
-8,10,Mon,Louis Chiron,9
-8,11,Th,B. Bira,9
-8,R,Swz,Emmanuel de Graffenried,0
-8,12,GB,Alan Brown,10
-8,13,GB,Stirling Moss,10
-8,14,Ger,Hans Stuck,11
-8,15,Fr,Yves Giraud-Cabantous,11
-8,16,Fr,Louis Rosier,12
-8,NC,GB,Jack Fairman,13
-8,NC,GB,Ken Wharton,13
-8,NC,GB,Ken McAlpine,13
-8,R,It,Piero Carini,0
-8,R,GB,Roy Salvadori,0
-8,R,Brz,Chico Landi,0
-8,R,Fr,Élie Bayol,0
-8,R,USA,John Fitch,0
-8,R,Bel,Johnny Claes,0
-8,R,GB,Lance Macklin,0
-108,2,Arg,Juan Manuel Fangio,2
-108,3,It,Giuseppe Farina,3
-108,1,It,Alberto Ascari,1
-108,5,It,Luigi Villoresi,5
-108,6,GB,Mike Hawthorn,6
-108,8,Fr,Maurice Trintignant,8
-108,7,It,Felice Bonetto,7
-108,16,Arg,Roberto Mieres,16
-108,12,It It,Sergio Mantovani Luigi Musso,12
-108,4,Arg,Onofre Marimón,4
-108,11,It,Umberto Maglioli,11
-108,15,USA,Harry Schell,15
-108,25,Mon,Louis Chiron,25
-108,23,Th,B. Bira,23
-108,9,Swz,Emmanuel de Graffenried,9
-108,24,GB,Alan Brown,24
-108,10,GB,Stirling Moss,10
-108,29,Ger,Hans Stuck,29
-108,28,Fr,Yves Giraud-Cabantous,28
-108,17,Fr,Louis Rosier,17
-108,22,GB,Jack Fairman,22
-108,19,GB,Ken Wharton,19
-108,18,GB,Ken McAlpine,18
-108,20,It,Piero Carini,20
-108,14,GB,Roy Salvadori,14
-108,21,Brz,Chico Landi,21
-108,13,Fr,Élie Bayol,13
-108,26,USA,John Fitch,26
-108,30,Bel,Johnny Claes,30
-108,27,GB,Lance Macklin,27
-9,1,Fr,Louis Rosier,1
-9,2,Fr,Élie Bayol,2
-9,3,GB,Peter Whitehead,2
-9,4,Arg,Roberto Mieres,3
-9,5,GB,Tom Cole,3
-9,6,Bel,Charles de Tornaco,4
-9,7,Bel,Johnny Claes,4
-9,8,GB,John Lyons,4
-9,R,USA,Harry Schell,0
-10,1,Arg,Juan Manuel Fangio,1
-10,2,GB,Ken Wharton,2
-10,3,Fr,Louis Rosier,2
-10,4,Fr,Maurice Trintignant,3
-10,5,Arg,José Froilán Gonzalez,3
-10,6,Fr,Yves Giraud Cabantous,4
-10,7,It,Giovanni di Riu,4
-10,R,GB,Duncan Hamilton,0
-10,R,It,Giuseppe Farina,0
-10,R,It,Alberto Ascari,0
-11,1,Fr,Louis Rosier,1
-11,2,Arg,José Froilán Gonzalez,2
-11,3,Fr,Maurice Trintignant,2
-11,4,Arg,Roberto Mieres,3
-11,5,GB,Peter Whitehead,3
-11,6,Bel,Johnny Claes,3
-11,7,GB,Tom Cole,3
-11,R,GB,Ken Wharton,4
-11,R,Bel,Charles de Tornaco,0
-11,R,Arg,Juan Manuel Fangio,0
-11,R,Fr,Yves Giraud Cabantous,0
-11,R,Fr,Élie Bayol,0
+Race,Pos,,Nat.,Driver,
+0,1,,It,Giuseppe Farina,1
+0,2,,GB,Mike Hawthorn,2
+0,3,,Fr,Philippe Étancelin,3
+0,4,,USA,Harry Schell,3
+0,5,,Fr,Pierre Levegh,4
+0,6,,Fr,Georges Grignard,4
+0,7,,Fr,Louis Rosier,4
+0,8,,GB,Bob Gerard,4
+0,9,,GB,John Lyons,5
+0,10,,GB,Stirling Moss,6
+0,R,,Fr,Maurice Trintignant,0
+0,R,,Bel,Johnny Claes,0
+0,R,,Fr,Jean Behra,0
+0,R,,Fr,Yves Giraud-Cabantous,0
+0,R,,Fr,Élie Bayol,0
+0,DNS,,Swz,Ottorino Volonterio,0
+100,1,,It,Giuseppe Farina,1
+100,2,,GB,Mike Hawthorn,2
+100,10,,Fr,Philippe Étancelin,10
+100,7,,USA,Harry Schell,7
+100,11,,Fr,Pierre Levegh,11
+100,9,,Fr,Georges Grignard,9
+100,4,,Fr,Louis Rosier,4
+100,14,,GB,Bob Gerard,14
+100,8,,GB,John Lyons,8
+100,12,,GB,Stirling Moss,12
+100,3,,Fr,Maurice Trintignant,3
+100,15,,Bel,Johnny Claes,15
+100,5,,Fr,Jean Behra,5
+100,13,,Fr,Yves Giraud-Cabantous,13
+100,6,,Fr,Élie Bayol,6
+100,16,,Swz,Ottorino Volonterio,16
+1,1,,It,Alberto Ascari,1
+1,2,,It,Luigi Villoresi,2
+1,3,,Arg,José Froilán Gonzalez,2
+1,4,,GB,Mike Hawthorn,2
+1,5,,It,Óscar Gálvez,2
+1,6,,Fr,Jean Behra,3
+1,7,,Fr USA,Maurice Trintignant Harry Schell,4
+1,8,,GB,John Barber,5
+1,9,,GB,Alan Brown,6
+1,R,,Fr,Robert Manzon,0
+1,R,,Arg,Juan Manuel Fangio,0
+1,R,,It,Felice Bonetto,0
+1,R,,It,Giuseppe Farina,7
+1,R,,Arg,Carlos Menditéguy,0
+1,R,,Arg,Pablos Birger,0
+1,R,,Arg,Adolfo Schewelm Cruz,0
+101,1,,It,Alberto Ascari,1
+101,3,,It,Luigi Villoresi,3
+101,5,,Arg,José Froilán Gonzalez,5
+101,6,,GB,Mike Hawthorn,6
+101,9,,It,Óscar Gálvez,9
+101,11,,Fr,Jean Behra,11
+101,7,,Fr USA,Maurice Trintignant Harry Schell,7
+101,16,,GB,John Barber,16
+101,12,,GB,Alan Brown,12
+101,8,,Fr,Robert Manzon,8
+101,2,,Arg,Juan Manuel Fangio,2
+101,15,,It,Felice Bonetto,15
+101,4,,It,Giuseppe Farina,4
+101,10,,Arg,Carlos Menditéguy,10
+101,14,,Arg,Pablos Birger,14
+101,13,,Arg,Adolfo Schewelm Cruz,13
+2,1,,It,Alberto Ascari,1
+2,2,,It,Giuseppe Farina,2
+2,3,,It Arg,Felice Bonetto José Froilán Gonzalez,3
+2,4,,GB,Mike Hawthorn,3
+2,5,,Swz,Emmanuel de Graffenried,4
+2,6,,Fr,Maurice Trintignant,5
+2,7,,Fr,Louis Rosier,6
+2,8,,GB,Peter Collins,7
+2,9,,GB,Stirling Moss,8
+2,R,,It,Luigi Villoresi,0
+2,R,,GB,Ken McAlpine,0
+2,R,,USA,Harry Schell,0
+2,NC,,Bel,Johnny Claes,9
+2,R,,Arg,Juan Manuel Fangio,0
+2,R,,Arg,Roberto Mieres,0
+2,R,,Arg,José Froilán Gonzalez,0
+2,R,,GB,Ken Wharton,0
+2,R,,GB,Roy Salvadori,0
+2,R,,GB,Lance Macklin,0
+2,DNS,,USA,Fred Wacker,0
+102,1,,It,Alberto Ascari,1
+102,3,,It,Giuseppe Farina,3
+102,13,,It Arg,Felice Bonetto José Froilán Gonzalez,13
+102,6,,GB,Mike Hawthorn,6
+102,7,,Swz,Emmanuel de Graffenried,7
+102,12,,Fr,Maurice Trintignant,12
+102,8,,Fr,Louis Rosier,8
+102,16,,GB,Peter Collins,16
+102,9,,GB,Stirling Moss,9
+102,4,,It,Luigi Villoresi,4
+102,14,,GB,Ken McAlpine,14
+102,10,,USA,Harry Schell,10
+102,17,,Bel,Johnny Claes,17
+102,2,,Arg,Juan Manuel Fangio,2
+102,19,,Arg,Roberto Mieres,19
+102,5,,Arg,José Froilán Gonzalez,5
+102,18,,GB,Ken Wharton,18
+102,11,,GB,Roy Salvadori,11
+102,15,,GB,Lance Macklin,15
+102,20,,USA,Fred Wacker,20
+3,1,,It,Alberto Ascari,1
+3,2,,It,Luigi Villoresi,2
+3,R,,Bel Arg,Johnny Claes Juan Manuel Fangio,3
+3,3,,Arg,Onofre Marimón,4
+3,4,,Swz,Emmanuel de Graffenried,4
+3,5,,Fr,Maurice Trintignant,4
+3,6,,GB,Mike Hawthorn,4
+3,7,,USA,Harry Schell,5
+3,8,,Fr,Louis Rosier,5
+3,9,,USA,Fred Wacker,6
+3,10,,Bel,Paul Frère,7
+3,11,,Bel,André Pilette,8
+3,R,,GB,Lance Macklin,0
+3,R,,It,Giuseppe Farina,0
+3,R,,Arg,Juan Manuel Fangio,0
+3,R,,Arg,José Froilán Gonzalez,0
+3,R,,Fr,Jean Behra,0
+3,R,,GB,Peter Collins,0
+3,R,,Bel,Georges Berger,0
+3,R,,Bel,Arthur Legat,0
+103,2,,It,Alberto Ascari,2
+103,5,,It,Luigi Villoresi,5
+103,10,,Bel Arg,Johnny Claes Juan Manuel Fangio,10
+103,6,,Arg,Onofre Marimón,6
+103,9,,Swz,Emmanuel de Graffenried,9
+103,8,,Fr,Maurice Trintignant,8
+103,7,,GB,Mike Hawthorn,7
+103,12,,USA,Harry Schell,12
+103,13,,Fr,Louis Rosier,13
+103,15,,USA,Fred Wacker,15
+103,11,,Bel,Paul Frère,11
+103,18,,Bel,André Pilette,18
+103,17,,GB,Lance Macklin,17
+103,4,,It,Giuseppe Farina,4
+103,1,,Arg,Juan Manuel Fangio,1
+103,3,,Arg,José Froilán Gonzalez,3
+103,14,,Fr,Jean Behra,14
+103,16,,GB,Peter Collins,16
+103,20,,Bel,Georges Berger,20
+103,19,,Bel,Arthur Legat,19
+4,1,,GB,Mike Hawthorn,1
+4,2,,Arg,Juan Manuel Fangio,2
+4,3,,Arg,José Froilán Gonzalez,2
+4,4,,It,Alberto Ascari,3
+4,5,,It,Giuseppe Farina,3
+4,6,,It,Luigi Villoresi,4
+4,7,,Swz,Emmanuel de Graffenried,5
+4,8,,Fr,Louis Rosier,6
+4,9,,Arg,Onofre Marimón,7
+4,10,,Fr,Jean Behra,7
+4,11,,GB,Bob Gerard,7
+4,12,,Bel,Johnny Claes,8
+4,13,,GB,Peter Collins,9
+4,14,,Fr,Yves Giraud-Cabantous,10
+4,15,,Mon,Louis Chiron,11
+4,R,,It,Felice Bonetto,0
+4,R,,GB,Stirling Moss,0
+4,R,,Th,B. Bira,0
+4,R,,Fr,Élie Bayol,0
+4,R,,GB,Ken Wharton,0
+4,R,,Fr,Maurice Trintignant,0
+4,R,,GB,Lance Macklin,0
+4,R,,USA,Harry Schell,0
+4,R,,Arg,Roberto Mieres,0
+4,R,,GB,Roy Salvadori,0
+104,7,,GB,Mike Hawthorn,7
+104,4,,Arg,Juan Manuel Fangio,4
+104,5,,Arg,José Froilán Gonzalez,5
+104,1,,It,Alberto Ascari,1
+104,6,,It,Giuseppe Farina,6
+104,3,,It,Luigi Villoresi,3
+104,9,,Swz,Emmanuel de Graffenried,9
+104,10,,Fr,Louis Rosier,10
+104,8,,Arg,Onofre Marimón,8
+104,22,,Fr,Jean Behra,22
+104,12,,GB,Bob Gerard,12
+104,21,,Bel,Johnny Claes,21
+104,17,,GB,Peter Collins,17
+104,18,,Fr,Yves Giraud-Cabantous,18
+104,25,,Mon,Louis Chiron,25
+104,2,,It,Felice Bonetto,2
+104,13,,GB,Stirling Moss,13
+104,11,,Th,B. Bira,11
+104,15,,Fr,Élie Bayol,15
+104,14,,GB,Ken Wharton,14
+104,23,,Fr,Maurice Trintignant,23
+104,16,,GB,Lance Macklin,16
+104,20,,USA,Harry Schell,20
+104,24,,Arg,Roberto Mieres,24
+104,19,,GB,Roy Salvadori,19
+5,1,,It,Alberto Ascari,1
+5,2,,Arg,Juan Manuel Fangio,2
+5,3,,It,Giuseppe Farina,3
+5,4,,Arg,José Froilán Gonzalez,3
+5,5,,GB,Mike Hawthorn,4
+5,6,,It,Felice Bonetto,5
+5,7,,Th,B. Bira,5
+5,8,,GB,Ken Wharton,6
+5,R,,GB,Jimmy Stewart,7
+5,9,,GB,Peter Whitehead,8
+5,10,,Fr,Louis Rosier,9
+5,R,,GB,Tony Rolt,0
+5,R,,It,Luigi Villoresi,0
+5,R,,Arg,Onofre Marimón,0
+5,R,,GB,Alan Brown,0
+5,R,,GB,Peter Collins,10
+5,R,,GB,Jack Fairman,0
+5,R,,GB,Roy Salvadori,0
+5,R,,Swz,Emmanuel de Graffenried,0
+5,R,,GB,Lance Macklin,0
+5,R,,Fr,Jean Behra,0
+5,R,,GB,Ian Stewart,0
+5,R,,Fr,Maurice Trintignant,0
+5,R,,GB,Duncan Hamilton,0
+5,R,,GB,Bob Gerard,0
+5,R,,USA,Harry Schell,0
+5,R,,GB,Ken McAlpine,0
+5,R,,GB,Tony Crook,0
+105,1,,It,Alberto Ascari,1
+105,4,,Arg,Juan Manuel Fangio,4
+105,5,,It,Giuseppe Farina,5
+105,2,,Arg,José Froilán Gonzalez,2
+105,3,,GB,Mike Hawthorn,3
+105,16,,It,Felice Bonetto,16
+105,19,,Th,B. Bira,19
+105,11,,GB,Ken Wharton,11
+105,15,,GB,Jimmy Stewart,15
+105,14,,GB,Peter Whitehead,14
+105,24,,Fr,Louis Rosier,24
+105,10,,GB,Tony Rolt,10
+105,6,,It,Luigi Villoresi,6
+105,7,,Arg,Onofre Marimón,7
+105,21,,GB,Alan Brown,21
+105,23,,GB,Peter Collins,23
+105,27,,GB,Jack Fairman,27
+105,28,,GB,Roy Salvadori,28
+105,26,,Swz,Emmanuel de Graffenried,26
+105,12,,GB,Lance Macklin,12
+105,22,,Fr,Jean Behra,22
+105,20,,GB,Ian Stewart,20
+105,8,,Fr,Maurice Trintignant,8
+105,17,,GB,Duncan Hamilton,17
+105,18,,GB,Bob Gerard,18
+105,9,,USA,Harry Schell,9
+105,13,,GB,Ken McAlpine,13
+105,25,,GB,Tony Crook,25
+6,1,,It,Giuseppe Farina,1
+6,2,,Arg,Juan Manuel Fangio,2
+6,3,,GB,Mike Hawthorn,2
+6,4,,It,Felice Bonetto,3
+6,5,,Swz,Emmanuel de Graffenried,4
+6,6,,GB,Stirling Moss,4
+6,7,,Bel,Jacques Swaters,4
+6,8,,It It,Alberto Ascari Luigi Villoresi,4
+6,9,,Ger,Hans Herrman,4
+6,10,,Fr,Louis Rosier,4
+6,11,,GB,Rodney Nuckey,5
+6,12,,Ger,Theo Helfrich,5
+6,13,,GB,Ken McAlpine,5
+6,14,,Ger,Rudolf Krause,5
+6,R,,It It,Luigi Villoresi Alberto Ascari,0
+6,R,,GB,Alan Brown,0
+6,15,,Ger,Ernst Klodwig,6
+6,16,,Ger,Wolfgang Seidel,7
+6,R,,Arg,Onofre Marimón,0
+6,R,,Ger,Edgar Barth,0
+6,R,,Bel,Johnny Claes,0
+6,R,,Ger,Oswald Karch,0
+6,R,,Ger,Willi Heeks,0
+6,R,,Fr,Jean Behra,0
+6,R,,USA,Harry Schell,0
+6,R,,Th,B. Bira,0
+6,R,,Ger,Theo Fitzau,0
+6,R,,Ger,Kurt Adolff,0
+6,R,,Ger,Karl-Günther Bechem,0
+6,R,,Fr,Maurice Trintignant,0
+6,R,,GB,Roy Salvadori,0
+6,R,,Ger,Erwin Bauer,0
+6,R,,Ger,Hans Stuck,0
+6,R,,Ger,Ernst Loof,0
+106,3,,It,Giuseppe Farina,3
+106,2,,Arg,Juan Manuel Fangio,2
+106,4,,GB,Mike Hawthorn,4
+106,7,,It,Felice Bonetto,7
+106,11,,Swz,Emmanuel de Graffenried,11
+106,12,,GB,Stirling Moss,12
+106,19,,Bel,Jacques Swaters,19
+106,1,,It It,Alberto Ascari Luigi Villoresi,1
+106,14,,Ger,Hans Herrman,14
+106,22,,Fr,Louis Rosier,22
+106,20,,GB,Rodney Nuckey,20
+106,28,,Ger,Theo Helfrich,28
+106,16,,GB,Ken McAlpine,16
+106,26,,Ger,Rudolf Krause,26
+106,6,,It It,Luigi Villoresi Alberto Ascari,6
+106,17,,GB,Alan Brown,17
+106,32,,Ger,Ernst Klodwig,32
+106,29,,Ger,Wolfgang Seidel,29
+106,8,,Arg,Onofre Marimón,8
+106,24,,Ger,Edgar Barth,24
+106,25,,Bel,Johnny Claes,25
+106,34,,Ger,Oswald Karch,34
+106,18,,Ger,Willi Heeks,18
+106,9,,Fr,Jean Behra,9
+106,10,,USA,Harry Schell,10
+106,15,,Th,B. Bira,15
+106,21,,Ger,Theo Fitzau,21
+106,27,,Ger,Kurt Adolff,27
+106,30,,Ger,Karl-Günther Bechem,30
+106,5,,Fr,Maurice Trintignant,5
+106,13,,GB,Roy Salvadori,13
+106,33,,Ger,Erwin Bauer,33
+106,23,,Ger,Hans Stuck,23
+106,31,,Ger,Ernst Loof,31
+7,1,,It,Alberto Ascari,1
+7,2,,It,Giuseppe Farina,2
+7,3,,GB,Mike Hawthorn,2
+7,4,,Arg It,Juan Manuel Fangio Felice Bonetto,3
+7,5,,Ger,Hermann Lang,4
+7,6,,It,Luigi Villoresi,4
+7,7,,GB,Ken Wharton,4
+7,R,,Brz,Chico Landi,0
+7,8,,Swz,Max de Terra,5
+7,9,,Swz,Albert Scherrer,6
+7,R,,Swz,Emmanuel de Graffenried,0
+7,R,,Arg,Onofre Marimón,0
+7,R,,Fr,Maurice Trintignant,0
+7,R,,Fr,Jean Behra,0
+7,R,,It Arg,Felice Bonetto Juan Manuel Fangio,0
+7,R,,GB,Lance Macklin,0
+7,R,,Swz,Peter Hirt,0
+7,R,,Bel,Paul Frère,0
+7,R,,Bel,Jacques Swaters,7
+7,R,,Fr,Louis Rosier,7
+107,2,,It,Alberto Ascari,2
+107,3,,It,Giuseppe Farina,3
+107,7,,GB,Mike Hawthorn,7
+107,1,,Arg It,Juan Manuel Fangio Felice Bonetto,1
+107,11,,Ger,Hermann Lang,11
+107,6,,It,Luigi Villoresi,6
+107,9,,GB,Ken Wharton,9
+107,20,,Brz,Chico Landi,20
+107,19,,Swz,Max de Terra,19
+107,18,,Swz,Albert Scherrer,18
+107,8,,Swz,Emmanuel de Graffenried,8
+107,5,,Arg,Onofre Marimón,5
+107,4,,Fr,Maurice Trintignant,4
+107,12,,Fr,Jean Behra,12
+107,10,,It Arg,Felice Bonetto Juan Manuel Fangio,10
+107,15,,GB,Lance Macklin,15
+107,17,,Swz,Peter Hirt,17
+107,16,,Bel,Paul Frère,16
+107,13,,Bel,Jacques Swaters,13
+107,14,,Fr,Louis Rosier,14
+8,1,,Arg,Juan Manuel Fangio,1
+8,2,,It,Giuseppe Farina,2
+8,R,,It,Alberto Ascari,3
+8,3,,It,Luigi Villoresi,4
+8,4,,GB,Mike Hawthorn,4
+8,5,,Fr,Maurice Trintignant,4
+8,R,,It,Felice Bonetto,5
+8,6,,Arg,Roberto Mieres,5
+8,7,,It It,Sergio Mantovani Luigi Musso,6
+8,R,,Arg,Onofre Marimón,7
+8,8,,It,Umberto Maglioli,8
+8,9,,USA,Harry Schell,8
+8,10,,Mon,Louis Chiron,9
+8,11,,Th,B. Bira,9
+8,R,,Swz,Emmanuel de Graffenried,0
+8,12,,GB,Alan Brown,10
+8,13,,GB,Stirling Moss,10
+8,14,,Ger,Hans Stuck,11
+8,15,,Fr,Yves Giraud-Cabantous,11
+8,16,,Fr,Louis Rosier,12
+8,NC,,GB,Jack Fairman,13
+8,NC,,GB,Ken Wharton,13
+8,NC,,GB,Ken McAlpine,13
+8,R,,It,Piero Carini,0
+8,R,,GB,Roy Salvadori,0
+8,R,,Brz,Chico Landi,0
+8,R,,Fr,Élie Bayol,0
+8,R,,USA,John Fitch,0
+8,R,,Bel,Johnny Claes,0
+8,R,,GB,Lance Macklin,0
+108,2,,Arg,Juan Manuel Fangio,2
+108,3,,It,Giuseppe Farina,3
+108,1,,It,Alberto Ascari,1
+108,5,,It,Luigi Villoresi,5
+108,6,,GB,Mike Hawthorn,6
+108,8,,Fr,Maurice Trintignant,8
+108,7,,It,Felice Bonetto,7
+108,16,,Arg,Roberto Mieres,16
+108,12,,It It,Sergio Mantovani Luigi Musso,12
+108,4,,Arg,Onofre Marimón,4
+108,11,,It,Umberto Maglioli,11
+108,15,,USA,Harry Schell,15
+108,25,,Mon,Louis Chiron,25
+108,23,,Th,B. Bira,23
+108,9,,Swz,Emmanuel de Graffenried,9
+108,24,,GB,Alan Brown,24
+108,10,,GB,Stirling Moss,10
+108,29,,Ger,Hans Stuck,29
+108,28,,Fr,Yves Giraud-Cabantous,28
+108,17,,Fr,Louis Rosier,17
+108,22,,GB,Jack Fairman,22
+108,19,,GB,Ken Wharton,19
+108,18,,GB,Ken McAlpine,18
+108,20,,It,Piero Carini,20
+108,14,,GB,Roy Salvadori,14
+108,21,,Brz,Chico Landi,21
+108,13,,Fr,Élie Bayol,13
+108,26,,USA,John Fitch,26
+108,30,,Bel,Johnny Claes,30
+108,27,,GB,Lance Macklin,27
+9,1,,Fr,Louis Rosier,1
+9,2,,Fr,Élie Bayol,2
+9,3,,GB,Peter Whitehead,2
+9,4,,Arg,Roberto Mieres,3
+9,5,,GB,Tom Cole,3
+9,6,,Bel,Charles de Tornaco,4
+9,7,,Bel,Johnny Claes,4
+9,8,,GB,John Lyons,4
+9,R,,USA,Harry Schell,0
+10,1,,Arg,Juan Manuel Fangio,1
+10,2,,GB,Ken Wharton,2
+10,3,,Fr,Louis Rosier,2
+10,4,,Fr,Maurice Trintignant,3
+10,5,,Arg,José Froilán Gonzalez,3
+10,6,,Fr,Yves Giraud Cabantous,4
+10,7,,It,Giovanni di Riu,4
+10,R,,GB,Duncan Hamilton,0
+10,R,,It,Giuseppe Farina,0
+10,R,,It,Alberto Ascari,0
+51,1,8,Emmanuel,de Graffenried,1
+51,2,4,Louis,Chiron,2
+51,3,16,Rodney,Nuckey,3
+51,4,14,Eric,Brandon,3
+51,5,6,Peter,Whitehead,3
+51,NC,30,Charles,de Tornaco,4
+51,NC,18,Giovanni,de Riu,4
+51,NC,22,Mario,Raffaeli,4
+51,R,2,Giuseppe,Farina,0
+51,R,26,Mike,Hawthorn/Alberto Ascari,0
+51,R,24,Alberto,Ascari,0
+51,R,28,Sergio,Mantovani,0
+51,R,10,Tom,Cole,0
+51,R,12,Luigi,Villoresi,0
+151,4,8,Emmanuel,de Graffenried,4
+151,7,4,Louis,Chiron,7
+151,10,16,Rodney,Nuckey,10
+151,9,14,Eric,Brandon,9
+151,8,6,Peter,Whitehead,8
+151,14,30,Charles,de Tornaco,14
+151,12,18,Giovanni,de Riu,12
+151,13,22,Mario,Raffaeli,13
+151,2,2,Giuseppe,Farina,2
+151,5,26,Mike,Hawthorn,5
+151,1,24,Alberto,Ascari,1
+151,11,28,Sergio,Mantovani,11
+151,6,10,Tom,Cole,6
+151,3,12,Luigi,Villoresi,3
+52,1,6,Alberto,Ascari,1
+52,2,10,Mike,Hawthorn,2
+52,3,22,Harry,Schell,3
+52,4,28,Elie,Bayol,3
+52,5,12,Louis,Rosier,4
+52,6,26,Louis,Chiron,5
+52,7,32,Nello,Pagani,6
+52,8,14,Roger,Laurent,7
+52,NC,30,Eugene,Martin,8
+52,R,20,Maurice,Trintignant,9
+52,R,16,Johnny,Claes,10
+52,R,24,Andre,Simon,10
+52,R,8,Giuseppe,Farina,10
+52,R,18,Jean,Behra,10
+152,1,6,Alberto,Ascari,1
+152,3,10,Mike,Hawthorn,3
+152,11,22,Harry,Schell,11
+152,7,28,Elie,Bayol,7
+152,10,12,Louis,Rosier,10
+152,6,26,Louis,Chiron,6
+152,13,32,Nello,Pagani,13
+152,12,14,Roger,Laurent,12
+152,14,30,Eugene,Martin,14
+152,5,20,Maurice,Trintignant,5
+152,8,16,Johnny,Claes,8
+152,9,24,Andre,Simon,9
+152,2,8,Giuseppe,Farina,2
+152,4,18,Jean,Behra,4
+53,1,5,Emmanuel,de Graffenried,1
+53,2,26,Roy,Salvadori,2
+53,3,8,Tony,Rolt,2
+53,4,25,Kenneth,McAlpine,3
+53,5,15,Peter,Whitehead,3
+53,6,30,Ken,Wharton,4
+53,7,6,Stirling,Moss,4
+53,8,16,Bob,Gerard,4
+53,9,21,Bobbie,Baird,4
+53,10,27,John,Coombs,4
+53,11,34,James,Scott-Douglas,5
+53,12,35,Jimmy,Stewart,5
+53,13,41,John,Sparrowe,5
+53,14,43,Leslie,Marr,5
+53,15,9,Paul,Emery,6
+53,R,28,Eric,Brandon,0
+53,R,39,Frank,Curtis,0
+53,R,37,Archie,Bryde,0
+53,R,40,Mike,Christie,0
+153,2,5,Emmanuel,de Graffenried,2
+153,1,26,Roy,Salvadori,1
+153,4,8,Tony,Rolt,4
+153,6,25,Kenneth,McAlpine,6
+153,7,15,Peter,Whitehead,7
+153,9,30,Ken,Wharton,9
+153,18,6,Stirling,Moss,18
+153,5,16,Bob,Gerard,5
+153,3,21,Bobbie,Baird,3
+153,8,27,John,Coombs,8
+153,11,34,James,Scott-Douglas,11
+153,14,35,Jimmy,Stewart,14
+153,16,41,John,Sparrowe,16
+153,15,43,Leslie,Marr,15
+153,19,9,Paul,Emery,19
+153,20,28,Eric,Brandon,20
+153,17,39,Frank,Curtis,17
+153,13,37,Archie,Bryde,13
+153,12,40,Mike,Christie,12
+54,1,4,Alberto,Ascari,1
+54,2,8,Luigi,Villoresi,2
+54,3,24,Juan,Manuel,3
+54,4,22,Harry,Schell,4
+54,5,32,Elie,Bayol,5
+54,6,16,Johnny,Claes,6
+54,7,18,Roberto,Mieres,7
+54,NC,12,B.Bira,,8
+54,R,28,Emmanuel,de Graffenried,0
+54,R,10,Lance,Macklin,0
+54,R,2,Louis,Rosier,0
+54,DQ,30,Louis,Chiron,9
+54,R,20,Maurice,Trintignant,0
+54,R,6,Giuseppe,Farina,0
+54,R,14,Yves,Giraud-Cabantous,0
+54,R,26,Peter,Whitehead,0
+154,2,4,Alberto,Ascari,2
+154,1,8,Luigi,Villoresi,1
+154,8,24,Juan,Manuel Fangio,8
+154,15,22,Harry,Schell,15
+154,6,32,Elie,Bayol,6
+154,16,16,Johnny,Claes,16
+154,13,18,Roberto,Mieres,13
+154,14,12,B.Bira,,14
+154,9,28,Emmanuel,de Graffenried,9
+154,12,10,Lance,Macklin,12
+154,7,2,Louis,Rosier,7
+154,5,30,Louis,Chiron,5
+154,3,20,Maurice,Trintignant,3
+154,4,6,Giuseppe,Farina,4
+154,11,14,Yves,Giraud-Cabantous,11
+154,10,26,Peter,Whitehead,10
+155,1,29,Emmanuel,de Graffenried,1
+155,2,7,Stirling,Moss,2
+155,3,47,B.Bira,Maserati,2
+155,4,5,Tony,Rolt,3
+155,5,17,Kenneth,McAlpine,3
+155,6,15,Louis,Rosier,4
+155,7,21,Duncan,Hamilton,4
+155,8,35,Bob,Gerard,4
+155,8,11,James,Scott-Douglas,4
+155,10,41,Eric,Brandon,5
+155,11,45,Jacques,Swaters,5
+155,12,19,Johnny,Claes,5
+155,13,37,Horace,Richards,5
+155,14,25,Frank,Curtis,5
+155,15,9,Tom,Cole,5
+155,NC,43,Geoff,Richardson,6
+155,R,1,Roberto,Mieres,0
+155,R,3,Hans,Stuck,0
+155,R,31,Joe,Kelly,7
+155,R,33,Bill,Aston,0
+205,1,12,Mike,Hawthorn,1
+205,2,36,Ken,Wharton,2
+205,3,18,Roy,Salvadori,2
+205,4,10,Peter,Whitehead,3
+205,5,16,Louis,Chiron,3
+205,6,28,Bobbie,Baird,4
+205,7,4,Harry,Schell,4
+205,8,24,Peter,Collins,4
+205,9,2,Maurice,Trintignant,5
+205,10,22,Lance,Macklin,5
+205,11,14,Ninian,Sanderson,5
+205,12,32,Archie,Bryde,5
+205,13,44,Gerry,Dunham,5
+205,14,42,John,Webb,6
+205,R,30,Leslie,Marr,0
+205,R,20,John,Coombs,0
+55,1,12,Mike,Hawthorn,1
+55,2,18,Roy,Salvadori,2
+55,5,3,Tony,Rolt,2
+55,4,47,B.Bira,Maserati,3
+55,5,36,Ken,Wharton,3
+55,6,35,Bob,Gerard,4
+55,7,17,Kenneth,McAlpine,5
+55,8,10,Peter,Whitehead,5
+55,9,7,Stirling,Moss,5
+55,10,15,Louis,Rosier,5
+55,11,24,Peter,Collins,5
+55,12,21,Duncan,Hamilton,5
+55,13,28,Bobbie,Baird,5
+55,14,14,Ninian,Sanderson,6
+55,15,19,Johnny,Claes,6
+55,16,45,Jacques,Swaters,6
+55,17,11,Ian,Stewart,7
+55,18,41,Eric,Brandon,7
+55,19,42,John,Webb,7
+55,20,25,Frank,Curtis,8
+55,21,44,Gerry,Dunham,8
+55,R,32,Archie,Bryde,0
+55,R,29,Emmanuel,de Graffenried,9
+55,R,16,Louis,Chiron,0
+55,R,2,Maurice,Trintignant,0
+55,R,22,Lance,Macklin,0
+55,R,37,Horace,Richards,0
+56,1,,Giuseppe,Farina,1
+56,2,,Juan,Manuel Fangio,2
+56,3,,Jose,Froilan Gonzalez,2
+56,4,,Luigi,Villoresi,3
+56,5,,Alberto,Ascari,3
+56,NC,,Raffaele,Argenziano,4
+56,R,,Mario,d'Apuzzio,0
+56,R,,Giuseppe,Ruggiero,0
+156,1,,Giuseppe,Farina,1
+156,3,,Juan,Manuel Fangio,3
+156,4,,Jose,Froilan Gonzalez,4
+156,5,,Luigi,Villoresi,5
+156,2,,Alberto,Ascari,2
+156,6,,Raffaele,Argenziano,6
+156,7,,Mario,d'Apuzzio,7
+156,8,,Giuseppe,Ruggiero,8
+157,1,28,Duncan,Hamilton,1
+157,2,32,Stirling,Moss,2
+157,3,7,Jimmy,Somervail,2
+157,4,18,Jock,Lawrence,3
+157,5,30,John,Lyons,3
+157,6,34,Geoff,Richardson,3
+157,7,16,Gerry,Dunham,3
+157,8,2,Joe,Kelly,5
+157,9,35,Horace,Richards,5
+157,10,24,Ottorino,Volonterio,5
+157,R,8,Archie,Bryde,0
+157,R,33,Dick,Odlum,0
+207,1,1,Mike,Hawthorn,1
+207,2,39,Ken,Wharton,2
+207,3,36,Bobbie,Baird,2
+207,4,4,Peter,Whitehead,3
+207,5,14,Louis,Chiron,3
+207,6,9,Roy,Salvadori,3
+207,7,17,James,Scott-Douglas,3
+207,8,5,Graham,Whitehead,3
+207,9,37,Torrie,Large,4
+207,10,10,Kenneth,McAlpine,4
+207,R,12,Jacques,Swaters,0
+207,R,6,B.Bira,,0
+207,R,26,Peter,Collins,0
+207,R,27,Lance,Macklin,5
+207,R,25,Emmanuel,de Graffenried,0
+57,1,1,Mike,Hawthorn,1
+57,2,39,Ken,Wharton,2
+57,3,36,Bobbie,Baird,2
+57,4,4,Peter,Whitehead,3
+57,5,14,Louis,Chiron,3
+57,6,28,Duncan,Hamilton,4
+57,7,5,Graham,Whitehead,4
+57,8,10,Kenneth,McAlpine,4
+57,9,18,Jock,Lawrence,4
+57,10,34,Geoff,Richardson,4
+57,11,7,Jimmy,Somervail,5
+57,12,17,James,Scott-Douglas,5
+57,13,37,Torrie,Large,5
+57,14,35,Horace,Richards,6
+57,R,9,Roy,Salvadori,0
+57,R,16,Gerry,Dunham,0
+57,R,2,Joe,Kelly,0
+58,1,2,Maurice,Trintignant,1
+58,2,34,Roger,Laurent,2
+58,3,4,Fred,Wacker,2
+58,4,8,Hans,Stuck,3
+58,5,26,Georges,Berger,4
+58,NC,32,Johnny,Claes,5
+58,NC,38,Roger,Meunier,5
+58,NC,12,Paul,Delabarre,5
+58,NC,22,Arthur,Legat,6
+58,NC,10,Ludwig,Fischer,6
+58,R,36,Henri,Oreiller,7
+58,R,30,Marcel,Masuy,0
+58,R,16,Serge,Nersessian,0
+58,R,23,Willi,Heeks,0
+58,R,1,B.Bira,,7
+58,R,24,Ernest,Loof,0
+58,R,28,Camille,Chard'Homme,0
+58,R,14,Georges,Mulnard,0
+58,R,6,Jacques,Pollet,0
+58,R,18,Rodney,Nuckey,0
+159,1,11,Tony,Rolt,1
+159,2,19,Ken,Wharton,2
+159,3,5,Lance,Macklin,2
+159,4,7,Stirling,Moss,3
+159,5,25,Bill,Aston,3
+159,6,9,Torrie,Large,4
+159,R,21,Archie,Bryde,0
+209,1,12,Peter,Whitehead,1
+209,2,4,Peter,Collins,2
+209,3,12,Graham,Whitehead,2
+209,4,6,Jack,Fairman,3
+209,5,18,Leslie,Marr,3
+209,NC,16,John,Barber,4
+209,R,8,Bobbie,Baird,5
+209,R,14,Tony,Crook,0
+209,R,56,Donald,Bennett,0
+209,R,17,Alan,Brown,0
+59,1,11,Tony,Rolt,1
+59,2,19,Ken,Wharton,2
+59,3,10,Peter,Whitehead,2
+59,4,5,Lance,Macklin,3
+59,5,7,Stirling,Moss,3
+59,6,12,Graham,Whitehead,4
+59,7,4,Peter,Collins,4
+59,8,25,Bill,Aston,4
+59,9,6,Jack,Fairman,4
+59,10,9,Torrie,Large,5
+59,R,18,Leslie,Marr,6
+60,1,17,Emmanuel,de Graffenried,1
+60,2,12,Paul,Frere,2
+60,3,11,Peter,Collins,2
+60,4,34,Kurt,Adolff,3
+60,5,35,Edgar,Barth,3
+60,6,8,Stirling,Moss,4
+60,7,24,Theo,Helfrich,4
+60,8,22,Wolfgang,Seidel,4
+60,9,9,Fred,Wacker,4
+60,10,33,Hans,Blees,4
+60,11,19,B.Bira,,5
+60,12,32,Adolff,Lang,6
+60,R,10,Lance,Macklin,0
+60,R,14,Rodney,Nuckey,0
+60,R,20,Paul,Pietsch,0
+60,R,18,Francisco,Landi,0
+60,R,21,Hans,Stuck,0
+60,R,30,Hans,Klenk,0
+60,R,31,Hans,Herrmann,0
+60,R,23,Willi,Heeks,0
+60,R,29,Ernst,Lautenschlager,0
+11,1,5,Louis,Rosier,1
+11,4,6,Roberto,Mieres,2
+11,5,10,Peter,Whitehead,2
+11,6,14,Johnny,Claes,2
+11,7,12,Tom,Cole,3
+11,R,16,Charles,de Tornaco,0
+11,R,8,Elie,Bayol,0
+111,2,11,Froilan,Gonzalez,1
+111,3,15,Maurice,Trintignant,2
+111,R,9,Ken,Wharton,3
+111,R,7,Juan,Manuel Fangio,0
+111,R,17,Yves,Giraud-Cabantous,0
+61,1,1,Tony,Rolt,1
+61,2,8,Roy,Salvadori,2
+61,3,14,Les,Leston,2
+61,4,11,Lance,Macklin,2
+61,5,7,Peter,Whitehead,2
+61,6,12,Duncan,Hamilton,2
+61,7,5,Bill,Aston,3
+61,8,6,Austen,Nurse,3
+61,9,4,John,Webb,3
+61,10,3,Paul,Emery,3
+61,R,16,Donald,Bennett,0
+61,R,9,Kenneth,McAlpine,0
+161,1,1,Tony,Rolt,1
+161,2,8,Roy,Salvadori,2
+161,3,14,Les,Leston,3
+161,4,11,Lance,Macklin,4
+161,5,7,Peter,Whitehead,5
+161,7,12,Duncan,Hamilton,7
+161,8,5,Bill,Aston,8
+161,9,6,Austen,Nurse,9
+161,12,4,John,Webb,12
+161,10,3,Paul,Emery,10
+161,11,16,Donald,Bennett,11
+161,6,9,Kenneth,McAlpine,6
+62,1,18,Jacques,Swaters,1
+62,2,30,Hans,Klenk,2
+62,3,24,Theo,Helfrich,2
+62,4,21,Hans,Herrmann,3
+62,5,16,Rodney,Nuckey,3
+62,6,10,Johnny,Claes,3
+62,7,31,Ernst,Klodwig,3
+62,NC,29,Ernst,Lautenschlager,5
+62,NC,15,Maurice,Monnier,5
+62,R,34,Kurt,Adolff,0
+62,R,11,Alan,Brown,6
+62,R,17,B.Bira,,0
+62,R,19,Guido,Mancini,0
+62,R,20,Giovanni,de Riu,0
+62,R,22,Wolfgang,Seidel,0
+62,R,23,Willi,Heeks,0
+62,R,25,Clemens,Sandgathe,0
+62,R,26,Oswald,Karch,0
+62,R,28,Hans,Blees,0
+62,R,32,Gunther,Bechem,0
+62,R,35,Edgar,Barth,0
+62,R,37,Kurt,Straubel,0
+62,R,38,Heinz,Melkus,0
+62,R,39,Karl,Weber,0
+62,R,40,Artur,Rosenhammer,0
+63,1,12,Elie,Bayol,1
+63,2,8,Louis,Rosier,2
+63,3,14,Lance,Macklin,3
+63,4,24,John,Fitch,4
+63,NC,18,Yves,Giraud-Cabantous,5
+63,R,6,Harry,Schell,0
+63,R,4,Jean,Behra,0
+63,R,16,Peter,Collins,0
+63,R,20,Emmanuel,de Graffenried,0
+63,R,22,Onofre,Marimon,6
+63,R,2,Maurice,Trintignant,0
+163,5,12,Elie,Bayol,5
+163,7,8,Louis,Rosier,7
+163,8,14,Lance,Macklin,8
+163,10,24,John,Fitch,10
+163,11,18,Yves,Giraud-Cabantous,11
+163,1,6,Harry,Schell,1
+163,6,4,Jean,Behra,6
+163,9,16,Peter,Collins,9
+163,4,20,Emmanuel,de Graffenried,4
+163,2,22,Onofre,Marimon,2
+163,3,2,Maurice,Trintignant,3
+64,1,8,Louis,Rosier,1
+64,2,10,Louis,Chiron,2
+64,3,18,Stirling,Moss,3
+64,4,16,Yves,Giraud-Cabantous,4
+64,NC,2,Jean,Behra,5
+64,NC,12,Peter,Collins,5
+64,NC,14,Lance,Macklin,6
+64,NC,4,Maurice,Trintignant,7
+64,R,6,Harry,Schell,0
+64,R,20,Elie,Bayol,0
+64,R,22,Johnny,Claes,0
+64,R,24,Andre,Pilette,0
+165,1,36,Maurice,Trintignant,1
+165,2,40,Jean,Behra,2
+165,3,12,Yves,Giraud-Cabantous,2
+165,4,10,Lance,Macklin,3
+165,5,28,Yvon,Carlus,4
+165,6,20,René,Duval,5
+165,R,6,Emmanuel,de Graffenried,0
+165,R,14,Charles,de Tornaco,0
+215,1,34,Harry,Schell,1
+215,2,2,Louis,Rosier,2
+215,3,4,Elie,Bayol,2
+215,4,24,Ken,Wharton,3
+215,5,8,John,Heath,4
+215,6,16,Marcel,Balsa,4
+215,7,22,Serge,Nersessian,4
+215,8,32,Andre,Ribaut,5
+265,1,14,Charles,de Tornaco,1
+265,2,8,John,Heath,2
+265,3,20,René,Duval,2
+265,4,32,Andre,Ribaut,3
+265,5,28,Yvon,Carlus,3
+265,NC,22,Serge,Nersessian,4
+265,NC,16,Marcel,Balsa,4
+65,1,36,Maurice,Trintignant,1
+65,2,34,Harry,Schell,2
+65,3,40,Jean,Behra,2
+65,4,2,Louis,Rosier,3
+65,5,14,Charles,de Tornaco,3
+65,6,24,Ken,Wharton,4
+65,7,12,Yves,Giraud-Cabantous,5
+65,R,8,John,Heath,0
+65,R,10,Lance,Macklin,0
+65,R,4,Elie,Bayol,0
