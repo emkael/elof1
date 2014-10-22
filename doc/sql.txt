@@ -1,0 +1,5 @@
+Useful queries:
+
+SELECT * FROM `rankings` JOIN drivers ON rankings._driver = drivers.id WHERE ranking >= (SELECT MAX(r.ranking) FROM rankings r WHERE r.rank_date <= rankings.rank_date) ORDER BY rank_date ASC
+
+ - selects top rating progression
