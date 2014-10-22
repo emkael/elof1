@@ -25,3 +25,5 @@ Specific rules regarding Elo implementation for this application's purposes:
 Other than that, standard Elo rating conventions apply:
  * drivers start with identical initial rating
  * duels between high-ranked drivers change their rankings by fewer points than duels between low-ranked drivers
+
+All calculation is rounded to 2 decimal places.
