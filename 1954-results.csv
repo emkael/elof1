@@ -1,0 +1,624 @@
+Time/Retirement,Race,Grid,Nat.,Car,Laps,Driver,Pos
+11m 18.8s,0,,GB,Ferrari,10,Reg Parnell,1
++ 8.0s,0,,GB,Maserati,10,Roy Salvadori,2
++ 28.0s,0,,GB,Cooper-Bristol,10,Horace Gould,3
+?,0,,GB,Cooper-Bristol,10,Keith Hall,4
+?,0,,GB,Emeryson-Alta,10,Paul Emery,5
+?,0,,GB,DHS-Alvis,10,Gerry Dunham,6
+?,0,,GB,HAR-Riley,10,Horace Richards,7
+11m 47.4s,1,,GB,Connaught-Lea Francis,10,Tony Rolt,1
++ 17.6s,1,,GB,Cooper-Bristol,10,Tony Crook,2
++ 26.4s,1,,GB,Turner-Lea Francis,10,Jack Fairman,3
+?,1,,GB,HWM-Alta,10,Ted Whiteaway,4
+?,1,,GB,RRA-Alta,10,Geoff Richardson,5
+?,1,,GB,Rover,10,Oliver Simpson,6
++ 1 lap,1,,GB,Cooper-JAP,9,Ron Searles,7
+11m 10.8s,2,1,GB,Ferrari,10,Reg Parnell,1
++ 3.2s,2,2,GB,Maserati,10,Roy Salvadori,2
++ 29.0s,2,4,GB,Connaught-Lea Francis,10,Tony Rolt,3
++ 37.0s,2,3,GB,Cooper-Bristol,10,Horace Gould,4
++ 37.0s,2,5,GB,Cooper-Bristol,10,Keith Hall,5
+?,2,8,GB,HWM-Alta,10,Ted Whiteaway,6
+?,2,7,GB,Cooper-Bristol,10,Tony Crook,7
+?,2,11,GB,Turner-Lea Francis,10,Jack Fairman,8
+?,2,6,GB,Emeryson-Alta,10,Paul Emery,9
+?,2,10,GB,RRA-Alta,?,Geoff Richardson,R
+?,2,9,GB,Alvis,-,Gerry Dunham,DNS
+?,2,12,GB,Rover,-,Oliver Simpson,DNS
+Did Not Start Final,2,-,GB,HAR-Riley,-,Horace Richards,DNS
+Did Not Start Final,2,-,GB,Cooper-JAP,-,Ron Searles,DNS
+8m 12.3s,3,,GB,Ferrari,5,Reg Parnell,1
++ 1.5s,3,,GB,Maserati,5,Roy Salvadori,2
++ 26.5s,3,,GB,Cooper-Bristol,5,Jimmy Somervail,3
++ 49.1s,3,,GB,Cooper-Bristol,5,Jock Lawrence,4
+?,3,,GB,Connaught-Lea Francis,5,Michael Young,5
+?,3,,GB,DHS-Rover,5,Gerry Dunham,6
+?,3,,GB,Emerson-Alta,5,Paul Emery,7
+?,3,,GB,Turner-Lea Francis,5,John Webb,8
+?,3,,GB,HWM-Alta,5,Ted Whiteaway,9
+Retirement,3,,GB,Cooper-JAP,?,Les Leston,R
+Did Not Arrive,3,,GB,Alta-Bristol,-,Albert Wake,DNA
+Did Not Arrive,3,,GB,Connaught-Lea Francis,-,Leslie Brooke,DNA
+Did Not Arrive,3,,GB,Cooper-Bristol,-,Eric Brandon,DNA
+Did Not Arrive,3,,GB,Cooper-Bristol,-,Rodney Nuckey,DNA
+29m 54.9s,4,,GB,Connaught-Lea Francis,20,John Riseley-Pritchard,1
+?,4,,GB,Cooper-Bristol,?,Jack Walton,2
+?,4,,GB,HW-Alta,?,Anthony Brooke,3
+?,4,,GB,Cooper-Bristol,?,Tom Kyffin,4
+?,4,,GB,Connaught-Lea Francis,?,Charles Boulton,R
+Engine,4,,GB,Kieft-Bristol,?,Horace Gould,R
+Accident,4,,GB,Connaught-Lea Francis,?,Leslie Marr,R
+Did Not Arrive,4,,GB,Cooper-Bristol,-,Dick Gibson,DNA
+Did Not Arrive,4,,GB,Cooper-Bristol,-,David Watts,DNA
+Did Not Arrive,4,,GB,Frazer Nash-BMW,-,R.E. Dixon,DNA
+35m 49.0s,5,,GB,Maserati,17,Stirling Moss,1
++ 14.4s,5,,GB,Vanwall,17,Mike Hawthorn,2
++ 15.4s,5,,USA,Maserati,17,Harry Schell,3
++ 17.8s,5,,It,Maserati,17,Sergio Mantovani,4
++ 1m 30.6s,5,,Bel,Gordini,17,André Pilette,5
++ 2m 06.2s,5,,Fr,Maserati,17,Louis Rosier,6
+?,5,,GB,Maserati,17,Roy Salvadori,7
++ 1 lap,5,,GB,Cooper-Bristol,16,Bob Gerard,8
++ 1 lap,5,,GB,Connaught-Lea Francis,16,John Riseley-Pritchard,9
++ 1 lap,5,,GB,Connaught-Lea Francis,16,Don Beauman,10
++ 1 lap,5,,GB,Cooper-Bristol,16,Horace Gould,11
++ 2 laps,5,,GB,Cooper-Bristol,15,Jock Lawrence,12
++ 2 laps/clutch,5,,Fr,Gordini,15,Jean Behra,13
++ 3 laps/gearbox,5,,GB,Ferrari,14,Reg Parnell,14
++ 3 laps,5,,GB,Emeryson-Alta,14,Paul Emery,15
+Oil pipe,5,,GB,Connaught-Lea Francis,9,Bill Whitehouse,R
+Mechanical,5,,GB,Connaught-Lea Francis,8,Leslie Thorne,R
+Oil pressure,5,,GB,Cooper-Bristol,8,Keith Hall,R
+Ignition,5,,GB,Connaught-Lea Francis,1,Charles Boulton,R
+Did Not Arrive,5,,GB,Maserati,-,Ken Wharton,DNA
+Did Not Arrive,5,,GB,Turner-Lea Francis,-,Jack Fairman,DNA
+Did Not Arrive,5,,GB,Connaught-Lea Francis,-,Michael Young,DNA
+Did Not Arrive,5,,GB,Cooper-Alta,-,Alan Brown,DNA
+Did Not Arrive,5,,GB,HWM-Alta,-,Ted Whiteaway,DNA
+2h 19m 59.8s,6,3,Ger,Mercedes,60,Karl Kling,1
++ 0.5s,6,1,Arg,Mercedes,60,Juan Manuel Fangio,2
++ 0.9s,6,2,Ger,Mercedes,60,Hans Herrmann,3
++ 3 laps,6,7,Bel,Gordini,57,André Pilette,4
++ 4 laps,6,5,Bel,Ferrari,56,Jacques Swaters,5
++ 5 laps,6,9,USA,Gordini,55,Fred Wacker,6
++ 8 laps/steering,6,10,Ger,Klenk-BMW,52,Helmut Neidermayr,7
++ 10 laps,6,11,USA,Maserati,50,Harry Schell,8
+Engine,6,4,Fr,Gordini,14,Jean Behra,R
+Driveshaft,6,6,Fr,Maserati,0,Louis Rosier,R
+Did Not Start,6,8,Fr,Ferrari,-,Robert Manzon,DNS
+Did Not Arrive,6,-,GB,Maserati,-,Stirling Moss,DNA
+Did Not Arrive,6,-,It,Maserati,-,Sergio Mantovani,DNA
+Did Not Arrive,6,-,Ger,Greifzu-BMW,-,Rudolf Krause,DNA
+28m 57.8s,7,6,GB,Lotus-Lea Francis,20,John Coombs,1
+?,7,2,GB,Cooper-Bristol,20,Tom Kyffin,2
+?,7,3,GB,Cooper-Bristol,20,Dick Gibson,3
++ 1 lap,7,4,GB,Cooper-Bristol,19,Gordon Rolls,4
+Oil pressure,7,1,GB,Cooper-Bristol,17,Rodney Nuckey,R
+?,7,5,GB,Alta-Bristol,?,Albert Wake,R
+Engine,7,-,GB,Cooper-Aston Martin,-,Eric Brandon,DNS
+Did Not Arrive,7,-,GB,Cooper-Bristol,-,Jack Walton,DNA
+Did Not Arrive,7,-,GB,Frazer Nash-BMW,-,R.E. Dixon,DNA
+11m 26.6s,8,,GB,Ferrari,10,Reg Parnell,1
++ 9.0s,8,,GB,Connaught-Lea Francis,10,Peter Collins,2
++ 11.8s,8,,GB,Cooper-JAP,10,Les Leston,3
+?,8,,GB,Cooper-Bristol,10,Horace Gould,4
+?,8,,GB,HWM-Alta,10,Ted Whiteaway,5
+?,8,,GB,Connaught-Lea Francis,10,Michael Young,6
+11m 36.4s,9,,GB,Cooper-Bristol,10,Rodney Nuckey,1
++ 4.2s,9,,GB,Connaught-Lea Francis,10,Don Beauman,2
++ 12.6s,9,,GB,Connaught-Lea Francis,10,Bill Whitehouse,3
+?,9,,GB,Turner-Lea Francis,10,Jack Fairman,4
+?,9,,GB,Emeryson-Alta,10,Paul Emery,5
+?,9,,GB,Connaught-Lea Francis,10,Charles Boulton,6
+?,9,,GB,Alvis,10,Gerry Dunham,7
+?,9,,GB,Cooper-Bristol,10,Jimmy Somervail,R
+?,9,,GB,Cooper-Vincent,10,Don Bennett,R
+11m 26.6s,10,1,GB,Ferrari,10,Reg Parnell,1
++ 5.2s,10,2,GB,Connaught-Lea Francis,10,Peter Collins,2
++ 17.0s,10,5,GB,Connaught-Lea Francis,10,Don Beauman,3
+?,10,6,GB,Connaught-Lea Francis,10,Bill Whitehouse,4
+?,10,3,GB,Cooper-Bristol,10,Rodney Nuckey,5
+?,10,7,GB,Cooper-Bristol,10,Horace Gould,6
+?,10,10,GB,Connaught-Lea Francis,10,Michael Young,7
+?,10,11,GB,Emeryson-Alta,10,Paul Emery,8
+?,10,12,GB,Connaught-Lea Francis,10,Charles Boulton,9
+?,10,9,GB,HWM-Alta,6,Ted Whiteaway,R
+Gearbox,10,8,GB,Turner-Lea Francis,3,Jack Fairman,R
+Engine,10,4,GB,Cooper-JAP,0,Les Leston,R
+Mechanical,10,-,GB,Alvis,-,Gerry Dunham,DNS
+Did Not Start Final,10,-,GB,Cooper-Bristol,-,Jimmy Somervail,DNS
+Did Not Start Final,10,-,GB,Cooper-Vincent,-,Don Bennett,DNS
+Did Not Arrive,10,-,GB,Cooper-Bristol,-,Mike Keen,DNA
+Did Not Arrive,10,-,GB,Maserati,-,Roy Salvadori,DNA
+Did Not Arrive,10,-,GB,Cooper-Bristol,-,Keith Hall,DNA
+Did Not Arrive,10,-,GB,Cooper-JAP,-,Oliver Simpson,DNA
+Did Not Arrive,10,-,GB,Cooper-Bristol,-,David Watts,DNA
+18m 26.3s,11,,GB,Maserati,10,Roy Salvadori,1
++ 54.4s,11,,GB,Connaught-Lea Francis,10,Bill Whitehouse,2
++ 1m 01.0s,11,,GB,Cooper-Bristol,10,Jimmy Somervail,3
++ 1m 22.0s,11,,GB,Cooper-Bristol,10,Tony Crook,4
++ 1 lap,11,,GB,Connaught-Lea Francis,9,Charles Boulton,5
++ 1 lap,11,,GB,Cooper-JAP,9,Les Leston,6
++ 1 lap,11,,GB,Connaught-Lea Francis,9,Michael Young,7
++ 1 lap,11,,GB,HWM-Alta,9,Ted Whiteaway,8
+Did Not Arrive,11,,GB,Cooper-Bristol,-,Horace Gould,DNA
+Did Not Arrive,11,,GB,Connaught-Lea Francis,-,Jock Lawrence,DNA
+3h 05m 55.1s,12,2,Arg,Ferrari,123,José Froilán Gonzalez,1
++ 44.5s,12,5,Fr,Ferrari,123,Robert Manzon,2
++ 1m 03.0s,12,1,Fr,Ferrari,123,Maurice Trintignant,3
++ 2 laps,12,7,GB,Maserati,121,Stirling Moss,4
++ 4 laps,12,6,Fr,Gordini,119,Élie Bayol,5
++ 7 laps,12,9,Fr,Gordini,116,Jacques Pollet,6
++ 13 laps,12,11,Bel,Gordini,110,Georges Berger,7
+Oil pressure,12,4,Th,Maserati,44,B. Bira,R
+Gearbox,12,3,Fr,Gordini,34,Jean Behra,R
+Clutch,12,8,USA,Maserati,16,Harry Schell,R
+Engine,12,10,Fr,Ferrari,9,Louis Rosier,R
+Engine,12,12,GB,Cooper-Alta,4,Peter Whitehead,R
+Accident,12,-,Arg,Maserati,-,Roberto Mieres,DNS
+1h 29m 01.1s,13,1,Fr,Ferrari,60,Maurice Trintignant,1
++ 3.6s,13,2,GB,Maserati,60,Stirling Moss,2
++ 2 laps Shared drive,13,6,Fr Fr,Gordini,58,Jacques Pollet Jean Behra,3
++ 3 laps,13,8,Th,Maserati,57,B. Bira,4
++ 4 laps,13,9,Fr,Ferrari,56,Louis Rosier,5
+Timing gear,13,7,Fr,Ferrari,38,Robert Manzon,R
+Oil pipe,13,4,Arg,Gordini,28,Clemar Bucci,R
+Flywheel,13,5,USA,Maserati,24,Harry Schell,R
+Steering,13,3,Fr,Gordini,4,Jean Behra,R
+Did Not Arrive,13,-,Arg,Maserati,-,Roberto Mieres,DNA
+19m 49.0s,14,,GB,Cooper-Bristol,15,Horace Gould,1
++ 11.2s,14,,GB,Connaught-Lea Francis,15,Bill Whitehouse,2
++ 17.3s,14,,GB,Connaught-Lea Francis,15,John Risely-Pritchard,3
+?,14,,GB,Connaught-Lea Francis,15,Michael Young,4
+?,14,,GB,Emeryson-Alta,?,Paul Emery,?
+?,14,,GB,HW-Alta,?,Anthony Brooke,?
+?,14,,GB,HWM-Alta,?,Ted Whiteaway,?
+?,14,,GB,Rover,?,Oliver Simpson,?
+?,14,,GB,Cooper-Bristol,?,Dick Gibson,?
+?,14,,GB,Cooper-JAP,?,Ron Searles,NC
+Steering,14,,GB,Cooper-Bristol,9,Bob Gerard,R
+Piston,14,,GB,Turner-Lea Francis,3,Jack Fairman,R
+Piston,14,,GB,Ferrari,1,Reg Parnell,R
+Did Not Arrive,14,,GB,Maserati,-,Roy Salvadori,DNA
+Did Not Arrive,14,,GB,Cooper-JAP,-,Les Leston,DNA
+1h 11m 27.0s,15,21,GB,Maserati,36,Stirling Moss,1
++ 1m 20.4s,15,3,GB,Ferrari,36,Reg Parnell,2
++ 1m 24.0s,15,1,GB,Cooper-Bristol,36,Bob Gerard,3
++ 1m 52.2s,15,7,GB,Connaught-Lea Francis,36,Don Beauman,4
++ 2 laps,15,13,GB,Cooper-Bristol,34,Rodney Nuckey,5
++ 2 laps,15,8,GB,Connaught-Lea Francis,34,Bill Whitehouse,6
+?,15,5,GB,Connaught-Lea Francis,?,Leslie Marr,7
+?,15,12,GB,Connaught-Lea Francis,?,Charles Boulton,8
+?,15,10,GB,Connaught-Lea Francis,?,Leslie Thorne,9
+?,15,15,GB,Connaught-Lea Francis,?,Michael Young,NC
+?,15,9,GB,Cooper-Bristol,?,Ninian Sanderson,NC
+?,15,20,GB,HAR-Riley,?,Horace Richards,NC
+Piston,15,11,GB,Connaught-Lea Francis,20,John Riseley-Pritchard,R
+Fuel pump,15,4,GB,Cooper-Alta,18,Alan Brown,R
+Accident,15,6,GB,Maserati,14,Roy Salvadori,R
+Brakes,15,17,GB,HW-Alta,4,Anthony Brooke,R
+Magneto,15,2,Fr,Gordini,2,Jean Behra,R
+Half shaft,15,14,GB,Turner-Lea Francis,0,Jack Fairman,R
+Cylinder head,15,19,GB,Emeryson-Alta,0,Paul Emery,R
+Did Not Start,15,18,GB,Alta-Bristol,-,Albert Wake,DNS
+Did Not Start,15,16,GB,Cooper-Bristol,-,Tony Crook,DNS
+11m 47.4s,16,,GB,Ferrari,40,Reg Parnell,1
++ 48.0s,16,,GB,Cooper-Bristol,40,Bob Gerard,2
++ 1 lap,16,,GB,Connaught-Lea Francis,39,Don Beauman,3
++ 1 lap,16,,GB,Cooper-Bristol,39,Horace Gould,4
++ 2 laps,16,,GB,Cooper-Bristol,38,Rodney Nuckey,5
++ 4 laps,16,,GB,Connaught-Lea Francis,36,Charles Boulton,6
++ 5 laps,16,,GB,Cooper-Bristol,35,Dick Gibson,7
++ 14 laps,16,,GB,HAR-Riley,26,Horace Richards,8
+Transmission,16,,GB,Connaught-Lea Francis,23,Bill Whitehouse,R
+Suspension,16,,GB,Cooper-Alta,19,Peter Whitehead,R
+Steering,16,,GB,HWM-Alta,16,Ted Whiteaway,R
+Fuel feed,16,,GB,Turner-Lea Francis,13,Jack Fairman,R
+Mechanical,16,,GB,Cooper-Bristol,4,Charles Mauritzen,R
+Accident,16,,GB,HW-Alta,1,Anthony Brooke,R
+Accident,16,,GB,Connaught-Lea Francis,1,Leslie Marr,R
+Beauman drove,16,,GB,Connaught-Lea Francis,-,John Risely-Pritchard,DNS
+Did Not Arrive,16,,GB,Connaught-Lea Francis,-,Michael Young,DNA
+Did Not Arrive,16,,GB,Maserati,-,Roy Salvadori,DNA
+Did Not Arrive,16,,GB,Emeryson-Alta,-,Paul Emery,DNA
+Did Not Arrive,16,,GB,Cooper-Bristol,-,Tony Crook,DNA
+Did Not Arrive,16,,GB,Vanwall,-,Peter Collins,DNA
+3h 40m 34.5s,17,1,Fr,Ferrari,95,Maurice Trintignant,1
++ 1 lap,17,8,Th,Maserati,94,B. Bira,2
++ 4 laps,17,9,GB,Maserati,90,Roy Salvadori,3
++ 4 laps,17,12,Bel,Gordini,90,Georges Berger,4
++ 10 laps,17,14,Arg,Maserati,85,Jorge Daponte,5
+Pushed,17,3,GB,Ferrari,84,Mike Hawthorn,DSQ
+Rear axle,17,7,Arg,Gordini,84,Clemar Bucci,R
+Pushed,17,2,Fr,Gordini,82,Jean Behra,DSQ
++ 15 laps,17,13,GB,HWM-Alta,80,Ted Whiteaway,6
++ 15 laps,17,6,Fr,Ferrari,80,Robert Manzon,7
++ 22 laps,17,11,Fr,Ferrari,73,Louis Rosier,8
+Clutch,17,5,Bel,Gordini,40,André Pilette,R
+Engine,17,10,USA,Maserati,33,Harry Schell,R
+Engine,17,4,Arg,Ferrari,16,José Froilán Gonzalez,R
+Mechanical,17,-,GB,Cooper-Bristol,-,Alan Brown,DNS
+Did Not Arrive,17,-,Arg,Maserati,-,Roberto Mieres,DNA
+Did Not Arrive,17,-,It,Maserati,-,Giovanni de Riu,DNA
+2h 51m 57.2s,18,3,It,Ferrari,80,Giuseppe Farina,1
++ 2 laps,18,5,Fr,Ferrari,78,Maurice Trintignant,2
++ 5 laps,18,6,It,Maserati,75,Sergio Mantovani,3
++ 7 laps,18,8,Fr,Ferrari,73,Robert Manzon,4
+Clutch,18,1,Arg,Maserati,71,Onofre Marimón,R
++ 12 laps,18,7,Bel,Ferrari,68,Roger Laurent,5
+Accident,18,4,GB,Ferrari,5,Mike Hawthorn,R
+Fire,18,2,Arg,Ferrari,5,José Froilán Gonzalez,R
+3h 00m 55.8s,19,3,Arg,Maserati,87,Juan Manuel Fangio,1
++ 1m 19.0s,19,1,It,Ferrari,87,Giuseppe Farina,2
++ 2m 01.0s,19,2,Arg,Ferrari,87,José Froilán Gonzalez,3
++ 1 lap,19,5,Fr,Ferrari,86,Maurice Trintignant,4
++ 2 laps,19,14,Fr,Gordini,85,Élie Bayol,5
++ 3 laps,19,10,USA,Maserati,84,Harry Schell,6
++ 4 laps,19,9,Th,Maserati,83,B. Bira,7
++ 4 laps,19,12,Swz,Maserati,83,Emmanuel de Graffenried,8
++ 5 laps,19,11,It,Ferrari,82,Umberto Maglioi,9
+Outside assistance,19,16,Fr,Gordini,61,Jean Behra,DSQ
+Outside assistance,19,4,GB,Ferrari,52,Mike Hawthorn,DSQ
+Engine,19,8,Arg,Maserati,48,Roberto Mieres,R
+Oil leak,19,6,Arg,Maserati,37,Onofre Marimón,R
+Oil pressure,19,15,Fr,Gordini,19,Roger Loyer,R
+Gearbox,19,17,Arg,Maserati,19,Jorge Daponte,R
+Accident,19,13,Fr,Ferrari,1,Louis Rosier,R
+Engine,19,7,It,Maserati,-,Luigi Musso,DNS
+Engine,19,-,Arg,Maserati,-,Carlos Menditeguy,DNS
+2h 42m 42.4s,20,1,Arg,Maserati,36,Juan Manuel Fangio,1
++ 24.2s,20,6,Fr,Ferrari,36,Maurice Trintignant,2
++ 1 lap,20,9,GB,Maserati,35,Stirling Moss,3
++ 1 lap Shared drive,20,5,GB Arg,Ferrari,35,Mike Hawthorn José Froilán Gonzalez,4
++ 1 lap,20,8,Bel,Gordini,35,André Pilette,5
++ 1 lap,20,13,Th,Maserati,35,B. Bira,6
++ 2 laps,20,11,It,Maserati,34,Sergio Mantovani,7
+Ignition,20,3,It,Ferrari,14,Giuseppe Farina,R
+Engine,20,10,Bel,Gordini,14,Paul Frère,R
+Suspension,20,7,Fr,Gordini,12,Jean Behra,R
+Engine,20,4,Arg,Maserati,3,Onofre Marimón,R
+Engine,20,2,Arg,Ferrari,1,José Froilán Gonzalez,R
+Engine,20,14,Bel,Ferrari,1,Jacques Swaters,R
+Fire,20,12,Arg,Maserati,0,Roberto Mieres,R
+Did Not Arrive,20,-,Fr,Gordini,-,André Simon,DNA
+2h 42m 42.4s,21,1,Arg,Mercedes,61,Juan Manuel Fangio,1
++ 0.1s,21,2,Ger,Mercedes,61,Karl Kling,2
++ 1 lap,21,12,Fr,Ferrari,60,Robert Manzon,3
++ 1 lap,21,6,Th,Maserati,60,B. Bira,4
++ 3 laps,21,14,It,Maserati,58,Luigi Villoresi,5
++ 5 laps,21,17,Fr,Gordini,56,Jean Behra,6
+Rear axle,21,19,Bel,Gordini,50,Paul Frère,R
+Piston,21,9,Fr,Ferrari,36,Maurice Trintignant,R
+Engine,21,13,Fr,Ferrari,27,Louis Rosier,R
+Gearbox,21,5,Arg,Maserati,27,Onofre Marimón,R
+Piston,21,11,Arg,Maserati,24,Roberto Mieres,R
+Propellor shaft,21,16,GB,Maserati,19,Ken Wharton,R
+Engine,21,21,USA,Maserati,19,Harry Schell,R
+Engine,21,7,Ger,Mercedes,16,Hans Herrmann,R
+Half shaft,21,10,GB,Maserati,15,Roy Salvadori,R
+Engine,21,4,Arg,Ferrari,13,José Froilán Gonzalez,R
+Engine,21,15,GB,HWM-Alta,10,Lance Macklin,R
+Valve,21,20,Bel,Gordini,9,Georges Berger,R
+Engine,21,8,GB,Ferrari,9,Mike Hawthorn,R
+Engine,21,18,Fr,Gordini,8,Jacques Pollet,R
+Transmission,21,3,It,Maserati,1,Alberto Ascari,R
+Mechanical,21,-,It,Maserati,-,Sergio Mantovani,DNS
+Did Not Arrive,21,-,It,Ferrari,-,Giuseppe Farina,DNA
+Did Not Arrive,21,-,Bel,Ferrari,-,Jacques Swaters,DNA
+Did Not Arrive,21,-,GB,Vanwall,-,Peter Collins,DNA
+Did Not Arrive,21,-,GB,Maserati,-,Stirling Moss,DNA
+2h 56m 14.0s,22,2,Arg,Ferrari,90,José Froilán Gonzalez,1
++ 1m 10.0s,22,3,GB,Ferrari,90,Mike Hawthorn,2
++ 1 lap,22,28,Arg,Maserati,89,Onofre Marimón,3
++ 1 lap,22,1,Arg,Mercedes,89,Juan Manuel Fangio,4
++ 3 laps,22,8,Fr,Ferrari,87,Maurice Trintignant,5
++ 3 laps,22,31,Arg,Maserati,87,Roberto Mieres,6
++ 3 laps,22,6,Ger,Mercedes,87,Karl Kling,7
++ 4 laps,22,9,GB,Maserati,86,Ken Wharton,8
++ 4 laps,22,12,Bel,Gordini,86,André Pilette,9
++ 5 laps,22,18,GB,Cooper-Bristol,85,Bob Gerard,10
++ 6 laps,22,17,GB,Connaught-Lea Francis,84,Don Beauman,11
++ 7 laps,22,16,USA,Maserati,83,Harry Schell,12
++ 8 laps,22,22,GB,Connaught-Lea Francis,82,Leslie Marr,13
+Rear axle,22,4,GB,Maserati,80,Stirling Moss,R
++ 12 laps,22,23,GB,Connaught-Lea Francis,78,Leslie Thorne,14
+Fuel system,22,19,GB,Connaught-Lea Francis,63,Bill Whitehouse,R
+Rear axle,22,5,Fr,Gordini,54,Jean Behra,R
+Transmission,22,7,GB,Maserati,53,Roy Salvadori,R
+Accident Shared drive,22,10,Th GB,Maserati,44,B. Bira Ron Flockhart,R
++ 46 laps,22,20,GB,Cooper-Bristol,44,Horace Gould,15
+Engine Shared drive,22,27,It It,Maserati,40,Luigi Villoresi Alberto Ascari,R
+Accident,22,21,GB,Connaught-Lea Francis,25,John Riseley-Pritchard,R
+Engine,22,14,GB,Ferrari,21,Reg Parnell,R
+Engine,22,30,It,Maserati,18,Alberto Ascari,R
+Accident,22,13,Arg,Gordini,16,Clemar Bucci,R
+Engine,22,11,GB,Vanwall,16,Peter Collins,R
+Engine,22,15,Fr,Ferrari,4,Robert Manzon,R
+Oil leak,22,24,GB,Cooper-Alta,2,Peter Whitehead,R
+Engine,22,25,GB,Cooper-Bristol,2,Eric Brandon,R
+Engine,22,29,Fr,Ferrari,0,Louis Rosier,R
+Mechanical,22,26,GB,Cooper-Bristol,-,Alan Brown,DNS
+Did Not Arrive,22,-,Bel,Ferrari,-,Jacques Swaters,DNA
+3h 45m 45.8s,23,1,Arg,Mercedes,22,Juan Manuel Fangio,1
++ 1m 36.5s Shared drive,23,5,Arg GB,Ferrari,22,José Froilán Gonzalez Mike Hawthorn,2
++ 5m 08.6s,23,7,Fr,Ferrari,22,Maurice Trintignant,3
++ 6m 06.5s,23,20,Ger,Mercedes,22,Karl Kling,4
++ 8m 50.5s,23,13,It,Maserati,22,Sergio Mantovani,5
++ 1 lap,23,11,It,Ferrari,21,Piero Taruffi,6
++ 1 lap,23,12,USA,Maserati,21,Harry Schell,7
++ 1 lap,23,16,Fr,Ferrari,21,Louis Rosier,8
++ 2 laps,23,10,Fr,Ferrari,20,Robert Manzon,9
++ 2 laps,23,8,Fr,Gordini,20,Jean Behra,10
+Steering,23,17,Th,Maserati,18,B. Bira,R
+Spun off,23,9,Ger,Mercedes,10,Hermann Lang,R
+Suspension,23,14,Arg,Gordini,8,Clemar Bucci,R
+Engine,23,19,Ger,Klenk-BMW,8,Theo Helfrich,R
+Fuel leak,23,4,Ger,Mercedes,7,Hans Herrmann,R
+Suspension,23,6,Bel,Gordini,4,Paul Frère,R
+Transmission,23,2,GB,Ferrari,3,Mike Hawthorn,R
+Fuel leak,23,15,Arg,Maserati,2,Roberto Mieres,R
+Engine,23,3,GB,Maserati,1,Stirling Moss,R
+Suspension,23,18,Bel,Gordini,0,André Pilette,R
+Fatal accident,23,-,Arg,Maserati,-,Onofre Marimón,DNS
+Withdrawn,23,-,It,Maserati,-,Luigi Villoresi,DNS
+Did Not Arrive,23,-,GB,Maserati,-,Ken Wharton,DNA
+3h 00m 34.5s,24,2,Arg,Mercedes,66,Juan Manuel Fangio,1
++ 57.8s,24,1,Arg,Ferrari,66,José Froilán Gonzalez,2
++ 1 lap,24,7,Ger,Mercedes,65,Hans Herrmann,3
++ 2 laps,24,12,Arg,Maserati,64,Roberto Mieres,4
++ 2 laps,24,9,It,Maserati,64,Sergio Mantovani,5
++ 2 laps,24,8,GB,Maserati,64,Ken Wharton,6
++ 5 laps,24,11,It,Ferrari,61,Umberto Maglioli,7
++ 8 laps,24,16,Bel,Ferrari,58,Jacques Swaters,8
+Fuel system,24,5,Ger,Mercedes,38,Karl Kling,R
+Oil leak,24,4,Fr,Ferrari,33,Maurice Trintignant,R
+Oil pump,24,6,GB,Ferrari,30,Mike Hawthorn,R
+Oil pump,24,13,USA,Maserati,23,Harry Schell,R
+Oil pump,24,3,GB,Maserati,21,Stirling Moss,R
+Tranmission,24,15,USA,Gordini,10,Fred Wacker,R
+Clutch,24,14,Fr,Gordini,8,Jean Behra,R
+Fuel pump,24,10,Arg,Gordini,0,Clemar Bucci,R
+Practice accident,24,-,Fr,Ferrari,-,Robert Manzon,DNS
+Did Not Arrive,24,-,GB,Maserati,-,Roy Salvadori,DNA
+Did Not Arrive,24,-,Swz,Maserati,-,Emmanuel de Graffenried,DNA
+2h 47m 47.9s,25,1,Arg,Mercedes,80,Juan Manuel Fangio,1
++ 1 lap,25,7,GB,Ferrari,79,Mike Hawthorn,2
++ 2 laps Shared drive,25,13,It Arg,Ferrari,78,Umberto Maglioli José Froilán Gonzalez,3
++ 3 laps,25,8,Ger,Mercedes,77,Hans Herrmann,4
++ 5 laps,25,11,Fr,Ferrari,75,Maurice Trintignant,5
++ 5 laps,25,18,Fr,Gordini,75,Fred Wacker,6
++ 5 laps,25,16,GB,Vanwall,75,Peter Collins,7
++ 6 laps,25,20,Fr,Maserati,74,Louis Rosier,8
++ 6 laps,25,9,It,Maserati,74,Sergio Mantovani,9
++ 9 laps,25,3,GB,Maserati,71,Stirling Moss,10
++ 10 laps,25,19,Arg,Maserati,70,Jorge Daponte,11
+Engine,25,2,It,Ferrari,48,Alberto Ascari,R
+Clutch,25,6,It,Maserati,42,Luigi Villoresi,R
+Accident,25,4,Ger,Mercedes,36,Karl Kling,R
+Suspension,25,10,Arg,Maserati,34,Roberto Mieres,R
+Transmission,25,14,It,Maserati,32,Luigi Musso,R
+Gearbox,25,5,Arg,Ferrari,16,José Froilán Gonzalez,R
+Engine,25,15,Fr,Ferrari,16,Robert Manzon,R
+Transmission,25,17,Arg,Gordini,13,Clemar Bucci,R
+Engine,25,12,Fr,Gordini,2,Jean Behra,R
+Did Not Qualify,25,(21),It,Maserati,-,Giovanni de Riu,DNQ
+3h 13m 52.1s,26,3,GB,Ferrari,80,Mike Hawthorn,1
++ 1m 13.2s,26,7,It,Maserati,80,Luigi Musso,2
++ 1 lap,26,2,Arg,Mercedes,79,Juan Manuel Fangio,3
++ 1 lap,26,11,Arg,Maserati,79,Roberto Mieres,4
++ 1 lap,26,12,Ger,Mercedes,79,Karl Kling,5
++ 4 laps,26,13,Esp,Maserati,76,Francisco Godia-Sales,6
++ 6 laps,26,20,Fr,Maserati,74,Louis Rosier,7
++ 6 laps,26,14,GB,Maserati,74,Ken Wharton,8
++ 12 laps,26,15,Th,Maserati,68,B. Bira,9
+Brakes,26,10,It,Maserati,58,Sergio Mantovani,R
+Engine Shared drive,26,21,Swz Swz,Maserati,57,Emmanuel de Graffenried Ottorino Volonterio,R
+Injection,26,9,Ger,Mercedes,50,Hans Herrmann,R
+Gearbox,26,8,Fr,Ferrari,47,Maurice Trintignant,R
+Engine,26,16,Fr,Gordini,37,Jacques Pollet,R
+Transmission,26,4,USA,Maserati,29,Harry Schell,R
+Oil pump,26,6,GB,Maserati,20,Stirling Moss,R
+Brakes,26,18,Fr,Gordini,17,Jean Behra,R
+Engine,26,19,Bel,Ferrari,16,Jacques Swaters,R
+Clutch,26,1,It,Lancia,10,Alberto Ascari,R
+Brakes,26,5,It,Lancia,2,Luigi Villoresi,R
+Engine,26,17,Fr,Ferrari,2,Robert Manzon,R
+Practice accident,26,-,GB,Vanwall,-,Peter Collins,DNS
+31m 49.0s,27,1,Arg,Ferrari,15,José Froilán Gonzalez,1
++ 14.0s,27,8,Th,Maserati,15,B. Bira,2
++ 16.0s,27,3,GB,Maserati,15,Stirling Moss,3
++ 48.0s,27,6,It,Ferrari,15,Umberto Maglioli,4
++ 51.0s,27,2,Fr,Gordini,15,Jean Behra,5
++ 1m 07.0s,27,4,GB,Vanwall,15,Alan Brown,6
++ 1m 08.0s,27,5,GB,Connaught-Lea Francis,15,Tony Rolt,7
++ 1m 46.0s,27,10,Fr,Ferrari,15,Louis Rosier,8
++ 2m 08.0s,27,7,GB,Connaught-Lea Francis,15,Don Beauman,9
++ 1 lap,27,11,GB,Cooper-Bristol,14,Jimmy Somervail,10
++ 1 lap,27,9,GB,Connaught-Lea Francis,14,Leslie Marr,11
++ 1 lap,27,14,GB,Emeryson-Aston Martin,14,Colin Chapman,12
++ 3 laps,27,13,GB,HAR-Riley,12,Horace Richards,13
+Mechanical,27,12,GB,HWM-Alta,0,Lance Macklin,R
+Mechanical,27,-,USA,Maserati,-,Harry Schell,DNS
+30m 09.0s,28,1,Fr,Ferrari,15,Maurice Trintignant,1
++ 6.0s,28,2,GB,Ferrari,15,Reg Parnell,2
++ 47.0s,28,8,Fr,Ferrari,15,Robert Manzon,3
++ 1m 08.0s,28,12,GB,Maserati,15,Roy Salvadori,4
++ 1m 18.0s,28,3,Fr,Gordini,15,André Simon,5
++ 1 lap,28,6,GB,Turner-Lea Francis,14,Jack Fairman,6
++ 1 lap,28,14,Arg,Maserati,14,Roberto Mieres,7
++ 1 lap,28,9,GB,HWM-Alta,14,Ted Whiteaway,8
++ 1 lap,28,7,GB,Connaught-Lea Francis,14,Leslie Thorne,9
++ 2 laps,28,4,GB,Cooper-Bristol,13,Bob Gerard,10
++ 2 laps,28,10,GB,Connaught-Lea Francis,13,Michael Young,11
++ 2 laps,28,11,GB,Connaught-Lea Francis,13,Ken McAlpine,12
+Engine,28,5,GB,Cooper-Bristol,12,Horace Gould,R
+Valve,28,13,GB,RRA-Riley,6,Geoff Richardson,R
+1h 06m 15.0s,29,1,Arg,Ferrari,35,José Froilán Gonzalez,1
++ 36.0s,29,11,Fr,Gordini,35,Jean Behra,2
++ 1 lap,29,5,Fr,Gordini,34,André Simon,3
++ 1 lap,29,15,Arg,Maserati,34,Roberto Mieres,4
++ 1 lap,29,9,Fr,Ferrari,34,Maurice Trintignant,5
++ 1 lap,29,14,Fr,Ferrari,34,Louis Rosier,6
++ 1 lap,29,13,GB,Connaught-Lea Francis,34,Tony Rolt,7
++ 1 lap,29,22,GB,Cooper-Bristol,34,Bob Gerard,8
++ 2 laps,29,17,GB,Connaught-Lea Francis,33,Don Beauman,9
++ 2 laps,29,4,GB,Maserati,33,Roy Salvadori,10
++ 2 laps,29,20,GB,Connaught-Lea Francis,33,Leslie Marr,11
++ 2 laps,29,19,GB,Cooper-Bristol,33,Jimmy Somervail,12
++ 3 laps,29,10,GB,Turner-Lea Francis,32,Jack Fairman,13
++ 3 laps,29,23,GB,Connaught-Lea Francis,32,Michael Young,14
++ 3 laps,29,25,GB,Connaught-Lea Francis,32,Ken McAlpine,15
++ 8 laps,29,24,GB,HAR-Riley,27,Horace Richards,16
++ 8 laps,29,21,GB,Emeryson-Aston Martin,27,Colin Chapman,17
+Suspension,29,8,GB,Maserati,24,Stirling Moss,R
+Oil pipe,29,12,GB,Vanwall,17,Alan Brown,R
+Universal joint,29,16,GB,HWM-Alta,14,Ted Whiteaway,R
+Clutch,29,7,Th,Maserati,12,B. Bira,R
+Suspension,29,18,GB,Connaught-Lea Francis,7,Leslie Thorne,R
+Propeller shaft,29,2,GB,Ferrari,5,Reg Parnell,R
+Transmission,29,3,Fr,Ferrari,2,Robert Manzon,R
+Trintignant drove,29,6,It,Ferrari,-,Umberto Maglioli,DNS
+Did Not Start Final,29,-,GB,HWM-Alta,-,Lance Macklin,DNS
+Did Not Start Final,29,-,GB,Cooper-Bristol,-,Horace Gould,DNS
+Did Not Start Final,29,-,GB,RRA-Riley,-,Geoff Richardson,DNS
+Mechanical,29,-,USA,Maserati,-,Harry Schell,DNS
+30m 33.0s,30,,Fr,Gordini,30,Jean Behra,1
++ 1.0s,30,,Bel,Gordini,30,André Pilette,2
++ 3.0s,30,,Fr,Maserati,30,Louis Rosier,3
++ 2m 01.0s,30,,Fr,Simca Gordini,30,Jean Thepenier,4
++ 16 laps,30,,Fr,Jicey-BMW,14,Marcel Balsa,5
+Retired,30,,Fr,RG-BMW,?,Roger Gerbout,R
+31m 17.0s,31,,USA,Maserati,30,Harry Schell,1
++ 3.0s,31,,USA,Gordini,30,Fred Wacker,2
++ 56.0s,31,,Fr,Ferrari,30,Fernand Navarro,3
++ 1m 13.0s,31,,Fr,Simca Gordini,30,Jacques Cazalot,4
+Clutch,31,,GB,HWM-Alta,?,Ted Whiteaway,R
+Rear axle,31,,GB,Connaught-Lea Francis,?,Michael Young,R
+30m 33.0s,32,,Fr,Gordini,30,Jean Behra,1
++ 14.6s,32,,Bel,Gordini,30,André Pilette,2
++ 1m 19.8s,32,,Fr,Maserati,30,Louis Rosier,3
++ 1 lap,32,,USA,Gordini,29,Fred Wacker,4
++ 3 laps,32,,Fr,Ferrari,27,Fernand Navarro,5
+Rear axle,32,,USA,Maserati,?,Harry Schell,R
+Brakes,32,,Fr,Simca Gordini,?,Jacques Cazalot,R
+Mechanical,32,,Fr,Simca Gordini,?,Jean Thepenier,R
+Shock absorber,32,,Fr,Jicey-BMW,?,Marcel Balsa,R
+Did Not Start Final,32,,Fr,RG-BMW,-,Roger Gerbout,DNS
+Did Not Start Final,32,,GB,HWM-Alta,-,Ted Whiteaway,DNS
+Did Not Start Final,32,,GB,Connaught-Lea Francis,-,Michael Young,DNS
+Did Not Arrive,32,,GB,Emeryson-Alta,-,Paul Emery,DNA
+Did Not Arrive,32,,It,Maserati,-,Giovanni de Riu,DNA
+33m 03.2s,33,,GB,Maserati,21,Stirling Moss,1
++ 20.4s,33,,GB,Vanwall,21,Peter Collins,2
++ 1m 17.4s,33,,GB,Maserati,21,Roy Salvadori,3
++ 1m 21.6s,33,,GB,Cooper-Bristol,21,Bob Gerard,4
++ 1m 25.2s,33,,GB,Connaught-Lea Francis,21,Don Beauman,5
++ 1 lap,33,,GB,Cooper-Bristol,20,Mike Keen,6
++ 1 lap,33,,GB,Connaught-Lea Francis,20,John Riseley-Pritchard,7
++ 1 lap,33,,Fr,Maserati,20,Louis Rosier,8
++ 1 lap,33,,GB,Connaught-Lea Francis,20,Leslie Marr,9
++ 1 lap,33,,GB,Cooper-Bristol,20,Jock Lawrence,10
++ 1 lap,33,,GB,Connaught-Lea Francis,20,Peter Hughes,11
++ 2 laps/mechanical,33,,GB,Connaught-Lea Francis,19,Michael Young,12
++ 2 laps,33,,GB,Cooper-Bristol,19,Keith Hall,13
++ 2 laps,33,,GB,Cooper-Bristol,19,Dick Gibson,14
++ 3 laps,33,,GB,Connaught-Lea Francis,18,Charles Boulton,15
+?,33,,GB,Cooper-Bristol,?,Horace Gould,R
+?,33,,GB,Cooper-Bristol,?,Bruce Halford,R
+Mechanical,33,,GB,HWM-Alta,5,Ted Whiteaway,R
+Fuel system,33,,GB,Emeryson-Alta,4,Paul Emery,R
+?,33,,GB,HAR-Riley,4,Horace Richards,R
+Piston,33,,GB,Ferrari,3,Reg Parnell,R
+Did Not Arrive,33,,GB,Maserati,-,Ken Wharton,DNA
+Did Not Arrive,33,,GB,Cooper-Bristol,-,Rodney Nuckey,DNA
+2h 21m 08.4s,34,1,Arg,Ferrari,60,José Froilán Gonzalez,1
++ 6.8s,34,2,Fr,Ferrari,60,Maurice Trintignant,2
++ 1m 01.4s,34,3,Fr,Gordini,60,Jean Behra,3
++ 1 lap,34,4,Arg,Maserati,59,Onofre Marimón,4
++ 2 laps,34,?,USA,Maserati,58,Harry Schell,5
++ 4 laps,34,?,Th,Maserati,56,B. Bira,6
++ 6 laps,34,7,It,Ferrari,54,Umberto Maglioli,7
+Retired,34,6,Arg,Maserati,?,Roberto Mieres,R
+Retired,34,8,Fr,Gordini,?,André Simon,R
+Piston,34,5,Fr,Ferrari,27,Robert Manzon,R
+Retired,34,?,Fr,Ferrari,?,Louis Rosier,R
+Shock absorber,34,?,It,Maserati,3,Sergio Mantovani,R
+11m 21.4s,35,,GB,Ferrari,7,Reg Parnell,1
++ 0.6s,35,,GB,Maserati,7,Roy Salvadori,2
++ 30.0s,35,,GB,Connaught-Lea Francis,7,Ken McAlpine,3
++ 40.2s,35,,GB,HWM-Alta,7,Lance Macklin,4
++ 44.8s,35,,GB,Connaught-Lea Francis,7,Leslie Marr,5
++ 1m 12.2s,35,,GB,Cooper-Bristol,7,Eric Brandon,6
+Magneto,35,,GB,Connaught-Lea Francis,6,Tony Rolt,7
++ 1 lap,35,,GB,Connaught-Lea Francis,6,Charles Boulton,8
++ 1 lap,35,,GB,Connaught-Lea Francis,6,Leslie Thorne,9
+?,35,,GB,Cooper-Bristol,4,Dick Gibson,R
+?,35,,GB,Cooper-Bristol,2,Alan Brown,R
+Throttle linkage,35,,GB,Cooper-Alta,1,Peter Whitehead,R
+?,35,,GB,Turner-Lea Francis,1,John Webb,R
+Did Not Arrive,35,,It,Vanwall,-,Alberto Ascari,DNA
+Did Not Arrive,35,,Swz,Maserati,-,Emmanuel de Graffenried,DNA
+2h 18m 49.6s,36,1,Arg,Maserati,60,Onofre Marimón,1
++ 2 laps,36,6,USA,Maserati,58,Harry Schell,2
++ 2 laps,36,8,It,Maserati,58,Sergio Mantovani,3
++ 3 laps Shared drive,36,5,Fr Fr,Gordini,57,André Simon Jean Behra,4
++ 3 laps,36,7,Fr,Ferrari,57,Louis Rosier,5
++ 7 laps,36,3,GB,Maserati,53,Stirling Moss,6
+Water leak,36,2,Fr,Ferrari,40,Robert Manzon,R
+Engine,36,10,It,Maserati,31,Luigi Musso,R
+Stub axle,36,4,Fr,Gordini,15,Jean Behra,R
+Engine,36,9,Arg,Maserati,12,Roberto Mieres,R
+Engine,36,12,It,Giaur,5,Berardo Taraschi,R
+Retirement,36,11,It,Maserati,3,Giovanni de Riu,R
+Retirement,36,14,It,Ferrari,1,Serena,R
+Retirement,36,15,It,Ferrari,0,Carlo Mancini,R
+Gearbox casing,36,13,It,Ferrari,-,Guido Mancini,DNS
+Did Not Arrive,36,-,Arg,Ferrari,-,José Froilán Gonzalez,DNA
+Did Not Arrive,36,-,Fr,Ferrari,-,Maurice Trintignant,DNA
+Did Not Arrive,36,-,It,Ferrari,-,Umberto Maglioi,DNA
+Did Not Arrive,36,-,It,Lancia,-,Alberto Ascari,DNA
+Did Not Arrive,36,-,GB,Emeryson-Alta,-,Paul Emery,DNA
+3h 00m 02.2s,37,6,Fr,Gordini,109,Jean Behra,1
++ 0.2s,37,2,Fr,Ferrari,109,Maurice Trintignant,2
++ 3 laps,37,5,Arg,Maserati,106,Roberto Mieres,3
++ 4 laps,37,9,Fr,Gordini,105,Élie Bayol,4
++ 4 laps,37,1,It,Ferrari,105,Giuseppe Farina,5
++ 5 laps,37,12,Fr,Ferrari,104,Louis Rosier,6
++ 5 laps,37,11,Bel,Gordini,104,André Pilette,7
+Suspension,37,4,Arg,Maserati,51,Onofre Marimón,R
+Engine,37,3,Arg,Ferrari,24,José Froilán Gonzalez,R
+Accident,37,10,Fr,Gordini,23,Eugène Martin,R
+Gearbox,37,8,Fr,Ferrari,16,Robert Manzon,R
+Rear axle,37,7,USA,Maserati,6,Harry Schell,R
+2h 55m 54.41s,38,5,It,Maserati,16,Luigi Musso,1
++ 2m 57.05s,38,9,Th,Maserati,16,B. Bira,2
++ 6m 48.29s,38,8,USA,Maserati,16,Harry Schell,3
++ 1 lap,38,12,Arg,Maserati,15,Jorge Daponte,4
++ 2 laps,38,4,Fr,Gordini,14,Jean Behra,5
++ 6 laps,38,3,Arg,Gordini,10,Clemar Bucci,6
+Engine,38,7,Fr,Ferrari,9,Louis Rosier,R
+Oil pipe,38,1,GB,Maserati,3,Stirling Moss,R
+Mechanical,38,11,It,Ferrari,3,Berardo Taraschi,R
+Gearbox,38,13,Bel,Ferrari,2,Jacques Swaters,R
+Fire,38,10,Fr,Gordini,1,André Guelfi,R
+Brakes,38,2,Fr,Ferrari,1,Robert Manzon,R
+Withdrawn,38,6,It,Ferrari,-,Umberto Maglioli,DNS
+Did Not Arrive,38,-,It,Maserati,-,Sergio Mantovani,DNA
+Did Not Arrive,38,-,Arg,Maserati,-,Roberto Mieres,DNA
+1h 12m 15.0s,39,2,Th,Maserati,20,B. Bira,1
++ 35.0s,39,4,Bel,Gordini,20,André Pilette,2
++ 1 lap,39,3,GB,Connaught-Lea Francis,19,Don Beauman,3
++ 2 laps,39,1,Fr,Gordini,18,Jacques Pollet,4
++ 3 laps,39,5,Bel,Veritas,17,Arthur Legat,NC
+Oil pipe,39,7,Bel,Monnier-BMW,9,Pierre Bastien,R
+Retirement,39,8,Bel,Simca,?,Paul Delabarre,R
+Retirement,39,9,Bel,RG-BMW,?,Roger Gerbout,R
+Mechanical,39,6,Bel,Jicey-BMW,0,Roger Meunier,R
+Engine,39,-,Bel,Ferrari,-,Roger Laurent,DNS
+Camshaft,39,-,Bel,Cooper-Bristol,-,Jacques Swaters,DNS
+No time set,39,-,It,VM-Tatra,-,Viglielmo Matozza,DNQ
+Did Not Arrive,39,-,GB,HWM-Alta,-,Lance Macklin,DNA
+Did Not Arrive,39,-,Bel,Veritas,-,Dekeerle,DNA
+Did Not Arrive,39,-,Bel,Veritas,-,Marcel Masuy,DNA
+Did Not Arrive,39,-,GB,Emeryson-Alta,-,Paul Emery,DNA
+Did Not Arrive,39,-,Bel,Veritas,-,Willy Sturzebecker,DNA
