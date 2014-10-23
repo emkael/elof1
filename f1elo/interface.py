@@ -1,5 +1,8 @@
+from __future__ import print_function
+
 import datetime
 import dateutil.relativedelta
+import sys
 
 from sqlalchemy import MetaData
 
@@ -28,7 +31,7 @@ class Interface:
         for race in query.all():
             race.ranked = False
             if _debug:
-                print race
+                print(race, file=sys.stderr)
 
         query = self.session.query(Ranking)
         if date is not None:
@@ -56,8 +59,8 @@ class Interface:
 
         for race in races:
             if _debug:
-                print race
-                print
+                print(race, file=sys.stderr)
+                print('', file=sys.stderr)
 
             ranks = elo.rank_race(race)
             driver_ranks = {}
@@ -76,8 +79,8 @@ class Interface:
 
             if _debug:
                 for entry in race.entries:
-                    print entry, elo.get_entry_ranking(entry, race.date), elo.get_entry_ranking(entry)
-                print
+                    print(entry, elo.get_entry_ranking(entry, race.date), elo.get_entry_ranking(entry), file=sys.stderr)
+                print('', file=sys.stderr)
 
             race.ranked = True
             date = race.date

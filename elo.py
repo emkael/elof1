@@ -19,7 +19,7 @@ parser.add_argument('--date',
                     'reset ratings all the way down to DATE\n'
                     'or rank the races all the way up to DATE.')
 parser.add_argument('--limit', help='Ranking list (display) cut-off point.', type=int)
-parser.add_argument('-v', help='Display verbose info on rating progress.', action='store_true')
+parser.add_argument('-v', help='Display verbose info on rating progress to STDERR.', action='store_true')
 parser.add_argument('--force', '-f', help='Force database initialization (for "init" command).', action='store_true')
 
 arguments = parser.parse_args()
