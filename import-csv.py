@@ -1,7 +1,7 @@
 import csv
 import sys
 
-from f1elo.db import find_driver, Session
+from f1elo.model import find_driver, Session
 from f1elo.model import *
 
 session = Session()

@@ -2,7 +2,6 @@ import json
 from os import path
 
 import __main__
-from f1elo.model import Driver
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
@@ -11,15 +10,5 @@ if config['engine'] == 'mysql':
     engine = create_engine("mysql://{0[user]}:{0[pass]}@{0[host]}/{0[db]}?charset=utf8".format(config))
 else:
     engine = create_engine("sqlite:///{0[file]}".format(config))
-Session = sessionmaker(bind=engine)
 
-def find_driver(name, country, session):
-    driver = session.query(Driver).filter(Driver.driver==name).first()
-    if driver:
-        return driver
-    else:
-        driver = Driver()
-        driver.driver = name
-        driver.country = country
-        session.add(driver)
-        return driver
+Session = sessionmaker(bind=engine)
