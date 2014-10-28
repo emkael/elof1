@@ -1,11 +1,11 @@
 {
-	 "initial_ranking": 1600.0,
-	 "disparity": 300,
-	 "importance": {
-		  "NC_Q": 1.6,
-		  "NC_R": 16,
-		  "C_Q": 3.2,
-	     "C_R": 32
-	 },
-    "importance_threshold": [ 2000, 1800 ]
+    "initial_ranking": 1450.0,
+    "disparity": 800,
+    "importance": {
+	"NC_Q": 1.6,
+	"NC_R": 16,
+	"C_Q": 3.2,
+	"C_R": 32
+    },
+    "importance_threshold": [ 2000, 1700 ]
 }
