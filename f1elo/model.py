@@ -51,7 +51,7 @@ class Race(Base):
     id = Column(Integer, primary_key=True)
     race = Column(String(1024))
     date = Column(Date)
-    ranked = Column(Boolean)
+    ranked = Column(Boolean, default=False)
 
     _type = Column(Integer, ForeignKey('race_types.id'))
     type = relationship('RaceType', back_populates='races', order_by='Race.date')
