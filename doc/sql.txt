@@ -3,3 +3,15 @@ Useful queries:
 SELECT * FROM `rankings` JOIN drivers ON rankings._driver = drivers.id WHERE ranking >= (SELECT MAX(r.ranking) FROM rankings r WHERE r.rank_date <= rankings.rank_date) ORDER BY rank_date ASC
 
  - selects top rating progression
+
+SELECT drivers.driver, rankings.ranking, rankings.rank_date FROM rankings INNER JOIN (SELECT MAX(ranking) ranking, _driver FROM rankings GROUP BY _driver) r ON r.ranking=rankings.ranking AND r._driver=rankings._driver JOIN drivers ON rankings._driver = drivers.id ORDER BY rankings.ranking DESC
+
+ - overall top peak ratings
+ 
+SELECT drivers.driver, rankings.ranking, rankings.rank_date FROM rankings INNER JOIN (SELECT MAX(rank_date) rank_date, _driver FROM rankings GROUP BY _driver) r ON r.rank_date=rankings.rank_date AND r._driver=rankings._driver JOIN drivers ON rankings._driver = drivers.id ORDER BY rankings.ranking DESC
+
+ - highest exit ratings
+
+SELECT MAX(ranking), AVG(ranking), YEAR(rank_date) FROM rankings GROUP BY YEAR(rank_date) ORDER BY YEAR(rank_date) ASC
+
+ - year-by-year rating inflation
