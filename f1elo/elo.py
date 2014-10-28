@@ -39,9 +39,9 @@ class Elo:
     def get_importance(self, race, rankings):
         base_importance = self.config['importance'][race.type.code]
         min_rank = min(rankings)
-        if min_rank < 2100:
+        if min_rank < min(self.config['importance_threshold']):
             return base_importance
-        if min_rank <= 2400:
+        if min_rank <= max(self.config['importance_threshold']):
             return base_importance * 0.75
         return base_importance / 2
 
