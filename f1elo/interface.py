@@ -50,6 +50,8 @@ class Interface:
     def rate(self, date=None, _debug=False):
         if date is None:
             date = self.date
+        if date is None:
+            date = datetime.date.today()
 
         elo = Elo(self.session)
         race_query = self.session.query(Race).filter(Race.ranked == False)
