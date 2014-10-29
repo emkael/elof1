@@ -7,7 +7,7 @@ from f1elo.interface import Interface
 
 parser = argparse.ArgumentParser(
     description='Ranks Formula One drivers using Elo rating',
-                                 formatter_class=argparse.RawTextHelpFormatter)
+    formatter_class=argparse.RawTextHelpFormatter)
 parser.add_argument('command', metavar='COMMAND', nargs='?',
                     help="Action to execute against the database:\n"
                     "print - prints the rankings for all drivers ranked in 12 months,\n"
