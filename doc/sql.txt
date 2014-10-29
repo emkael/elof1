@@ -2,12 +2,29 @@ Useful queries:
 
  - selects top rating progression
 
+CREATE OR REPLACE VIEW max_date_rankings AS
+       SELECT MAX(ranking) max_ranking,
+              rank_date max_rank_date
+       FROM rankings
+       GROUP BY rank_date;
+SELECT drivers.driver,
+       max_date_rankings.max_rank_date,
+       max_date_rankings.max_ranking
+FROM max_date_rankings
+INNER JOIN rankings ON (rankings.ranking = max_date_rankings.max_ranking)
+                    AND (rankings.rank_date = max_date_rankings.max_rank_date)
+LEFT JOIN drivers ON rankings._driver = drivers.id
+WHERE max_ranking > (
+      SELECT MAX(mr.max_ranking) FROM max_date_rankings mr
+      WHERE mr.max_rank_date < max_date_rankings.max_rank_date
+);
+
 SELECT * FROM rankings
 JOIN drivers ON rankings._driver = drivers.id
 WHERE ranking >= (
       SELECT MAX(r.ranking) FROM rankings r
       WHERE r.rank_date <= rankings.rank_date
-) ORDER BY rank_date ASC
+) ORDER BY rank_date ASC;
 
  - overall top peak ratings
 
@@ -20,7 +37,7 @@ INNER JOIN (
       GROUP BY _driver
 ) r ON r.ranking=rankings.ranking AND r._driver=rankings._driver
 JOIN drivers ON rankings._driver = drivers.id
-ORDER BY rankings.ranking DESC
+ORDER BY rankings.ranking DESC;
 
  - highest exit ratings
 
@@ -33,7 +50,7 @@ INNER JOIN (
 ) r ON r.rank_date=rankings.rank_date AND r._driver=rankings._driver
 JOIN drivers ON rankings._driver = drivers.id
 WHERE rankings.rank_date < CONCAT(YEAR(CURDATE()),'-01-01')
-ORDER BY rankings.ranking DESC
+ORDER BY rankings.ranking DESC;
 
  - year-by-year rating inflation
 
@@ -45,4 +62,4 @@ SELECT YEAR(rank_date),
        AVG(ranking)-STDDEV(ranking)
 FROM rankings
 GROUP BY YEAR(rank_date)
-ORDER BY YEAR(rank_date) ASC
+ORDER BY YEAR(rank_date) ASC;
