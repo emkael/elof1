@@ -20,7 +20,7 @@ class Driver(Base):
     def get_ranking(self, rank_date=None):
         ranks = self.rankings
         if rank_date is not None:
-            ranks = [r for r in ranks if r.rank_date < rank_date]
+            ranks = [r for r in ranks if r.rank_date <= rank_date]
         if len(ranks):
             return ranks[-1]
         return None
