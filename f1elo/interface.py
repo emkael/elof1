@@ -1,16 +1,17 @@
 from __future__ import print_function
 
 import datetime
-import dateutil.relativedelta
 import sys
 
-from sqlalchemy import MetaData
-
+import dateutil.relativedelta
 from f1elo.db import Session
 from f1elo.elo import Elo
 from f1elo.model import *
+from sqlalchemy import MetaData
+
 
 class Interface:
+
     def __init__(self, date=None):
         self.session = Session()
         self.date = date
@@ -69,8 +70,8 @@ class Interface:
             for entry, rank in ranks.iteritems():
                 correction = rank / len(entry.drivers)
                 for driver in entry.drivers:
-                    if not driver_ranks.has_key(driver):
-                        driver_ranks[driver] = 0;
+                    if driver not in driver_ranks:
+                        driver_ranks[driver] = 0
                     driver_ranks[driver] += correction
             for driver, rank in driver_ranks.iteritems():
                 ranking = Ranking()
@@ -81,7 +82,12 @@ class Interface:
 
             if _debug:
                 for entry in race.entries:
-                    print(entry, elo.get_entry_ranking(entry, race.date), elo.get_entry_ranking(entry), file=sys.stderr)
+                    print(
+                        entry,
+                        elo.get_entry_ranking(entry,
+                                              race.date),
+                        elo.get_entry_ranking(entry),
+                        file=sys.stderr)
                 print('', file=sys.stderr)
 
             race.ranked = True
@@ -104,11 +110,16 @@ class Interface:
             date += datetime.timedelta(1)
 
         one_year = dateutil.relativedelta.relativedelta(years=1)
-        rankings = self.session.query(Ranking).filter(Ranking.rank_date > (date - one_year)).filter(Ranking.rank_date <= date).all()
+        rankings = self.session.query(
+            Ranking).filter(
+                Ranking.rank_date > (
+                    date - one_year)).filter(
+                Ranking.rank_date <= date).all(
+        )
 
         drivers = {}
         for ranking in rankings:
-            if not drivers.has_key(ranking.driver):
+            if ranking.driver not in drivers:
                 drivers[ranking.driver] = ranking.driver.get_ranking(date)
 
         self.date = date

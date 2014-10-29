@@ -11,14 +11,14 @@ import urllib2
 import urlparse
 from sys import argv
 
-from lxml import etree, html
-
 from bs4 import BeautifulSoup
+from lxml import etree, html
 
 
 def fetch(url):
     print url
-    contents = json.loads(urllib2.urlopen('http://second-a-lap.blogspot.com/feeds/posts/default?'+urllib.urlencode({ 'alt': 'json', 'v': 2, 'dynamicviews': 1, 'path': url })).read())
+    contents = json.loads(urllib2.urlopen('http://second-a-lap.blogspot.com/feeds/posts/default?' +
+                          urllib.urlencode({'alt': 'json', 'v': 2, 'dynamicviews': 1, 'path': url})).read())
     title = contents['feed']['entry'][0]['title']['$t']
     print title
     text = contents['feed']['entry'][0]['content']['$t']
@@ -31,12 +31,18 @@ def fetch(url):
         path = open(os.path.join('second-a-lap', name + '.txt'), 'w')
         table = etree.tostring(table)
         print >>path, table
-        csv_file = csv.writer(open(os.path.join('second-a-lap', 'csv', name + '.csv'), 'w'))
+        csv_file = csv.writer(
+            open(os.path.join('second-a-lap', 'csv', name + '.csv'), 'w'))
         soup = BeautifulSoup(table)
         for row in soup.find_all('tr'):
-            row = map(lambda t: re.sub('\s+', ' ', " ".join(t.stripped_strings)).encode('utf-8'), row.find_all(re.compile('t[dh]')))
+            row = map(
+                lambda t: re.sub('\s+',
+                                 ' ',
+                                 " ".join(t.stripped_strings)).encode('utf-8'),
+                row.find_all(re.compile('t[dh]')))
             csv_file.writerow(row)
         i += 1
+
 
 def compile(files):
     headers = set()
@@ -57,7 +63,7 @@ def compile(files):
                         data['Race'] = race_id
                         i += 1
                     values.append(data)
-                writer.writerow([race_id,path,'','',''])
+                writer.writerow([race_id, path, '', '', ''])
                 race_id += 1
         except IOError:
             pass

@@ -5,6 +5,7 @@ from sqlalchemy.types import Boolean, Date, Float, Integer, String
 
 Base = declarative_base()
 
+
 class Driver(Base):
     __tablename__ = 'drivers'
 
@@ -12,7 +13,12 @@ class Driver(Base):
     driver = Column(String(1024))
     country = Column(String(255))
 
-    rankings = relationship('Ranking', order_by='Ranking.rank_date', back_populates='driver', cascade="all", passive_deletes=True)
+    rankings = relationship(
+        'Ranking',
+        order_by='Ranking.rank_date',
+     back_populates='driver',
+     cascade="all",
+     passive_deletes=True)
 
     def __repr__(self):
         return (u"<%s (#%d)>" % (self.driver, self.id)).encode('utf8')
@@ -27,7 +33,7 @@ class Driver(Base):
 
     @staticmethod
     def fetch(name, country, session):
-        driver = session.query(Driver).filter(Driver.driver==name).first()
+        driver = session.query(Driver).filter(Driver.driver == name).first()
         if not driver:
             driver = Driver()
             driver.driver = name
@@ -36,9 +42,22 @@ class Driver(Base):
         return driver
 
 driver_entry = Table('driver_entries', Base.metadata,
-                     Column('_driver', Integer, ForeignKey('drivers.id', onupdate="CASCADE", ondelete="CASCADE")),
-                     Column('_entry', Integer, ForeignKey('entries.id', onupdate="CASCADE", ondelete="CASCADE")),
+                     Column(
+                     '_driver',
+                     Integer,
+                     ForeignKey(
+                         'drivers.id',
+                         onupdate="CASCADE",
+                         ondelete="CASCADE")),
+                     Column(
+                     '_entry',
+                     Integer,
+                     ForeignKey(
+                         'entries.id',
+                         onupdate="CASCADE",
+                         ondelete="CASCADE")),
                      Column('id', Integer, primary_key=True))
+
 
 class Entry(Base):
     __tablename__ = 'entries'
@@ -48,13 +67,26 @@ class Entry(Base):
     car_no = Column(String(255))
     result_group = Column(Integer)
 
-    _race = Column(Integer, ForeignKey('races.id', onupdate="CASCADE", ondelete="CASCADE"))
-    race = relationship('Race', back_populates='entries', order_by=result_group)
+    _race = Column(
+        Integer,
+        ForeignKey(
+            'races.id',
+            onupdate="CASCADE",
+         ondelete="CASCADE"))
+    race = relationship(
+        'Race',
+        back_populates='entries',
+     order_by=result_group)
 
-    drivers = relationship('Driver', secondary=driver_entry, cascade="all", passive_deletes=True)
+    drivers = relationship(
+        'Driver',
+        secondary=driver_entry,
+     cascade="all",
+     passive_deletes=True)
 
     def __repr__(self):
         return ('#%s (%s) %s[%d]' % (self.car_no, ', '.join([driver.__repr__().decode('utf8') for driver in self.drivers]), self.result, self.result_group)).encode('utf8')
+
 
 class Race(Base):
     __tablename__ = 'races'
@@ -64,13 +96,27 @@ class Race(Base):
     date = Column(Date)
     ranked = Column(Boolean, default=False)
 
-    _type = Column(Integer, ForeignKey('race_types.id', onupdate="CASCADE", ondelete="CASCADE"))
-    type = relationship('RaceType', back_populates='races', order_by='Race.date')
+    _type = Column(
+        Integer,
+        ForeignKey(
+            'race_types.id',
+            onupdate="CASCADE",
+         ondelete="CASCADE"))
+    type = relationship(
+        'RaceType',
+        back_populates='races',
+     order_by='Race.date')
 
-    entries = relationship('Entry', back_populates='race', order_by='Entry.result_group', cascade="all", passive_deletes=True)
+    entries = relationship(
+        'Entry',
+        back_populates='race',
+     order_by='Entry.result_group',
+     cascade="all",
+     passive_deletes=True)
 
     def __repr__(self):
         return ('%s (%s)' % (self.race, self.date)).encode('utf8')
+
 
 class RaceType(Base):
     __tablename__ = 'race_types'
@@ -79,10 +125,15 @@ class RaceType(Base):
     code = Column(String(255))
     description = Column(String(1024))
 
-    races = relationship('Race', back_populates='type', cascade="all", passive_deletes=True)
+    races = relationship(
+        'Race',
+        back_populates='type',
+     cascade="all",
+     passive_deletes=True)
 
     def __repr__(self):
         return ('%s (%s)' % (self.description, self.code)).encode('utf8')
+
 
 class Ranking(Base):
     __tablename__ = 'rankings'
@@ -91,8 +142,16 @@ class Ranking(Base):
     rank_date = Column(Date)
     ranking = Column(Float)
 
-    _driver = Column(Integer, ForeignKey('drivers.id', onupdate="CASCADE", ondelete="CASCADE"))
-    driver = relationship('Driver', back_populates='rankings', order_by=rank_date)
+    _driver = Column(
+        Integer,
+        ForeignKey(
+            'drivers.id',
+            onupdate="CASCADE",
+         ondelete="CASCADE"))
+    driver = relationship(
+        'Driver',
+        back_populates='rankings',
+     order_by=rank_date)
 
     def __repr__(self):
         return ("%s: %0.2f (%s)" % (self.driver.__repr__().decode('utf8'), self.ranking, self. rank_date)).encode('utf8')

@@ -7,9 +7,11 @@ from f1elo.model import *
 
 
 class Elo:
+
     def __init__(self, session):
         self.session = session
-        self.config = json.load(open(path.join(path.dirname(__main__.__file__), 'config', 'elo.json')))
+        self.config = json.load(
+            open(path.join(path.dirname(__main__.__file__), 'config', 'elo.json')))
 
     def get_ranking(self, driver, rank_date=None):
         rank = driver.get_ranking(rank_date)
@@ -31,7 +33,12 @@ class Elo:
             if e.result_group:
                 entries_to_compare.append(e)
         for c in combinations(entries_to_compare, 2):
-            score = self.get_score(rankings[c[0]] - rankings[c[1]], self.get_outcome(c), self.get_importance(race, [rankings[c[0]], rankings[c[1]]]))
+            score = self.get_score(
+                rankings[c[0]] - rankings[c[1]],
+                self.get_outcome(c),
+                self.get_importance(race,
+                                    [rankings[c[0]],
+                                     rankings[c[1]]]))
             new_rankings[c[0]] += score
             new_rankings[c[1]] -= score
         return new_rankings
@@ -44,7 +51,6 @@ class Elo:
         if min_rank <= max(self.config['importance_threshold']):
             return base_importance * 0.75
         return base_importance / 2
-
 
     def get_outcome(self, entries):
         if entries[0].result_group < entries[1].result_group:
