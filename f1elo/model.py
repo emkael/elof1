@@ -94,7 +94,7 @@ class Race(Base):
     id = Column(Integer, primary_key=True)
     race = Column(String(1024))
     date = Column(Date)
-    ranked = Column(Boolean, default=False)
+    ranked = Column(Boolean, nullable=False, server_default='0', default=False)
 
     _type = Column(
         Integer,
