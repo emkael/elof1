@@ -25,6 +25,16 @@ class Driver(Base):
             return ranks[-1]
         return None
 
+    @staticmethod
+    def fetch(name, country, session):
+        driver = session.query(Driver).filter(Driver.driver==name).first()
+        if not driver:
+            driver = Driver()
+            driver.driver = name
+            driver.country = country
+            session.add(driver)
+        return driver
+
 driver_entry = Table('driver_entries', Base.metadata,
                      Column('_driver', Integer, ForeignKey('drivers.id')),
                      Column('_entry', Integer, ForeignKey('entries.id')),
@@ -84,17 +94,6 @@ class Ranking(Base):
 
     def __repr__(self):
         return ("%s: %0.2f (%s)" % (self.driver.__repr__().decode('utf8'), self.ranking, self. rank_date)).encode('utf8')
-
-def find_driver(name, country, session):
-    driver = session.query(Driver).filter(Driver.driver==name).first()
-    if driver:
-        return driver
-    else:
-        driver = Driver()
-        driver.driver = name
-        driver.country = country
-        session.add(driver)
-        return driver
 
 
 __all__ = ['Driver', 'Entry', 'Ranking', 'Race', 'RaceType']

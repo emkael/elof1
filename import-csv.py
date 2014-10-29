@@ -2,7 +2,6 @@ import csv
 import sys
 
 from f1elo.db import Session
-from f1elo.model import find_driver
 from f1elo.model import *
 
 session = Session()
@@ -18,10 +17,10 @@ with open(sys.argv[1]) as f:
             entry.car_no = row[2]
             entry.result_group = row[5]
             session.add(entry)
-            driver = find_driver(row[4].strip(), row[3].strip(), session)
+            driver = Driver.fetch(row[4].strip(), row[3].strip(), session)
             entry.drivers.append(driver)
         elif len(row) == 2:
-            driver = find_driver(row[1].strip(), row[0].strip(), session)
+            driver = Driver.fetch(row[1].strip(), row[0].strip(), session)
             entry.drivers.append(driver)
         else:
             print row
