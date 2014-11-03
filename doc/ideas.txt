@@ -1,0 +1,9 @@
+Charts:
+ - rolling average and deviation of rankings
+ - average ranking at the beginning of each championship season
+Calculation:
+ - modifying disparity by time of year (or by ranking deviation from last 3-4 months)
+
+TODO:
+ - detect grid penalties (ergast.races.grid != eragst.qualifying.position || non-ergast.qualifying.position != ergast.races.grid)
+ - detect multi-heat races on chicanef1
