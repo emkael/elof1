@@ -63,3 +63,7 @@ SELECT YEAR(rank_date),
 FROM rankings
 GROUP BY YEAR(rank_date)
 ORDER BY YEAR(rank_date) ASC;
+
+ - qualifying/grid sanity check
+
+SELECT drivers.number, drivers.forename, drivers.surname, races.year, races.name, qualifying.number, qualifying.position, qualifying.q1, qualifying.q2, qualifying.q3, results.grid, results.number FROM qualifying INNER JOIN results ON (qualifying.driverID = results.driverId) AND (qualifying.raceId = results.raceId) JOIN drivers ON drivers.driverId = results.driverId JOIN races ON results.raceId = races.raceId WHERE qualifying.position <> results.grid ORDER BY races.date ASC
