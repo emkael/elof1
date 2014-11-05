@@ -1,9 +1,16 @@
+Tables:
+ - all-time peak ratings
+ - top exit ratings (date < 2014)
+ - peak rating progression
 Charts:
  - rolling average and deviation of rankings
  - average ranking at the beginning of each championship season
+ - peak season ranking (MAX, MIN, AVG, STDDEV GROUP BY YEAR(date))
+ - top 5 of every season (on average) by decade
 Calculation:
  - modifying disparity by time of year (or by ranking deviation from last 3-4 months)
 
 TODO:
- - detect grid penalties (ergast.races.grid != eragst.qualifying.position || non-ergast.qualifying.position != ergast.races.grid)
- - detect multi-heat races on chicanef1
+ - detect grid penalties (ergast.races.grid != eragst.qualifying.position) -> ergast-qualifying.csv
+ - non-ergast.qualifying.position != ergast.races.grid (chicane-results.csv -> temp db -> chicane-results.csv)
+ - detect multi-heat (NC) races on chicanef1
