@@ -1,926 +1,874 @@
-0	chicane-f1/csv/1954ACFGPQualification1.csv
-1	chicane-f1/csv/1954ArgentineGPQualification1.csv
-2	chicane-f1/csv/1954BelgianGPQualification1.csv
-3	chicane-f1/csv/1954BritishGPQualification1.csv
-4	chicane-f1/csv/1954GermanGPQualification1.csv
-5	chicane-f1/csv/1954Indianapolis500Qualification1.csv
-6	chicane-f1/csv/1954ItalianGPQualification1.csv
-7	chicane-f1/csv/1954SpanishGPQualification1.csv
-8	chicane-f1/csv/1954SwissGPQualification1.csv
-9	chicane-f1/csv/1955ArgentineGPQualification1.csv
-10	chicane-f1/csv/1955BelgianGPQualification1.csv
-11	chicane-f1/csv/1955BritishGPQualification1.csv
-12	chicane-f1/csv/1955DutchGPQualification1.csv
-13	chicane-f1/csv/1955Indianapolis500Qualification1.csv
-14	chicane-f1/csv/1955ItalianGPQualification1.csv
-15	chicane-f1/csv/1955MonacoGPQualification1.csv
-16	chicane-f1/csv/1956ACFGPQualification1.csv
-17	chicane-f1/csv/1956ArgentineGPQualification1.csv
-18	chicane-f1/csv/1956BelgianGPQualification1.csv
-19	chicane-f1/csv/1956BritishGPQualification1.csv
-20	chicane-f1/csv/1956GermanGPQualification1.csv
-21	chicane-f1/csv/1956Indianapolis500Qualification1.csv
-22	chicane-f1/csv/1956ItalianGPQualification1.csv
-23	chicane-f1/csv/1956MonacoGPQualification1.csv
-24	chicane-f1/csv/1957ACFGPQualification1.csv
-25	chicane-f1/csv/1957ArgentineGPQualification1.csv
-26	chicane-f1/csv/1957BritishGPQualification1.csv
-27	chicane-f1/csv/1957GermanGPQualification1.csv
-28	chicane-f1/csv/1957Indianapolis500Qualification1.csv
-29	chicane-f1/csv/1957ItalianGPQualification1.csv
-30	chicane-f1/csv/1957MonacoGPQualification1.csv
-31	chicane-f1/csv/1957PescaraCircuitQualification1.csv
-32	chicane-f1/csv/1958ACFGPQualification1.csv
-33	chicane-f1/csv/1958ArgentineGPQualification1.csv
-34	chicane-f1/csv/1958BelgianGPQualification1.csv
-35	chicane-f1/csv/1958BritishGPQualification1.csv
-36	chicane-f1/csv/1958DutchGPQualification1.csv
-37	chicane-f1/csv/1958GermanGPQualification1.csv
-38	chicane-f1/csv/1958Indianapolis500Qualification1.csv
-39	chicane-f1/csv/1958ItalianGPQualification1.csv
-40	chicane-f1/csv/1958MonacoGPQualification1.csv
-41	chicane-f1/csv/1958MoroccanGPQualification1.csv
-42	chicane-f1/csv/1958PortugueseGPQualification1.csv
-43	chicane-f1/csv/1959ACFGPQualification1.csv
-44	chicane-f1/csv/1959BritishGPQualification1.csv
-45	chicane-f1/csv/1959DutchGPQualification1.csv
-46	chicane-f1/csv/1959GermanGPQualification1.csv
-47	chicane-f1/csv/1959Indianapolis500Qualification1.csv
-48	chicane-f1/csv/1959ItalianGPQualification1.csv
-49	chicane-f1/csv/1959MonacoGPQualification1.csv
-50	chicane-f1/csv/1959PortugueseGPQualification1.csv
-51	chicane-f1/csv/1959UnitedStatesGPQualification1.csv
-52	chicane-f1/csv/1960ACFGPQualification1.csv
-53	chicane-f1/csv/1960ArgentineGPQualification1.csv
-54	chicane-f1/csv/1960BelgianGPQualification1.csv
-55	chicane-f1/csv/1960BritishGPQualification1.csv
-56	chicane-f1/csv/1960DutchGPQualification1.csv
-57	chicane-f1/csv/1960Indianapolis500Qualification1.csv
-58	chicane-f1/csv/1960ItalianGPQualification1.csv
-59	chicane-f1/csv/1960MonacoGPQualification1.csv
-60	chicane-f1/csv/1960PortugueseGPQualification1.csv
-61	chicane-f1/csv/1960UnitedStatesGPQualification1.csv
-62	chicane-f1/csv/1961ACFGPQualification1.csv
-63	chicane-f1/csv/1961BelgianGPQualification1.csv
-64	chicane-f1/csv/1961BritishGPQualification1.csv
-65	chicane-f1/csv/1961DutchGPQualification1.csv
-66	chicane-f1/csv/1961GermanGPQualification1.csv
-67	chicane-f1/csv/1961ItalianGPQualification1.csv
-68	chicane-f1/csv/1961MonacoGPQualification1.csv
-69	chicane-f1/csv/1961UnitedStatesGPQualification1.csv
-70	chicane-f1/csv/1962ACFGPQualification1.csv
-71	chicane-f1/csv/1962BelgianGPQualification1.csv
-72	chicane-f1/csv/1962BritishGPQualification1.csv
-73	chicane-f1/csv/1962DutchGPQualification1.csv
-74	chicane-f1/csv/1962GermanGPQualification1.csv
-75	chicane-f1/csv/1962ItalianGPQualification1.csv
-76	chicane-f1/csv/1962MonacoGPQualification1.csv
-77	chicane-f1/csv/1962SouthAfricanGPQualification1.csv
-78	chicane-f1/csv/1962UnitedStatesGPQualification1.csv
-79	chicane-f1/csv/1963ACFGPQualification1.csv
-80	chicane-f1/csv/1963BelgianGPQualification1.csv
-81	chicane-f1/csv/1963BritishGPQualification1.csv
-82	chicane-f1/csv/1963DutchGPQualification1.csv
-83	chicane-f1/csv/1963GermanGPQualification1.csv
-84	chicane-f1/csv/1963ItalianGPQualification1.csv
-85	chicane-f1/csv/1963MexicanGPQualification1.csv
-86	chicane-f1/csv/1963MonacoGPQualification1.csv
-87	chicane-f1/csv/1963SouthAfricanGPQualification1.csv
-88	chicane-f1/csv/1963UnitedStatesGPQualification1.csv
-89	chicane-f1/csv/1964ACFGPQualification1.csv
-90	chicane-f1/csv/1964AustrianGPQualification1.csv
-91	chicane-f1/csv/1964BelgianGPQualification1.csv
-92	chicane-f1/csv/1964BritishGPQualification1.csv
-93	chicane-f1/csv/1964DutchGPQualification1.csv
-94	chicane-f1/csv/1964GermanGPQualification1.csv
-95	chicane-f1/csv/1964ItalianGPQualification1.csv
-96	chicane-f1/csv/1964MexicanGPQualification1.csv
-97	chicane-f1/csv/1964MonacoGPQualification1.csv
-98	chicane-f1/csv/1964UnitedStatesGPQualification1.csv
-99	chicane-f1/csv/1965ACFGPQualification1.csv
-100	chicane-f1/csv/1965BelgianGPQualification1.csv
-101	chicane-f1/csv/1965BritishGPQualification1.csv
-102	chicane-f1/csv/1965DutchGPQualification1.csv
-103	chicane-f1/csv/1965GermanGPQualification1.csv
-104	chicane-f1/csv/1965ItalianGPQualification1.csv
-105	chicane-f1/csv/1965MexicanGPQualification1.csv
-106	chicane-f1/csv/1965MonacoGPQualification1.csv
-107	chicane-f1/csv/1965SouthAfricanGPQualification1.csv
-108	chicane-f1/csv/1965UnitedStatesGPQualification1.csv
-109	chicane-f1/csv/1966ACFGPQualification1.csv
-110	chicane-f1/csv/1966BelgianGPQualification1.csv
-111	chicane-f1/csv/1966BritishGPQualification1.csv
-112	chicane-f1/csv/1966DutchGPQualification1.csv
-113	chicane-f1/csv/1966GermanGPQualification1.csv
-114	chicane-f1/csv/1966ItalianGPQualification1.csv
-115	chicane-f1/csv/1966MexicanGPQualification1.csv
-116	chicane-f1/csv/1966MonacoGPQualification1.csv
-117	chicane-f1/csv/1966UnitedStatesGPQualification1.csv
-118	chicane-f1/csv/1967ACFGPQualification1.csv
-119	chicane-f1/csv/1967BelgianGPQualification1.csv
-120	chicane-f1/csv/1967BritishGPQualification1.csv
-121	chicane-f1/csv/1967CanadianGPQualification1.csv
-122	chicane-f1/csv/1967DutchGPQualification1.csv
-123	chicane-f1/csv/1967GermanGPQualification1.csv
-124	chicane-f1/csv/1967ItalianGPQualification1.csv
-125	chicane-f1/csv/1967MexicanGPQualification1.csv
-126	chicane-f1/csv/1967MonacoGPQualification1.csv
-127	chicane-f1/csv/1967SouthAfricanGPQualification1.csv
-128	chicane-f1/csv/1967UnitedStatesGPQualification1.csv
-129	chicane-f1/csv/1968BelgianGPQualification1.csv
-130	chicane-f1/csv/1968BritishGPQualification1.csv
-131	chicane-f1/csv/1968CanadianGPQualification1.csv
-132	chicane-f1/csv/1968DutchGPQualification1.csv
-133	chicane-f1/csv/1968FrenchGPQualification1.csv
-134	chicane-f1/csv/1968GermanGPQualification1.csv
-135	chicane-f1/csv/1968ItalianGPQualification1.csv
-136	chicane-f1/csv/1968MexicanGPQualification1.csv
-137	chicane-f1/csv/1968MonacoGPQualification1.csv
-138	chicane-f1/csv/1968SouthAfricanGPQualification1.csv
-139	chicane-f1/csv/1968SpanishGPQualification1.csv
-140	chicane-f1/csv/1968UnitedStatesGPQualification1.csv
-141	chicane-f1/csv/1969BritishGPQualification1.csv
-142	chicane-f1/csv/1969CanadianGPQualification1.csv
-143	chicane-f1/csv/1969DutchGPQualification1.csv
-144	chicane-f1/csv/1969FrenchGPQualification1.csv
-145	chicane-f1/csv/1969GermanGPQualification1.csv
-146	chicane-f1/csv/1969ItalianGPQualification1.csv
-147	chicane-f1/csv/1969MexicanGPQualification1.csv
-148	chicane-f1/csv/1969MonacoGPQualification1.csv
-149	chicane-f1/csv/1969SouthAfricanGPQualification1.csv
-150	chicane-f1/csv/1969SpanishGPQualification1.csv
-151	chicane-f1/csv/1969UnitedStatesGPQualification1.csv
-152	chicane-f1/csv/1970AustrianGPQualification1.csv
-153	chicane-f1/csv/1970BelgianGPQualification1.csv
-154	chicane-f1/csv/1970BritishGPQualification1.csv
-155	chicane-f1/csv/1970CanadianGPQualification1.csv
-156	chicane-f1/csv/1970DutchGPQualification1.csv
-157	chicane-f1/csv/1970FrenchGPQualification1.csv
-158	chicane-f1/csv/1970GermanGPQualification1.csv
-159	chicane-f1/csv/1970ItalianGPQualification1.csv
-160	chicane-f1/csv/1970MexicanGPQualification1.csv
-161	chicane-f1/csv/1970MonacoGPQualification1.csv
-162	chicane-f1/csv/1970SouthAfricanGPQualification1.csv
-163	chicane-f1/csv/1970SpanishGPQualification1.csv
-164	chicane-f1/csv/1970UnitedStatesGPQualification1.csv
-165	chicane-f1/csv/1971AustrianGPQualification1.csv
-166	chicane-f1/csv/1971BritishGPQualification1.csv
-167	chicane-f1/csv/1971CanadianGPQualification1.csv
-168	chicane-f1/csv/1971DutchGPQualification1.csv
-169	chicane-f1/csv/1971FrenchGPQualification1.csv
-170	chicane-f1/csv/1971GermanGPQualification1.csv
-171	chicane-f1/csv/1971ItalianGPQualification1.csv
-172	chicane-f1/csv/1971MonacoGPQualification1.csv
-173	chicane-f1/csv/1971SouthAfricanGPQualification1.csv
-174	chicane-f1/csv/1971SpanishGPQualification1.csv
-175	chicane-f1/csv/1971UnitedStatesGPQualification1.csv
-176	chicane-f1/csv/1972ArgentineGPQualification1.csv
-177	chicane-f1/csv/1972AustrianGPQualification1.csv
-178	chicane-f1/csv/1972BelgianGPQualification1.csv
-179	chicane-f1/csv/1972BritishGPQualification1.csv
-180	chicane-f1/csv/1972CanadianGPQualification1.csv
-181	chicane-f1/csv/1972FrenchGPQualification1.csv
-182	chicane-f1/csv/1972GermanGPQualification1.csv
-183	chicane-f1/csv/1972ItalianGPQualification1.csv
-184	chicane-f1/csv/1972MonacoGPQualification1.csv
-185	chicane-f1/csv/1972SouthAfricanGPQualification1.csv
-186	chicane-f1/csv/1972SpanishGPQualification1.csv
-187	chicane-f1/csv/1972UnitedStatesGPQualification1.csv
-188	chicane-f1/csv/1973ArgentineGPQualification1.csv
-189	chicane-f1/csv/1973AustrianGPQualification1.csv
-190	chicane-f1/csv/1973BelgianGPQualification1.csv
-191	chicane-f1/csv/1973BrazilianGPQualification1.csv
-192	chicane-f1/csv/1973BritishGPQualification1.csv
-193	chicane-f1/csv/1973CanadianGPQualification1.csv
-194	chicane-f1/csv/1973DutchGPQualification1.csv
-195	chicane-f1/csv/1973FrenchGPQualification1.csv
-196	chicane-f1/csv/1973GermanGPQualification1.csv
-197	chicane-f1/csv/1973ItalianGPQualification1.csv
-198	chicane-f1/csv/1973MonacoGPQualification1.csv
-199	chicane-f1/csv/1973SouthAfricanGPQualification1.csv
-200	chicane-f1/csv/1973SpanishGPQualification1.csv
-201	chicane-f1/csv/1973SwedishGPQualification1.csv
-202	chicane-f1/csv/1973UnitedStatesGPQualification1.csv
-203	chicane-f1/csv/1974ArgentineGPQualification1.csv
-204	chicane-f1/csv/1974AustrianGPQualification1.csv
-205	chicane-f1/csv/1974BelgianGPQualification1.csv
-206	chicane-f1/csv/1974BrazilianGPQualification1.csv
-207	chicane-f1/csv/1974BritishGPQualification1.csv
-208	chicane-f1/csv/1974CanadianGPQualification1.csv
-209	chicane-f1/csv/1974DutchGPQualification1.csv
-210	chicane-f1/csv/1974FrenchGPQualification1.csv
-211	chicane-f1/csv/1974GermanGPQualification1.csv
-212	chicane-f1/csv/1974ItalianGPQualification1.csv
-213	chicane-f1/csv/1974MonacoGPQualification1.csv
-214	chicane-f1/csv/1974SouthAfricanGPQualification1.csv
-215	chicane-f1/csv/1974SpanishGPQualification1.csv
-216	chicane-f1/csv/1974SwedishGPQualification1.csv
-217	chicane-f1/csv/1974UnitedStatesGPQualification1.csv
-218	chicane-f1/csv/1975ArgentineGPQualification1.csv
-219	chicane-f1/csv/1975AustrianGPQualification1.csv
-220	chicane-f1/csv/1975BelgianGPQualification1.csv
-221	chicane-f1/csv/1975BrazilianGPQualification1.csv
-222	chicane-f1/csv/1975BritishGPQualification1.csv
-223	chicane-f1/csv/1975DutchGPQualification1.csv
-224	chicane-f1/csv/1975FrenchGPQualification1.csv
-225	chicane-f1/csv/1975GermanGPQualification1.csv
-226	chicane-f1/csv/1975ItalianGPQualification1.csv
-227	chicane-f1/csv/1975MonacoGPQualification1.csv
-228	chicane-f1/csv/1975SouthAfricanGPQualification1.csv
-229	chicane-f1/csv/1975SpanishGPQualification1.csv
-230	chicane-f1/csv/1975SwedishGPQualification1.csv
-231	chicane-f1/csv/1975UnitedStatesGPQualification1.csv
-232	chicane-f1/csv/1976AustrianGPQualification1.csv
-233	chicane-f1/csv/1976BelgianGPQualification1.csv
-234	chicane-f1/csv/1976BrazilianGPQualification1.csv
-235	chicane-f1/csv/1976BritishGPQualification1.csv
-236	chicane-f1/csv/1976CanadianGPQualification1.csv
-237	chicane-f1/csv/1976DutchGPQualification1.csv
-238	chicane-f1/csv/1976FrenchGPQualification1.csv
-239	chicane-f1/csv/1976GermanGPQualification1.csv
-240	chicane-f1/csv/1976ItalianGPQualification1.csv
-241	chicane-f1/csv/1976JapaneseGPQualification1.csv
-242	chicane-f1/csv/1976MonacoGPQualification1.csv
-243	chicane-f1/csv/1976SouthAfricanGPQualification1.csv
-244	chicane-f1/csv/1976SpanishGPQualification1.csv
-245	chicane-f1/csv/1976SwedishGPQualification1.csv
-246	chicane-f1/csv/1976UnitedStatesGPQualification1.csv
-247	chicane-f1/csv/1976USWestGPQualification1.csv
-248	chicane-f1/csv/1977ArgentineGPQualification1.csv
-249	chicane-f1/csv/1977AustrianGPQualification1.csv
-250	chicane-f1/csv/1977BelgianGPQualification1.csv
-251	chicane-f1/csv/1977BrazilianGPQualification1.csv
-252	chicane-f1/csv/1977BritishGPQualification1.csv
-253	chicane-f1/csv/1977CanadianGPQualification1.csv
-254	chicane-f1/csv/1977DutchGPQualification1.csv
-255	chicane-f1/csv/1977FrenchGPQualification1.csv
-256	chicane-f1/csv/1977GermanGPQualification1.csv
-257	chicane-f1/csv/1977ItalianGPQualification1.csv
-258	chicane-f1/csv/1977JapaneseGPQualification1.csv
-259	chicane-f1/csv/1977MonacoGPQualification1.csv
-260	chicane-f1/csv/1977SouthAfricanGPQualification1.csv
-261	chicane-f1/csv/1977SpanishGPQualification1.csv
-262	chicane-f1/csv/1977SwedishGPQualification1.csv
-263	chicane-f1/csv/1977UnitedStatesGPQualification1.csv
-264	chicane-f1/csv/1977USWestGPQualification1.csv
-265	chicane-f1/csv/1978ArgentineGPQualification1.csv
-266	chicane-f1/csv/1978AustrianGPQualification1.csv
-267	chicane-f1/csv/1978BelgianGPQualification1.csv
-268	chicane-f1/csv/1978BrazilianGPQualification1.csv
-269	chicane-f1/csv/1978BritishGPQualification1.csv
-270	chicane-f1/csv/1978CanadianGPQualification1.csv
-271	chicane-f1/csv/1978DutchGPQualification1.csv
-272	chicane-f1/csv/1978FrenchGPQualification1.csv
-273	chicane-f1/csv/1978GermanGPQualification1.csv
-274	chicane-f1/csv/1978ItalianGPQualification1.csv
-275	chicane-f1/csv/1978MonacoGPQualification1.csv
-276	chicane-f1/csv/1978SouthAfricanGPQualification1.csv
-277	chicane-f1/csv/1978SpanishGPQualification1.csv
-278	chicane-f1/csv/1978SwedishGPQualification1.csv
-279	chicane-f1/csv/1978UnitedStatesGPQualification1.csv
-280	chicane-f1/csv/1978USWestGPQualification1.csv
-281	chicane-f1/csv/1979ArgentineGPQualification1.csv
-282	chicane-f1/csv/1979AustrianGPQualification1.csv
-283	chicane-f1/csv/1979BelgianGPQualification1.csv
-284	chicane-f1/csv/1979BrazilianGPQualification1.csv
-285	chicane-f1/csv/1979BritishGPQualification1.csv
-286	chicane-f1/csv/1979CanadianGPQualification1.csv
-287	chicane-f1/csv/1979DutchGPQualification1.csv
-288	chicane-f1/csv/1979FrenchGPQualification1.csv
-289	chicane-f1/csv/1979GermanGPQualification1.csv
-290	chicane-f1/csv/1979ItalianGPQualification1.csv
-291	chicane-f1/csv/1979MonacoGPQualification1.csv
-292	chicane-f1/csv/1979SouthAfricanGPQualification1.csv
-293	chicane-f1/csv/1979SpanishGPQualification1.csv
-294	chicane-f1/csv/1979UnitedStatesGPQualification1.csv
-295	chicane-f1/csv/1979USWestGPQualification1.csv
-296	chicane-f1/csv/1980ArgentineGPQualification1.csv
-297	chicane-f1/csv/1980AustrianGPQualification1.csv
-298	chicane-f1/csv/1980BelgianGPQualification1.csv
-299	chicane-f1/csv/1980BrazilianGPQualification1.csv
-300	chicane-f1/csv/1980BritishGPQualification1.csv
-301	chicane-f1/csv/1980CanadianGPQualification1.csv
-302	chicane-f1/csv/1980DutchGPQualification1.csv
-303	chicane-f1/csv/1980FrenchGPQualification1.csv
-304	chicane-f1/csv/1980GermanGPQualification1.csv
-305	chicane-f1/csv/1980ItalianGPQualification1.csv
-306	chicane-f1/csv/1980MonacoGPQualification1.csv
-307	chicane-f1/csv/1980SouthAfricanGPQualification1.csv
-308	chicane-f1/csv/1980UnitedStatesGPQualification1.csv
-309	chicane-f1/csv/1980USWestGPQualification1.csv
-310	chicane-f1/csv/1981ArgentineGPQualification1.csv
-311	chicane-f1/csv/1981AustrianGPQualification1.csv
-312	chicane-f1/csv/1981BelgianGPQualification1.csv
-313	chicane-f1/csv/1981BrazilianGPQualification1.csv
-314	chicane-f1/csv/1981BritishGPQualification1.csv
-315	chicane-f1/csv/1981CanadianGPQualification1.csv
-316	chicane-f1/csv/1981DutchGPQualification1.csv
-317	chicane-f1/csv/1981FrenchGPQualification1.csv
-318	chicane-f1/csv/1981GermanGPQualification1.csv
-319	chicane-f1/csv/1981ItalianGPQualification1.csv
-320	chicane-f1/csv/1981LasVegasGPQualification1.csv
-321	chicane-f1/csv/1981MonacoGPQualification1.csv
-322	chicane-f1/csv/1981SanMarinoGPQualification1.csv
-323	chicane-f1/csv/1981SpanishGPQualification1.csv
-324	chicane-f1/csv/1981USWestGPQualification1.csv
-325	chicane-f1/csv/1982AustrianGPQualification1.csv
-326	chicane-f1/csv/1982BelgianGPQualification1.csv
-327	chicane-f1/csv/1982BrazilianGPQualification1.csv
-328	chicane-f1/csv/1982BritishGPQualification1.csv
-329	chicane-f1/csv/1982CanadianGPQualification1.csv
-330	chicane-f1/csv/1982DetroitGPQualification1.csv
-331	chicane-f1/csv/1982DutchGPQualification1.csv
-332	chicane-f1/csv/1982FrenchGPQualification1.csv
-333	chicane-f1/csv/1982GermanGPQualification1.csv
-334	chicane-f1/csv/1982ItalianGPQualification1.csv
-335	chicane-f1/csv/1982LasVegasGPQualification1.csv
-336	chicane-f1/csv/1982MonacoGPQualification1.csv
-337	chicane-f1/csv/1982SanMarinoGPQualification1.csv
-338	chicane-f1/csv/1982SouthAfricanGPQualification1.csv
-339	chicane-f1/csv/1982SwissGPQualification1.csv
-340	chicane-f1/csv/1982USWestGPQualification1.csv
-341	chicane-f1/csv/1983AustrianGPQualification1.csv
-342	chicane-f1/csv/1983BelgianGPQualification1.csv
-343	chicane-f1/csv/1983BrazilianGPQualification1.csv
-344	chicane-f1/csv/1983BritishGPQualification1.csv
-345	chicane-f1/csv/1983CanadianGPQualification1.csv
-346	chicane-f1/csv/1983DetroitGPQualification1.csv
-347	chicane-f1/csv/1983DutchGPQualification1.csv
-348	chicane-f1/csv/1983EuropeanGPQualification1.csv
-349	chicane-f1/csv/1983FrenchGPQualification1.csv
-350	chicane-f1/csv/1983GermanGPQualification1.csv
-351	chicane-f1/csv/1983ItalianGPQualification1.csv
-352	chicane-f1/csv/1983MonacoGPQualification1.csv
-353	chicane-f1/csv/1983SanMarinoGPQualification1.csv
-354	chicane-f1/csv/1983SouthAfricanGPQualification1.csv
-355	chicane-f1/csv/1983USWestGPQualification1.csv
-356	chicane-f1/csv/1984AustrianGPQualification1.csv
-357	chicane-f1/csv/1984BelgianGPQualification1.csv
-358	chicane-f1/csv/1984BrazilianGPQualification1.csv
-359	chicane-f1/csv/1984BritishGPQualification1.csv
-360	chicane-f1/csv/1984CanadianGPQualification1.csv
-361	chicane-f1/csv/1984DallasGPQualification1.csv
-362	chicane-f1/csv/1984DetroitGPQualification1.csv
-363	chicane-f1/csv/1984DutchGPQualification1.csv
-364	chicane-f1/csv/1984EuropeanGPQualification1.csv
-365	chicane-f1/csv/1984FrenchGPQualification1.csv
-366	chicane-f1/csv/1984GermanGPQualification1.csv
-367	chicane-f1/csv/1984ItalianGPQualification1.csv
-368	chicane-f1/csv/1984MonacoGPQualification1.csv
-369	chicane-f1/csv/1984PortugueseGPQualification1.csv
-370	chicane-f1/csv/1984SanMarinoGPQualification1.csv
-371	chicane-f1/csv/1984SouthAfricanGPQualification1.csv
-372	chicane-f1/csv/1985AustralianGPQualification1.csv
-373	chicane-f1/csv/1985AustrianGPQualification1.csv
-374	chicane-f1/csv/1985BelgianGPQualification1.csv
-375	chicane-f1/csv/1985BrazilianGPQualification1.csv
-376	chicane-f1/csv/1985BritishGPQualification1.csv
-377	chicane-f1/csv/1985CanadianGPQualification1.csv
-378	chicane-f1/csv/1985DetroitGPQualification1.csv
-379	chicane-f1/csv/1985DutchGPQualification1.csv
-380	chicane-f1/csv/1985EuropeanGPQualification1.csv
-381	chicane-f1/csv/1985FrenchGPQualification1.csv
-382	chicane-f1/csv/1985GermanGPQualification1.csv
-383	chicane-f1/csv/1985ItalianGPQualification1.csv
-384	chicane-f1/csv/1985MonacoGPQualification1.csv
-385	chicane-f1/csv/1985PortugueseGPQualification1.csv
-386	chicane-f1/csv/1985SanMarinoGPQualification1.csv
-387	chicane-f1/csv/1985SouthAfricanGPQualification1.csv
-388	chicane-f1/csv/1986AustralianGPQualification1.csv
-389	chicane-f1/csv/1986AustrianGPQualification1.csv
-390	chicane-f1/csv/1986BelgianGPQualification1.csv
-391	chicane-f1/csv/1986BrazilianGPQualification1.csv
-392	chicane-f1/csv/1986BritishGPQualification1.csv
-393	chicane-f1/csv/1986CanadianGPQualification1.csv
-394	chicane-f1/csv/1986DetroitGPQualification1.csv
-395	chicane-f1/csv/1986FrenchGPQualification1.csv
-396	chicane-f1/csv/1986GermanGPQualification1.csv
-397	chicane-f1/csv/1986HungarianGPQualification1.csv
-398	chicane-f1/csv/1986ItalianGPQualification1.csv
-399	chicane-f1/csv/1986MexicanGPQualification1.csv
-400	chicane-f1/csv/1986MonacoGPQualification1.csv
-401	chicane-f1/csv/1986PortugueseGPQualification1.csv
-402	chicane-f1/csv/1986SanMarinoGPQualification1.csv
-403	chicane-f1/csv/1986SpanishGPQualification1.csv
-404	chicane-f1/csv/1987AustralianGPQualification1.csv
-405	chicane-f1/csv/1987AustrianGPQualification1.csv
-406	chicane-f1/csv/1987BelgianGPQualification1.csv
-407	chicane-f1/csv/1987BrazilianGPQualification1.csv
-408	chicane-f1/csv/1987BritishGPQualification1.csv
-409	chicane-f1/csv/1987DetroitGPQualification1.csv
-410	chicane-f1/csv/1987FrenchGPQualification1.csv
-411	chicane-f1/csv/1987GermanGPQualification1.csv
-412	chicane-f1/csv/1987HungarianGPQualification1.csv
-413	chicane-f1/csv/1987ItalianGPQualification1.csv
-414	chicane-f1/csv/1987JapaneseGPQualification1.csv
-415	chicane-f1/csv/1987MexicanGPQualification1.csv
-416	chicane-f1/csv/1987MonacoGPQualification1.csv
-417	chicane-f1/csv/1987PortugueseGPQualification1.csv
-418	chicane-f1/csv/1987SanMarinoGPQualification1.csv
-419	chicane-f1/csv/1987SpanishGPQualification1.csv
-420	chicane-f1/csv/1988AustralianGPQualification1.csv
-421	chicane-f1/csv/1988BelgianGPQualification1.csv
-422	chicane-f1/csv/1988BrazilianGPQualification1.csv
-423	chicane-f1/csv/1988BritishGPQualification1.csv
-424	chicane-f1/csv/1988CanadianGPQualification1.csv
-425	chicane-f1/csv/1988DetroitGPQualification1.csv
-426	chicane-f1/csv/1988FrenchGPQualification1.csv
-427	chicane-f1/csv/1988GermanGPQualification1.csv
-428	chicane-f1/csv/1988HungarianGPQualification1.csv
-429	chicane-f1/csv/1988ItalianGPQualification1.csv
-430	chicane-f1/csv/1988JapaneseGPQualification1.csv
-431	chicane-f1/csv/1988MexicanGPQualification1.csv
-432	chicane-f1/csv/1988MonacoGPQualification1.csv
-433	chicane-f1/csv/1988PortugueseGPQualification1.csv
-434	chicane-f1/csv/1988SanMarinoGPQualification1.csv
-435	chicane-f1/csv/1988SpanishGPQualification1.csv
-436	chicane-f1/csv/1989AustralianGPPreQualifying1.csv
-437	chicane-f1/csv/1989AustralianGPQualification1.csv
-438	chicane-f1/csv/1989BelgianGPPreQualifying1.csv
-439	chicane-f1/csv/1989BelgianGPQualification1.csv
-440	chicane-f1/csv/1989BrazilianGPPreQualifying1.csv
-441	chicane-f1/csv/1989BrazilianGPQualification1.csv
-442	chicane-f1/csv/1989BritishGPPreQualifying1.csv
-443	chicane-f1/csv/1989BritishGPQualification1.csv
-444	chicane-f1/csv/1989CanadianGPPreQualifying1.csv
-445	chicane-f1/csv/1989CanadianGPQualification1.csv
-446	chicane-f1/csv/1989FrenchGPPreQualifying1.csv
-447	chicane-f1/csv/1989FrenchGPQualification1.csv
-448	chicane-f1/csv/1989GermanGPPreQualifying1.csv
-449	chicane-f1/csv/1989GermanGPQualification1.csv
-450	chicane-f1/csv/1989HungarianGPPreQualifying1.csv
-451	chicane-f1/csv/1989HungarianGPQualification1.csv
-452	chicane-f1/csv/1989ItalianGPPreQualifying1.csv
-453	chicane-f1/csv/1989ItalianGPQualification1.csv
-454	chicane-f1/csv/1989JapaneseGPPreQualifying1.csv
-455	chicane-f1/csv/1989JapaneseGPQualification1.csv
-456	chicane-f1/csv/1989MexicanGPPreQualifying1.csv
-457	chicane-f1/csv/1989MexicanGPQualification1.csv
-458	chicane-f1/csv/1989MonacoGPPreQualifying1.csv
-459	chicane-f1/csv/1989MonacoGPQualification1.csv
-460	chicane-f1/csv/1989PortugueseGPPreQualifying1.csv
-461	chicane-f1/csv/1989PortugueseGPQualification1.csv
-462	chicane-f1/csv/1989SanMarinoGPPreQualifying1.csv
-463	chicane-f1/csv/1989SanMarinoGPQualification1.csv
-464	chicane-f1/csv/1989SpanishGPPreQualifying1.csv
-465	chicane-f1/csv/1989SpanishGPQualification1.csv
-466	chicane-f1/csv/1989UnitedStatesGPPreQualifying1.csv
-467	chicane-f1/csv/1989UnitedStatesGPQualification1.csv
-468	chicane-f1/csv/1990AustralianGPQualification1.csv
-469	chicane-f1/csv/1990BelgianGPPreQualifying1.csv
-470	chicane-f1/csv/1990BelgianGPQualification1.csv
-471	chicane-f1/csv/1990BrazilianGPPreQualifying1.csv
-472	chicane-f1/csv/1990BrazilianGPQualification1.csv
-473	chicane-f1/csv/1990BritishGPPreQualifying1.csv
-474	chicane-f1/csv/1990BritishGPQualification1.csv
-475	chicane-f1/csv/1990CanadianGPPreQualifying1.csv
-476	chicane-f1/csv/1990CanadianGPQualification1.csv
-477	chicane-f1/csv/1990FrenchGPPreQualifying1.csv
-478	chicane-f1/csv/1990FrenchGPQualification1.csv
-479	chicane-f1/csv/1990GermanGPPreQualifying1.csv
-480	chicane-f1/csv/1990GermanGPQualification1.csv
-481	chicane-f1/csv/1990HungarianGPPreQualifying1.csv
-482	chicane-f1/csv/1990HungarianGPQualification1.csv
-483	chicane-f1/csv/1990ItalianGPPreQualifying1.csv
-484	chicane-f1/csv/1990ItalianGPQualification1.csv
-485	chicane-f1/csv/1990JapaneseGPQualification1.csv
-486	chicane-f1/csv/1990MexicanGPPreQualifying1.csv
-487	chicane-f1/csv/1990MexicanGPQualification1.csv
-488	chicane-f1/csv/1990MonacoGPPreQualifying1.csv
-489	chicane-f1/csv/1990MonacoGPQualification1.csv
-490	chicane-f1/csv/1990PortugueseGPPreQualifying1.csv
-491	chicane-f1/csv/1990PortugueseGPQualification1.csv
-492	chicane-f1/csv/1990SanMarinoGPPreQualifying1.csv
-493	chicane-f1/csv/1990SanMarinoGPQualification1.csv
-494	chicane-f1/csv/1990SpanishGPPreQualifying1.csv
-495	chicane-f1/csv/1990SpanishGPQualification1.csv
-496	chicane-f1/csv/1990UnitedStatesGPPreQualifying1.csv
-497	chicane-f1/csv/1990UnitedStatesGPQualification1.csv
-498	chicane-f1/csv/1991AustralianGPQualification1.csv
-499	chicane-f1/csv/1991BelgianGPPreQualifying1.csv
-500	chicane-f1/csv/1991BelgianGPQualification1.csv
-501	chicane-f1/csv/1991BrazilianGPPreQualifying1.csv
-502	chicane-f1/csv/1991BrazilianGPQualification1.csv
-503	chicane-f1/csv/1991BritishGPPreQualifying1.csv
-504	chicane-f1/csv/1991BritishGPQualification1.csv
-505	chicane-f1/csv/1991CanadianGPPreQualifying1.csv
-506	chicane-f1/csv/1991CanadianGPQualification1.csv
-507	chicane-f1/csv/1991FrenchGPPreQualifying1.csv
-508	chicane-f1/csv/1991FrenchGPQualification1.csv
-509	chicane-f1/csv/1991GermanGPPreQualifying1.csv
-510	chicane-f1/csv/1991GermanGPQualification1.csv
-511	chicane-f1/csv/1991HungarianGPPreQualifying1.csv
-512	chicane-f1/csv/1991HungarianGPQualification1.csv
-513	chicane-f1/csv/1991ItalianGPPreQualifying1.csv
-514	chicane-f1/csv/1991ItalianGPQualification1.csv
-515	chicane-f1/csv/1991JapaneseGPPreQualifying1.csv
-516	chicane-f1/csv/1991JapaneseGPQualification1.csv
-517	chicane-f1/csv/1991MexicanGPPreQualifying1.csv
-518	chicane-f1/csv/1991MexicanGPQualification1.csv
-519	chicane-f1/csv/1991MonacoGPPreQualifying1.csv
-520	chicane-f1/csv/1991MonacoGPQualification1.csv
-521	chicane-f1/csv/1991PortugueseGPPreQualifying1.csv
-522	chicane-f1/csv/1991PortugueseGPQualification1.csv
-523	chicane-f1/csv/1991SanMarinoGPPreQualifying1.csv
-524	chicane-f1/csv/1991SanMarinoGPQualification1.csv
-525	chicane-f1/csv/1991SpanishGPPreQualifying1.csv
-526	chicane-f1/csv/1991SpanishGPQualification1.csv
-527	chicane-f1/csv/1991UnitedStatesGPPreQualifying1.csv
-528	chicane-f1/csv/1991UnitedStatesGPQualification1.csv
-529	chicane-f1/csv/1992AustralianGPQualification1.csv
-530	chicane-f1/csv/1992BelgianGPQualification1.csv
-531	chicane-f1/csv/1992BrazilianGPQualification1.csv
-532	chicane-f1/csv/1992BritishGPQualification1.csv
-533	chicane-f1/csv/1992CanadianGPQualification1.csv
-534	chicane-f1/csv/1992FrenchGPQualification1.csv
-535	chicane-f1/csv/1992GermanGPQualification1.csv
-536	chicane-f1/csv/1992HungarianGPQualification1.csv
-537	chicane-f1/csv/1992ItalianGPQualification1.csv
-538	chicane-f1/csv/1992JapaneseGPQualification1.csv
-539	chicane-f1/csv/1992MexicanGPQualification1.csv
-540	chicane-f1/csv/1992MonacoGPQualification1.csv
-541	chicane-f1/csv/1992PortugueseGPQualification1.csv
-542	chicane-f1/csv/1992SanMarinoGPQualification1.csv
-543	chicane-f1/csv/1992SouthAfricanGPQualification1.csv
-544	chicane-f1/csv/1992SpanishGPQualification1.csv
-545	chicane-f1/csv/1993AustralianGPQualification1.csv
-546	chicane-f1/csv/1993BelgianGPQualification1.csv
-547	chicane-f1/csv/1993BrazilianGPQualification1.csv
-548	chicane-f1/csv/1993BritishGPQualification1.csv
-549	chicane-f1/csv/1993CanadianGPQualification1.csv
-550	chicane-f1/csv/1993EuropeanGPQualification1.csv
-551	chicane-f1/csv/1993FrenchGPQualification1.csv
-552	chicane-f1/csv/1993GermanGPQualification1.csv
-553	chicane-f1/csv/1993HungarianGPQualification1.csv
-554	chicane-f1/csv/1993ItalianGPQualification1.csv
-555	chicane-f1/csv/1993JapaneseGPQualification1.csv
-556	chicane-f1/csv/1993MonacoGPQualification1.csv
-557	chicane-f1/csv/1993PortugueseGPQualification1.csv
-558	chicane-f1/csv/1993SanMarinoGPQualification1.csv
-559	chicane-f1/csv/1993SouthAfricanGPQualification1.csv
-560	chicane-f1/csv/1993SpanishGPQualification1.csv
-561	chicane-f1/csv/1994AustralianGPQualification1.csv
-562	chicane-f1/csv/1994BelgianGPQualification1.csv
-563	chicane-f1/csv/1994BrazilianGPQualification1.csv
-564	chicane-f1/csv/1994BritishGPQualification1.csv
-565	chicane-f1/csv/1994CanadianGPQualification1.csv
-566	chicane-f1/csv/1994EuropeanGPQualification1.csv
-567	chicane-f1/csv/1994FrenchGPQualification1.csv
-568	chicane-f1/csv/1994GermanGPQualification1.csv
-569	chicane-f1/csv/1994HungarianGPQualification1.csv
-570	chicane-f1/csv/1994ItalianGPQualification1.csv
-571	chicane-f1/csv/1994JapaneseGPQualification1.csv
-572	chicane-f1/csv/1994MonacoGPQualification1.csv
-573	chicane-f1/csv/1994PacificGPQualification1.csv
-574	chicane-f1/csv/1994PortugueseGPQualification1.csv
-575	chicane-f1/csv/1994SanMarinoGPQualification1.csv
-576	chicane-f1/csv/1994SpanishGPQualification1.csv
-577	chicane-f1/csv/1995ArgentineGPQualification1.csv
-578	chicane-f1/csv/1995AustralianGPQualification1.csv
-579	chicane-f1/csv/1995BelgianGPQualification1.csv
-580	chicane-f1/csv/1995BrazilianGPQualification1.csv
-581	chicane-f1/csv/1995BritishGPQualification1.csv
-582	chicane-f1/csv/1995CanadianGPQualification1.csv
-583	chicane-f1/csv/1995EuropeanGPQualification1.csv
-584	chicane-f1/csv/1995FrenchGPQualification1.csv
-585	chicane-f1/csv/1995GermanGPQualification1.csv
-586	chicane-f1/csv/1995HungarianGPQualification1.csv
-587	chicane-f1/csv/1995ItalianGPQualification1.csv
-588	chicane-f1/csv/1995JapaneseGPQualification1.csv
-589	chicane-f1/csv/1995MonacoGPQualification1.csv
-590	chicane-f1/csv/1995PacificGPQualification1.csv
-591	chicane-f1/csv/1995PortugueseGPQualification1.csv
-592	chicane-f1/csv/1995SanMarinoGPQualification1.csv
-593	chicane-f1/csv/1995SpanishGPQualification1.csv
-594	chicane-f1/csv/1996ArgentineGPQualification1.csv
-595	chicane-f1/csv/1996AustralianGPQualification1.csv
-596	chicane-f1/csv/1996BelgianGPQualification1.csv
-597	chicane-f1/csv/1996BrazilianGPQualification1.csv
-598	chicane-f1/csv/1996BritishGPQualification1.csv
-599	chicane-f1/csv/1996CanadianGPQualification1.csv
-600	chicane-f1/csv/1996EuropeanGPQualification1.csv
-601	chicane-f1/csv/1996FrenchGPQualification1.csv
-602	chicane-f1/csv/1996GermanGPQualification1.csv
-603	chicane-f1/csv/1996HungarianGPQualification1.csv
-604	chicane-f1/csv/1996ItalianGPQualification1.csv
-605	chicane-f1/csv/1996JapaneseGPQualification1.csv
-606	chicane-f1/csv/1996MonacoGPQualification1.csv
-607	chicane-f1/csv/1996PortugueseGPQualification1.csv
-608	chicane-f1/csv/1996SanMarinoGPQualification1.csv
-609	chicane-f1/csv/1996SpanishGPQualification1.csv
-610	chicane-f1/csv/1997ArgentineGPQualification1.csv
-611	chicane-f1/csv/1997AustralianGPQualification1.csv
-612	chicane-f1/csv/1997AustrianGPQualification1.csv
-613	chicane-f1/csv/1997BelgianGPQualification1.csv
-614	chicane-f1/csv/1997BrazilianGPQualification1.csv
-615	chicane-f1/csv/1997BritishGPQualification1.csv
-616	chicane-f1/csv/1997CanadianGPQualification1.csv
-617	chicane-f1/csv/1997EuropeanGPQualification1.csv
-618	chicane-f1/csv/1997FrenchGPQualification1.csv
-619	chicane-f1/csv/1997GermanGPQualification1.csv
-620	chicane-f1/csv/1997HungarianGPQualification1.csv
-621	chicane-f1/csv/1997ItalianGPQualification1.csv
-622	chicane-f1/csv/1997JapaneseGPQualification1.csv
-623	chicane-f1/csv/1997LuxembourgGPQualification1.csv
-624	chicane-f1/csv/1997MonacoGPQualification1.csv
-625	chicane-f1/csv/1997SanMarinoGPQualification1.csv
-626	chicane-f1/csv/1997SpanishGPQualification1.csv
-627	chicane-f1/csv/1998ArgentineGPQualification1.csv
-628	chicane-f1/csv/1998AustralianGPQualification1.csv
-629	chicane-f1/csv/1998AustrianGPQualification1.csv
-630	chicane-f1/csv/1998BelgianGPQualification1.csv
-631	chicane-f1/csv/1998BrazilianGPQualification1.csv
-632	chicane-f1/csv/1998BritishGPQualification1.csv
-633	chicane-f1/csv/1998CanadianGPQualification1.csv
-634	chicane-f1/csv/1998FrenchGPQualification1.csv
-635	chicane-f1/csv/1998GermanGPQualification1.csv
-636	chicane-f1/csv/1998HungarianGPQualification1.csv
-637	chicane-f1/csv/1998ItalianGPQualification1.csv
-638	chicane-f1/csv/1998JapaneseGPQualification1.csv
-639	chicane-f1/csv/1998LuxembourgGPQualification1.csv
-640	chicane-f1/csv/1998MonacoGPQualification1.csv
-641	chicane-f1/csv/1998SanMarinoGPQualification1.csv
-642	chicane-f1/csv/1998SpanishGPQualification1.csv
-643	chicane-f1/csv/1999AustralianGPQualification1.csv
-644	chicane-f1/csv/1999AustrianGPQualification1.csv
-645	chicane-f1/csv/1999BelgianGPQualification1.csv
-646	chicane-f1/csv/1999BrazilianGPQualification1.csv
-647	chicane-f1/csv/1999BritishGPQualification1.csv
-648	chicane-f1/csv/1999CanadianGPQualification1.csv
-649	chicane-f1/csv/1999EuropeanGPQualification1.csv
-650	chicane-f1/csv/1999FrenchGPQualification1.csv
-651	chicane-f1/csv/1999GermanGPQualification1.csv
-652	chicane-f1/csv/1999HungarianGPQualification1.csv
-653	chicane-f1/csv/1999ItalianGPQualification1.csv
-654	chicane-f1/csv/1999JapaneseGPQualification1.csv
-655	chicane-f1/csv/1999MalaysianGPQualification1.csv
-656	chicane-f1/csv/1999MonacoGPQualification1.csv
-657	chicane-f1/csv/1999SanMarinoGPQualification1.csv
-658	chicane-f1/csv/1999SpanishGPQualification1.csv
-659	chicane-f1/csv/2000AustralianGPQualification1.csv
-660	chicane-f1/csv/2000AustrianGPQualification1.csv
-661	chicane-f1/csv/2000BelgianGPQualification1.csv
-662	chicane-f1/csv/2000BrazilianGPQualification1.csv
-663	chicane-f1/csv/2000BritishGPQualification1.csv
-664	chicane-f1/csv/2000CanadianGPQualification1.csv
-665	chicane-f1/csv/2000EuropeanGPQualification1.csv
-666	chicane-f1/csv/2000FrenchGPQualification1.csv
-667	chicane-f1/csv/2000GermanGPQualification1.csv
-668	chicane-f1/csv/2000HungarianGPQualification1.csv
-669	chicane-f1/csv/2000ItalianGPQualification1.csv
-670	chicane-f1/csv/2000JapaneseGPQualification1.csv
-671	chicane-f1/csv/2000MalaysianGPQualification1.csv
-672	chicane-f1/csv/2000MonacoGPQualification1.csv
-673	chicane-f1/csv/2000SanMarinoGPQualification1.csv
-674	chicane-f1/csv/2000SpanishGPQualification1.csv
-675	chicane-f1/csv/2000UnitedStatesGPQualification1.csv
-676	chicane-f1/csv/2001AustralianGPQualification1.csv
-677	chicane-f1/csv/2001AustrianGPQualification1.csv
-678	chicane-f1/csv/2001BelgianGPQualification1.csv
-679	chicane-f1/csv/2001BrazilianGPQualification1.csv
-680	chicane-f1/csv/2001BritishGPQualification1.csv
-681	chicane-f1/csv/2001CanadianGPQualification1.csv
-682	chicane-f1/csv/2001EuropeanGPQualification1.csv
-683	chicane-f1/csv/2001FrenchGPQualification1.csv
-684	chicane-f1/csv/2001GermanGPQualification1.csv
-685	chicane-f1/csv/2001HungarianGPQualification1.csv
-686	chicane-f1/csv/2001ItalianGPQualification1.csv
-687	chicane-f1/csv/2001JapaneseGPQualification1.csv
-688	chicane-f1/csv/2001MalaysianGPQualification1.csv
-689	chicane-f1/csv/2001MonacoGPQualification1.csv
-690	chicane-f1/csv/2001SanMarinoGPQualification1.csv
-691	chicane-f1/csv/2001SpanishGPQualification1.csv
-692	chicane-f1/csv/2001UnitedStatesGPQualification1.csv
-693	chicane-f1/csv/2002AustralianGPQualification1.csv
-694	chicane-f1/csv/2002AustrianGPQualification1.csv
-695	chicane-f1/csv/2002BelgianGPQualification1.csv
-696	chicane-f1/csv/2002BrazilianGPQualification1.csv
-697	chicane-f1/csv/2002BritishGPQualification1.csv
-698	chicane-f1/csv/2002CanadianGPQualification1.csv
-699	chicane-f1/csv/2002EuropeanGPQualification1.csv
-700	chicane-f1/csv/2002FrenchGPQualification1.csv
-701	chicane-f1/csv/2002GermanGPQualification1.csv
-702	chicane-f1/csv/2002HungarianGPQualification1.csv
-703	chicane-f1/csv/2002ItalianGPQualification1.csv
-704	chicane-f1/csv/2002JapaneseGPQualification1.csv
-705	chicane-f1/csv/2002MalaysianGPQualification1.csv
-706	chicane-f1/csv/2002MonacoGPQualification1.csv
-707	chicane-f1/csv/2002SanMarinoGPQualification1.csv
-708	chicane-f1/csv/2002SpanishGPQualification1.csv
-709	chicane-f1/csv/2002UnitedStatesGPQualification1.csv
-710	chicane-f1/csv/2003AustralianGP2ndQualification1.csv
-711	chicane-f1/csv/2003AustrianGP2ndQualification1.csv
-712	chicane-f1/csv/2003BrazilianGP2ndQualification1.csv
-713	chicane-f1/csv/2003BritishGP2ndQualification1.csv
-714	chicane-f1/csv/2003CanadianGP2ndQualification1.csv
-715	chicane-f1/csv/2003EuropeanGP2ndQualification1.csv
-716	chicane-f1/csv/2003FrenchGP2ndQualification1.csv
-717	chicane-f1/csv/2003GermanGP2ndQualification1.csv
-718	chicane-f1/csv/2003HungarianGP2ndQualification1.csv
-719	chicane-f1/csv/2003ItalianGP2ndQualification1.csv
-720	chicane-f1/csv/2003JapaneseGP2ndQualification1.csv
-721	chicane-f1/csv/2003MalaysianGP2ndQualification1.csv
-722	chicane-f1/csv/2003MonacoGP2ndQualification1.csv
-723	chicane-f1/csv/2003SanMarinoGP2ndQualification1.csv
-724	chicane-f1/csv/2003SpanishGP2ndQualification1.csv
-725	chicane-f1/csv/2003UnitedStatesGP2ndQualification1.csv
-726	chicane-f1/csv/2004AustralianGP2ndQualification1.csv
-727	chicane-f1/csv/2004BahrainGP2ndQualification1.csv
-728	chicane-f1/csv/2004BelgianGP2ndQualification1.csv
-729	chicane-f1/csv/2004BrazilianGP2ndQualification1.csv
-730	chicane-f1/csv/2004BritishGP2ndQualification1.csv
-731	chicane-f1/csv/2004CanadianGP2ndQualification1.csv
-732	chicane-f1/csv/2004ChineseGP2ndQualification1.csv
-733	chicane-f1/csv/2004EuropeanGP2ndQualification1.csv
-734	chicane-f1/csv/2004FrenchGP2ndQualification1.csv
-735	chicane-f1/csv/2004GermanGP2ndQualification1.csv
-736	chicane-f1/csv/2004HungarianGP2ndQualification1.csv
-737	chicane-f1/csv/2004ItalianGP2ndQualification1.csv
-738	chicane-f1/csv/2004JapaneseGP2ndQualification1.csv
-739	chicane-f1/csv/2004MalaysianGP2ndQualification1.csv
-740	chicane-f1/csv/2004MonacoGP2ndQualification1.csv
-741	chicane-f1/csv/2004SanMarinoGP2ndQualification1.csv
-742	chicane-f1/csv/2004SpanishGP2ndQualification1.csv
-743	chicane-f1/csv/2004UnitedStatesGP2ndQualification1.csv
-744	chicane-f1/csv/2005AustralianGP2ndQualification1.csv
-745	chicane-f1/csv/2005BahrainGP2ndQualification1.csv
-746	chicane-f1/csv/2005BelgianGPQualification1.csv
-747	chicane-f1/csv/2005BrazilianGPQualification1.csv
-748	chicane-f1/csv/2005BritishGPQualification1.csv
-749	chicane-f1/csv/2005CanadianGPQualification1.csv
-750	chicane-f1/csv/2005ChineseGPQualification1.csv
-751	chicane-f1/csv/2005EuropeanGPQualification1.csv
-752	chicane-f1/csv/2005FrenchGPQualification1.csv
-753	chicane-f1/csv/2005GermanGPQualification1.csv
-754	chicane-f1/csv/2005HungarianGPQualification1.csv
-755	chicane-f1/csv/2005ItalianGPQualification1.csv
-756	chicane-f1/csv/2005JapaneseGPQualification1.csv
-757	chicane-f1/csv/2005MalaysianGP2ndQualification1.csv
-758	chicane-f1/csv/2005MonacoGP2ndQualification1.csv
-759	chicane-f1/csv/2005SanMarinoGP2ndQualification1.csv
-760	chicane-f1/csv/2005SpanishGP2ndQualification1.csv
-761	chicane-f1/csv/2005TurkishGPQualification1.csv
-762	chicane-f1/csv/2005UnitedStatesGPQualification1.csv
-763	chicane-f1/csv/2006AustralianGPQualificationOverview1.csv
-764	chicane-f1/csv/2006BahrainGPQualificationOverview1.csv
-765	chicane-f1/csv/2006BrazilianGPQualificationOverview1.csv
-766	chicane-f1/csv/2006BritishGPQualificationOverview1.csv
-767	chicane-f1/csv/2006CanadianGPQualificationOverview1.csv
-768	chicane-f1/csv/2006ChineseGPQualificationOverview1.csv
-769	chicane-f1/csv/2006EuropeanGPQualificationOverview1.csv
-770	chicane-f1/csv/2006FrenchGPQualificationOverview1.csv
-771	chicane-f1/csv/2006GermanGPQualificationOverview1.csv
-772	chicane-f1/csv/2006HungarianGPQualificationOverview1.csv
-773	chicane-f1/csv/2006ItalianGPQualificationOverview1.csv
-774	chicane-f1/csv/2006JapaneseGPQualificationOverview1.csv
-775	chicane-f1/csv/2006MalaysianGPQualificationOverview1.csv
-776	chicane-f1/csv/2006MonacoGPQualificationOverview1.csv
-777	chicane-f1/csv/2006SanMarinoGPQualificationOverview1.csv
-778	chicane-f1/csv/2006SpanishGPQualificationOverview1.csv
-779	chicane-f1/csv/2006TurkishGPQualificationOverview1.csv
-780	chicane-f1/csv/2006UnitedStatesGPQualificationOverview1.csv
-781	chicane-f1/csv/2007AustralianGPQualificationOverview1.csv
-782	chicane-f1/csv/2007BahrainGPQualificationOverview1.csv
-783	chicane-f1/csv/2007BelgianGPQualificationOverview1.csv
-784	chicane-f1/csv/2007BrazilianGPQualificationOverview1.csv
-785	chicane-f1/csv/2007BritishGPQualificationOverview1.csv
-786	chicane-f1/csv/2007CanadianGPQualificationOverview1.csv
-787	chicane-f1/csv/2007ChineseGPQualificationOverview1.csv
-788	chicane-f1/csv/2007EuropeanGPQualificationOverview1.csv
-789	chicane-f1/csv/2007FrenchGPQualificationOverview1.csv
-790	chicane-f1/csv/2007HungarianGPQualificationOverview1.csv
-791	chicane-f1/csv/2007ItalianGPQualificationOverview1.csv
-792	chicane-f1/csv/2007JapaneseGPQualificationOverview1.csv
-793	chicane-f1/csv/2007MalaysianGPQualificationOverview1.csv
-794	chicane-f1/csv/2007MonacoGPQualificationOverview1.csv
-795	chicane-f1/csv/2007SpanishGPQualificationOverview1.csv
-796	chicane-f1/csv/2007TurkishGPQualificationOverview1.csv
-797	chicane-f1/csv/2007UnitedStatesGPQualificationOverview1.csv
-798	chicane-f1/csv/2008AustralianGPQualificationOverview1.csv
-799	chicane-f1/csv/2008BahrainGPQualificationOverview1.csv
-800	chicane-f1/csv/2008BelgianGPQualificationOverview1.csv
-801	chicane-f1/csv/2008BrazilianGPQualificationOverview1.csv
-802	chicane-f1/csv/2008BritishGPQualificationOverview1.csv
-803	chicane-f1/csv/2008CanadianGPQualificationOverview1.csv
-804	chicane-f1/csv/2008ChineseGPQualificationOverview1.csv
-805	chicane-f1/csv/2008EuropeanGPQualificationOverview1.csv
-806	chicane-f1/csv/2008FrenchGPQualificationOverview1.csv
-807	chicane-f1/csv/2008GermanGPQualificationOverview1.csv
-808	chicane-f1/csv/2008HungarianGPQualificationOverview1.csv
-809	chicane-f1/csv/2008ItalianGPQualificationOverview1.csv
-810	chicane-f1/csv/2008JapaneseGPQualificationOverview1.csv
-811	chicane-f1/csv/2008MalaysianGPQualificationOverview1.csv
-812	chicane-f1/csv/2008MonacoGPQualificationOverview1.csv
-813	chicane-f1/csv/2008SingaporeGPQualificationOverview1.csv
-814	chicane-f1/csv/2008SpanishGPQualificationOverview1.csv
-815	chicane-f1/csv/2008TurkishGPQualificationOverview1.csv
-816	chicane-f1/csv/2009AbuDhabiGPQualificationOverview1.csv
-817	chicane-f1/csv/2009AustralianGPQualificationOverview1.csv
-818	chicane-f1/csv/2009BahrainGPQualificationOverview1.csv
-819	chicane-f1/csv/2009BelgianGPQualificationOverview1.csv
-820	chicane-f1/csv/2009BrazilianGPQualificationOverview1.csv
-821	chicane-f1/csv/2009BritishGPQualificationOverview1.csv
-822	chicane-f1/csv/2009ChineseGPQualificationOverview1.csv
-823	chicane-f1/csv/2009EuropeanGPQualificationOverview1.csv
-824	chicane-f1/csv/2009GermanGPQualificationOverview1.csv
-825	chicane-f1/csv/2009HungarianGPQualificationOverview1.csv
-826	chicane-f1/csv/2009ItalianGPQualificationOverview1.csv
-827	chicane-f1/csv/2009JapaneseGPQualificationOverview1.csv
-828	chicane-f1/csv/2009MalaysianGPQualificationOverview1.csv
-829	chicane-f1/csv/2009MonacoGPQualificationOverview1.csv
-830	chicane-f1/csv/2009SingaporeGPQualificationOverview1.csv
-831	chicane-f1/csv/2009SpanishGPQualificationOverview1.csv
-832	chicane-f1/csv/2009TurkishGPQualificationOverview1.csv
-833	chicane-f1/csv/2010AbuDhabiGPQualificationOverview1.csv
-834	chicane-f1/csv/2010AustralianGPQualificationOverview1.csv
-835	chicane-f1/csv/2010BahrainGPQualificationOverview1.csv
-836	chicane-f1/csv/2010BelgianGPQualificationOverview1.csv
-837	chicane-f1/csv/2010BrazilianGPQualificationOverview1.csv
-838	chicane-f1/csv/2010BritishGPQualificationOverview1.csv
-839	chicane-f1/csv/2010CanadianGPQualificationOverview1.csv
-840	chicane-f1/csv/2010ChineseGPQualificationOverview1.csv
-841	chicane-f1/csv/2010EuropeanGPQualificationOverview1.csv
-842	chicane-f1/csv/2010GermanGPQualificationOverview1.csv
-843	chicane-f1/csv/2010HungarianGPQualificationOverview1.csv
-844	chicane-f1/csv/2010ItalianGPQualificationOverview1.csv
-845	chicane-f1/csv/2010JapaneseGPQualificationOverview1.csv
-846	chicane-f1/csv/2010KoreanGPQualificationOverview1.csv
-847	chicane-f1/csv/2010MalaysianGPQualificationOverview1.csv
-848	chicane-f1/csv/2010MonacoGPQualificationOverview1.csv
-849	chicane-f1/csv/2010SingaporeGPQualificationOverview1.csv
-850	chicane-f1/csv/2010SpanishGPQualificationOverview1.csv
-851	chicane-f1/csv/2010TurkishGPQualificationOverview1.csv
-852	chicane-f1/csv/2011AbuDhabiGPQualificationOverview1.csv
-853	chicane-f1/csv/2011AustralianGPQualificationOverview1.csv
-854	chicane-f1/csv/2011BelgianGPQualificationOverview1.csv
-855	chicane-f1/csv/2011BrazilianGPQualificationOverview1.csv
-856	chicane-f1/csv/2011BritishGPQualificationOverview1.csv
-857	chicane-f1/csv/2011CanadianGPQualificationOverview1.csv
-858	chicane-f1/csv/2011ChineseGPQualificationOverview1.csv
-859	chicane-f1/csv/2011EuropeanGPQualificationOverview1.csv
-860	chicane-f1/csv/2011GermanGPQualificationOverview1.csv
-861	chicane-f1/csv/2011HungarianGPQualificationOverview1.csv
-862	chicane-f1/csv/2011IndianGPQualificationOverview1.csv
-863	chicane-f1/csv/2011ItalianGPQualificationOverview1.csv
-864	chicane-f1/csv/2011JapaneseGPQualificationOverview1.csv
-865	chicane-f1/csv/2011KoreanGPQualificationOverview1.csv
-866	chicane-f1/csv/2011MalaysianGPQualificationOverview1.csv
-867	chicane-f1/csv/2011MonacoGPQualificationOverview1.csv
-868	chicane-f1/csv/2011SingaporeGPQualificationOverview1.csv
-869	chicane-f1/csv/2011SpanishGPQualificationOverview1.csv
-870	chicane-f1/csv/2011TurkishGPQualificationOverview1.csv
-871	chicane-f1/csv/2012AbuDhabiGPQualificationOverview1.csv
-872	chicane-f1/csv/2012AustralianGPQualificationOverview1.csv
-873	chicane-f1/csv/2012BahrainGPQualificationOverview1.csv
-874	chicane-f1/csv/2012BelgianGPQualificationOverview1.csv
-875	chicane-f1/csv/2012BrazilianGPQualificationOverview1.csv
-876	chicane-f1/csv/2012BritishGPQualificationOverview1.csv
-877	chicane-f1/csv/2012CanadianGPQualificationOverview1.csv
-878	chicane-f1/csv/2012ChineseGPQualificationOverview1.csv
-879	chicane-f1/csv/2012EuropeanGPQualificationOverview1.csv
-880	chicane-f1/csv/2012GermanGPQualificationOverview1.csv
-881	chicane-f1/csv/2012HungarianGPQualificationOverview1.csv
-882	chicane-f1/csv/2012IndianGPQualificationOverview1.csv
-883	chicane-f1/csv/2012ItalianGPQualificationOverview1.csv
-884	chicane-f1/csv/2012JapaneseGPQualificationOverview1.csv
-885	chicane-f1/csv/2012KoreanGPQualificationOverview1.csv
-886	chicane-f1/csv/2012MalaysianGPQualificationOverview1.csv
-887	chicane-f1/csv/2012MonacoGPQualificationOverview1.csv
-888	chicane-f1/csv/2012SingaporeGPQualificationOverview1.csv
-889	chicane-f1/csv/2012SpanishGPQualificationOverview1.csv
-890	chicane-f1/csv/2012UnitedStatesGPQualificationOverview1.csv
-891	chicane-f1/csv/2013AbuDhabiGPQualificationOverview1.csv
-892	chicane-f1/csv/2013AustralianGPQualificationOverview1.csv
-893	chicane-f1/csv/2013BahrainGPQualificationOverview1.csv
-894	chicane-f1/csv/2013BelgianGPQualificationOverview1.csv
-895	chicane-f1/csv/2013BrazilianGPQualificationOverview1.csv
-896	chicane-f1/csv/2013BritishGPQualificationOverview1.csv
-897	chicane-f1/csv/2013CanadianGPQualificationOverview1.csv
-898	chicane-f1/csv/2013ChineseGPQualificationOverview1.csv
-899	chicane-f1/csv/2013GermanGPQualificationOverview1.csv
-900	chicane-f1/csv/2013HungarianGPQualificationOverview1.csv
-901	chicane-f1/csv/2013IndianGPQualificationOverview1.csv
-902	chicane-f1/csv/2013ItalianGPQualificationOverview1.csv
-903	chicane-f1/csv/2013JapaneseGPQualificationOverview1.csv
-904	chicane-f1/csv/2013KoreanGPQualificationOverview1.csv
-905	chicane-f1/csv/2013MalaysianGPQualificationOverview1.csv
-906	chicane-f1/csv/2013MonacoGPQualificationOverview1.csv
-907	chicane-f1/csv/2013SingaporeGPQualificationOverview1.csv
-908	chicane-f1/csv/2013SpanishGPQualificationOverview1.csv
-909	chicane-f1/csv/2013UnitedStatesGPQualificationOverview1.csv
-910	chicane-f1/csv/2014AustralianGPQualificationOverview1.csv
-911	chicane-f1/csv/2014AustrianGPQualificationOverview1.csv
-912	chicane-f1/csv/2014BahrainGPQualificationOverview1.csv
-913	chicane-f1/csv/2014BelgianGPQualificationOverview1.csv
-914	chicane-f1/csv/2014BritishGPQualificationOverview1.csv
-915	chicane-f1/csv/2014CanadianGPQualificationOverview1.csv
-916	chicane-f1/csv/2014ChineseGPQualificationOverview1.csv
-917	chicane-f1/csv/2014GermanGPQualificationOverview1.csv
-918	chicane-f1/csv/2014HungarianGPQualificationOverview1.csv
-919	chicane-f1/csv/2014ItalianGPQualificationOverview1.csv
-920	chicane-f1/csv/2014JapaneseGPQualificationOverview1.csv
-921	chicane-f1/csv/2014MalaysianGPQualificationOverview1.csv
-922	chicane-f1/csv/2014MonacoGPQualificationOverview1.csv
-923	chicane-f1/csv/2014RussianGPQualificationOverview1.csv
-924	chicane-f1/csv/2014SingaporeGPQualificationOverview1.csv
-925	chicane-f1/csv/2014SpanishGPQualificationOverview1.csv
+1,1954 Argentine Grand Prix - qualifying,1954-01-16
+2,1954 Belgian Grand Prix - qualifying,1954-06-19
+0,1954 French Grand Prix - qualifying,1954-07-03
+3,1954 British Grand Prix - qualifying,1954-07-16
+4,1954 German Grand Prix - qualifying,1954-07-31
+8,1954 Swiss Grand Prix - qualifying,1954-08-21
+6,1954 Italian Grand Prix - qualifying,1954-09-04
+7,1954 Spanish Grand Prix - qualifying,1954-10-23
+9,1955 Argentine Grand Prix - qualifying,1955-01-15
+15,1955 Monaco Grand Prix - qualifying,1955-05-21
+10,1955 Belgian Grand Prix - qualifying,1955-06-04
+12,1955 Dutch Grand Prix - qualifying,1955-06-18
+11,1955 British Grand Prix - qualifying,1955-07-15
+14,1955 Italian Grand Prix - qualifying,1955-09-10
+17,1956 Argentine Grand Prix - qualifying,1956-01-21
+23,1956 Monaco Grand Prix - qualifying,1956-05-12
+18,1956 Belgian Grand Prix - qualifying,1956-06-02
+16,1956 French Grand Prix - qualifying,1956-06-30
+19,1956 British Grand Prix - qualifying,1956-07-13
+20,1956 German Grand Prix - qualifying,1956-08-04
+22,1956 Italian Grand Prix - qualifying,1956-09-01
+25,1957 Argentine Grand Prix - qualifying,1957-01-12
+30,1957 Monaco Grand Prix - qualifying,1957-05-18
+24,1957 French Grand Prix - qualifying,1957-07-06
+26,1957 British Grand Prix - qualifying,1957-07-19
+27,1957 German Grand Prix - qualifying,1957-08-03
+31,1957 Pescara Grand Prix - qualifying,1957-08-17
+29,1957 Italian Grand Prix - qualifying,1957-09-07
+33,1958 Argentine Grand Prix - qualifying,1958-01-18
+40,1958 Monaco Grand Prix - qualifying,1958-05-17
+36,1958 Dutch Grand Prix - qualifying,1958-05-25
+34,1958 Belgian Grand Prix - qualifying,1958-06-14
+32,1958 French Grand Prix - qualifying,1958-07-05
+35,1958 British Grand Prix - qualifying,1958-07-18
+37,1958 German Grand Prix - qualifying,1958-08-02
+42,1958 Portuguese Grand Prix - qualifying,1958-08-23
+39,1958 Italian Grand Prix - qualifying,1958-09-06
+41,1958 Moroccan Grand Prix - qualifying,1958-10-18
+49,1959 Monaco Grand Prix - qualifying,1959-05-09
+45,1959 Dutch Grand Prix - qualifying,1959-05-30
+43,1959 French Grand Prix - qualifying,1959-07-04
+44,1959 British Grand Prix - qualifying,1959-07-17
+46,1959 German Grand Prix - qualifying,1959-08-01
+50,1959 Portuguese Grand Prix - qualifying,1959-08-22
+48,1959 Italian Grand Prix - qualifying,1959-09-12
+51,1959 United States Grand Prix - qualifying,1959-12-11
+53,1960 Argentine Grand Prix - qualifying,1960-02-06
+59,1960 Monaco Grand Prix - qualifying,1960-05-28
+56,1960 Dutch Grand Prix - qualifying,1960-06-05
+54,1960 Belgian Grand Prix - qualifying,1960-06-18
+52,1960 French Grand Prix - qualifying,1960-07-02
+55,1960 British Grand Prix - qualifying,1960-07-15
+60,1960 Portuguese Grand Prix - qualifying,1960-08-13
+58,1960 Italian Grand Prix - qualifying,1960-09-03
+61,1960 United States Grand Prix - qualifying,1960-11-19
+68,1961 Monaco Grand Prix - qualifying,1961-05-13
+65,1961 Dutch Grand Prix - qualifying,1961-05-21
+63,1961 Belgian Grand Prix - qualifying,1961-06-17
+62,1961 French Grand Prix - qualifying,1961-07-01
+64,1961 British Grand Prix - qualifying,1961-07-14
+66,1961 German Grand Prix - qualifying,1961-08-05
+67,1961 Italian Grand Prix - qualifying,1961-09-09
+69,1961 United States Grand Prix - qualifying,1961-10-07
+73,1962 Dutch Grand Prix - qualifying,1962-05-19
+76,1962 Monaco Grand Prix - qualifying,1962-06-02
+71,1962 Belgian Grand Prix - qualifying,1962-06-16
+70,1962 French Grand Prix - qualifying,1962-07-07
+72,1962 British Grand Prix - qualifying,1962-07-20
+74,1962 German Grand Prix - qualifying,1962-08-04
+75,1962 Italian Grand Prix - qualifying,1962-09-15
+78,1962 United States Grand Prix - qualifying,1962-10-06
+77,1962 South African Grand Prix - qualifying,1962-12-28
+86,1963 Monaco Grand Prix - qualifying,1963-05-25
+80,1963 Belgian Grand Prix - qualifying,1963-06-08
+82,1963 Dutch Grand Prix - qualifying,1963-06-22
+79,1963 French Grand Prix - qualifying,1963-06-29
+81,1963 British Grand Prix - qualifying,1963-07-19
+83,1963 German Grand Prix - qualifying,1963-08-03
+84,1963 Italian Grand Prix - qualifying,1963-09-07
+88,1963 United States Grand Prix - qualifying,1963-10-05
+85,1963 Mexican Grand Prix - qualifying,1963-10-26
+87,1963 South African Grand Prix - qualifying,1963-12-27
+97,1964 Monaco Grand Prix - qualifying,1964-05-09
+93,1964 Dutch Grand Prix - qualifying,1964-05-23
+91,1964 Belgian Grand Prix - qualifying,1964-06-13
+89,1964 French Grand Prix - qualifying,1964-06-27
+92,1964 British Grand Prix - qualifying,1964-07-10
+94,1964 German Grand Prix - qualifying,1964-08-01
+90,1964 Austrian Grand Prix - qualifying,1964-08-22
+95,1964 Italian Grand Prix - qualifying,1964-09-05
+98,1964 United States Grand Prix - qualifying,1964-10-03
+96,1964 Mexican Grand Prix - qualifying,1964-10-24
+107,1965 South African Grand Prix - qualifying,1964-12-31
+106,1965 Monaco Grand Prix - qualifying,1965-05-29
+100,1965 Belgian Grand Prix - qualifying,1965-06-12
+99,1965 French Grand Prix - qualifying,1965-06-26
+101,1965 British Grand Prix - qualifying,1965-07-09
+102,1965 Dutch Grand Prix - qualifying,1965-07-17
+103,1965 German Grand Prix - qualifying,1965-07-31
+104,1965 Italian Grand Prix - qualifying,1965-09-11
+108,1965 United States Grand Prix - qualifying,1965-10-02
+105,1965 Mexican Grand Prix - qualifying,1965-10-23
+116,1966 Monaco Grand Prix - qualifying,1966-05-21
+110,1966 Belgian Grand Prix - qualifying,1966-06-11
+109,1966 French Grand Prix - qualifying,1966-07-02
+111,1966 British Grand Prix - qualifying,1966-07-15
+112,1966 Dutch Grand Prix - qualifying,1966-07-23
+113,1966 German Grand Prix - qualifying,1966-08-06
+114,1966 Italian Grand Prix - qualifying,1966-09-03
+117,1966 United States Grand Prix - qualifying,1966-10-01
+115,1966 Mexican Grand Prix - qualifying,1966-10-22
+127,1967 South African Grand Prix - qualifying,1967-01-01
+126,1967 Monaco Grand Prix - qualifying,1967-05-06
+122,1967 Dutch Grand Prix - qualifying,1967-06-03
+119,1967 Belgian Grand Prix - qualifying,1967-06-17
+118,1967 French Grand Prix - qualifying,1967-07-01
+120,1967 British Grand Prix - qualifying,1967-07-14
+123,1967 German Grand Prix - qualifying,1967-08-05
+121,1967 Canadian Grand Prix - qualifying,1967-08-26
+124,1967 Italian Grand Prix - qualifying,1967-09-09
+128,1967 United States Grand Prix - qualifying,1967-09-30
+125,1967 Mexican Grand Prix - qualifying,1967-10-21
+138,1968 South African Grand Prix - qualifying,1967-12-31
+139,1968 Spanish Grand Prix - qualifying,1968-05-11
+137,1968 Monaco Grand Prix - qualifying,1968-05-25
+129,1968 Belgian Grand Prix - qualifying,1968-06-08
+132,1968 Dutch Grand Prix - qualifying,1968-06-22
+133,1968 French Grand Prix - qualifying,1968-07-06
+130,1968 British Grand Prix - qualifying,1968-07-19
+134,1968 German Grand Prix - qualifying,1968-08-03
+135,1968 Italian Grand Prix - qualifying,1968-09-07
+131,1968 Canadian Grand Prix - qualifying,1968-09-21
+140,1968 United States Grand Prix - qualifying,1968-10-05
+136,1968 Mexican Grand Prix - qualifying,1968-11-02
+149,1969 South African Grand Prix - qualifying,1969-02-28
+150,1969 Spanish Grand Prix - qualifying,1969-05-03
+148,1969 Monaco Grand Prix - qualifying,1969-05-17
+143,1969 Dutch Grand Prix - qualifying,1969-06-20
+144,1969 French Grand Prix - qualifying,1969-07-05
+141,1969 British Grand Prix - qualifying,1969-07-18
+145,1969 German Grand Prix - qualifying,1969-08-02
+146,1969 Italian Grand Prix - qualifying,1969-09-06
+142,1969 Canadian Grand Prix - qualifying,1969-09-19
+151,1969 United States Grand Prix - qualifying,1969-10-04
+147,1969 Mexican Grand Prix - qualifying,1969-10-18
+162,1970 South African Grand Prix - qualifying,1970-03-06
+163,1970 Spanish Grand Prix - qualifying,1970-04-18
+161,1970 Monaco Grand Prix - qualifying,1970-05-09
+153,1970 Belgian Grand Prix - qualifying,1970-06-06
+156,1970 Dutch Grand Prix - qualifying,1970-06-20
+157,1970 French Grand Prix - qualifying,1970-07-04
+154,1970 British Grand Prix - qualifying,1970-07-17
+158,1970 German Grand Prix - qualifying,1970-08-01
+152,1970 Austrian Grand Prix - qualifying,1970-08-15
+159,1970 Italian Grand Prix - qualifying,1970-09-05
+155,1970 Canadian Grand Prix - qualifying,1970-09-19
+164,1970 United States Grand Prix - qualifying,1970-10-03
+160,1970 Mexican Grand Prix - qualifying,1970-10-24
+173,1971 South African Grand Prix - qualifying,1971-03-05
+174,1971 Spanish Grand Prix - qualifying,1971-04-17
+172,1971 Monaco Grand Prix - qualifying,1971-05-22
+168,1971 Dutch Grand Prix - qualifying,1971-06-19
+169,1971 French Grand Prix - qualifying,1971-07-03
+166,1971 British Grand Prix - qualifying,1971-07-16
+170,1971 German Grand Prix - qualifying,1971-07-31
+165,1971 Austrian Grand Prix - qualifying,1971-08-14
+171,1971 Italian Grand Prix - qualifying,1971-09-04
+167,1971 Canadian Grand Prix - qualifying,1971-09-18
+175,1971 United States Grand Prix - qualifying,1971-10-02
+176,1972 Argentine Grand Prix - qualifying,1972-01-22
+185,1972 South African Grand Prix - qualifying,1972-03-03
+186,1972 Spanish Grand Prix - qualifying,1972-04-30
+184,1972 Monaco Grand Prix - qualifying,1972-05-13
+178,1972 Belgian Grand Prix - qualifying,1972-06-03
+181,1972 French Grand Prix - qualifying,1972-07-01
+179,1972 British Grand Prix - qualifying,1972-07-14
+182,1972 German Grand Prix - qualifying,1972-07-29
+177,1972 Austrian Grand Prix - qualifying,1972-08-12
+183,1972 Italian Grand Prix - qualifying,1972-09-09
+180,1972 Canadian Grand Prix - qualifying,1972-09-23
+187,1972 United States Grand Prix - qualifying,1972-10-07
+188,1973 Argentine Grand Prix - qualifying,1973-01-27
+191,1973 Brazilian Grand Prix - qualifying,1973-02-10
+199,1973 South African Grand Prix - qualifying,1973-03-02
+200,1973 Spanish Grand Prix - qualifying,1973-04-28
+190,1973 Belgian Grand Prix - qualifying,1973-05-19
+198,1973 Monaco Grand Prix - qualifying,1973-06-02
+201,1973 Swedish Grand Prix - qualifying,1973-06-16
+195,1973 French Grand Prix - qualifying,1973-06-30
+192,1973 British Grand Prix - qualifying,1973-07-13
+194,1973 Dutch Grand Prix - qualifying,1973-07-28
+196,1973 German Grand Prix - qualifying,1973-08-04
+189,1973 Austrian Grand Prix - qualifying,1973-08-18
+197,1973 Italian Grand Prix - qualifying,1973-09-08
+193,1973 Canadian Grand Prix - qualifying,1973-09-22
+202,1973 United States Grand Prix - qualifying,1973-10-06
+203,1974 Argentine Grand Prix - qualifying,1974-01-12
+206,1974 Brazilian Grand Prix - qualifying,1974-01-26
+214,1974 South African Grand Prix - qualifying,1974-03-29
+215,1974 Spanish Grand Prix - qualifying,1974-04-27
+205,1974 Belgian Grand Prix - qualifying,1974-05-11
+213,1974 Monaco Grand Prix - qualifying,1974-05-25
+216,1974 Swedish Grand Prix - qualifying,1974-06-08
+209,1974 Dutch Grand Prix - qualifying,1974-06-22
+210,1974 French Grand Prix - qualifying,1974-07-06
+207,1974 British Grand Prix - qualifying,1974-07-19
+211,1974 German Grand Prix - qualifying,1974-08-03
+204,1974 Austrian Grand Prix - qualifying,1974-08-17
+212,1974 Italian Grand Prix - qualifying,1974-09-07
+208,1974 Canadian Grand Prix - qualifying,1974-09-21
+217,1974 United States Grand Prix - qualifying,1974-10-05
+218,1975 Argentine Grand Prix - qualifying,1975-01-11
+221,1975 Brazilian Grand Prix - qualifying,1975-01-25
+228,1975 South African Grand Prix - qualifying,1975-02-28
+229,1975 Spanish Grand Prix - qualifying,1975-04-26
+227,1975 Monaco Grand Prix - qualifying,1975-05-10
+220,1975 Belgian Grand Prix - qualifying,1975-05-24
+230,1975 Swedish Grand Prix - qualifying,1975-06-07
+223,1975 Dutch Grand Prix - qualifying,1975-06-21
+224,1975 French Grand Prix - qualifying,1975-07-05
+222,1975 British Grand Prix - qualifying,1975-07-18
+225,1975 German Grand Prix - qualifying,1975-08-02
+219,1975 Austrian Grand Prix - qualifying,1975-08-16
+226,1975 Italian Grand Prix - qualifying,1975-09-06
+231,1975 United States Grand Prix - qualifying,1975-10-04
+234,1976 Brazilian Grand Prix - qualifying,1976-01-24
+243,1976 South African Grand Prix - qualifying,1976-03-05
+247,1976 United States Grand Prix West - qualifying,1976-03-27
+244,1976 Spanish Grand Prix - qualifying,1976-05-01
+233,1976 Belgian Grand Prix - qualifying,1976-05-15
+242,1976 Monaco Grand Prix - qualifying,1976-05-29
+245,1976 Swedish Grand Prix - qualifying,1976-06-12
+238,1976 French Grand Prix - qualifying,1976-07-03
+235,1976 British Grand Prix - qualifying,1976-07-17
+239,1976 German Grand Prix - qualifying,1976-07-31
+232,1976 Austrian Grand Prix - qualifying,1976-08-14
+237,1976 Dutch Grand Prix - qualifying,1976-08-28
+240,1976 Italian Grand Prix - qualifying,1976-09-11
+236,1976 Canadian Grand Prix - qualifying,1976-10-02
+246,1976 United States Grand Prix - qualifying,1976-10-09
+241,1976 Japanese Grand Prix - qualifying,1976-10-23
+248,1977 Argentine Grand Prix - qualifying,1977-01-08
+251,1977 Brazilian Grand Prix - qualifying,1977-01-22
+260,1977 South African Grand Prix - qualifying,1977-03-04
+264,1977 United States Grand Prix West - qualifying,1977-04-02
+261,1977 Spanish Grand Prix - qualifying,1977-05-07
+259,1977 Monaco Grand Prix - qualifying,1977-05-21
+250,1977 Belgian Grand Prix - qualifying,1977-06-04
+262,1977 Swedish Grand Prix - qualifying,1977-06-18
+255,1977 French Grand Prix - qualifying,1977-07-02
+252,1977 British Grand Prix - qualifying,1977-07-15
+256,1977 German Grand Prix - qualifying,1977-07-30
+249,1977 Austrian Grand Prix - qualifying,1977-08-13
+254,1977 Dutch Grand Prix - qualifying,1977-08-27
+257,1977 Italian Grand Prix - qualifying,1977-09-10
+263,1977 United States Grand Prix - qualifying,1977-10-01
+253,1977 Canadian Grand Prix - qualifying,1977-10-08
+258,1977 Japanese Grand Prix - qualifying,1977-10-22
+265,1978 Argentine Grand Prix - qualifying,1978-01-14
+268,1978 Brazilian Grand Prix - qualifying,1978-01-28
+276,1978 South African Grand Prix - qualifying,1978-03-03
+280,1978 United States Grand Prix West - qualifying,1978-04-01
+275,1978 Monaco Grand Prix - qualifying,1978-05-06
+267,1978 Belgian Grand Prix - qualifying,1978-05-20
+277,1978 Spanish Grand Prix - qualifying,1978-06-03
+278,1978 Swedish Grand Prix - qualifying,1978-06-16
+272,1978 French Grand Prix - qualifying,1978-07-01
+269,1978 British Grand Prix - qualifying,1978-07-15
+273,1978 German Grand Prix - qualifying,1978-07-29
+266,1978 Austrian Grand Prix - qualifying,1978-08-12
+271,1978 Dutch Grand Prix - qualifying,1978-08-26
+274,1978 Italian Grand Prix - qualifying,1978-09-09
+279,1978 United States Grand Prix - qualifying,1978-09-30
+270,1978 Canadian Grand Prix - qualifying,1978-10-07
+281,1979 Argentine Grand Prix - qualifying,1979-01-20
+284,1979 Brazilian Grand Prix - qualifying,1979-02-03
+292,1979 South African Grand Prix - qualifying,1979-03-02
+295,1979 United States Grand Prix West - qualifying,1979-04-07
+293,1979 Spanish Grand Prix - qualifying,1979-04-28
+283,1979 Belgian Grand Prix - qualifying,1979-05-12
+291,1979 Monaco Grand Prix - qualifying,1979-05-26
+288,1979 French Grand Prix - qualifying,1979-06-30
+285,1979 British Grand Prix - qualifying,1979-07-13
+289,1979 German Grand Prix - qualifying,1979-07-28
+282,1979 Austrian Grand Prix - qualifying,1979-08-11
+287,1979 Dutch Grand Prix - qualifying,1979-08-25
+290,1979 Italian Grand Prix - qualifying,1979-09-08
+286,1979 Canadian Grand Prix - qualifying,1979-09-29
+294,1979 United States Grand Prix - qualifying,1979-10-06
+296,1980 Argentine Grand Prix - qualifying,1980-01-12
+299,1980 Brazilian Grand Prix - qualifying,1980-01-26
+307,1980 South African Grand Prix - qualifying,1980-02-29
+309,1980 United States Grand Prix West - qualifying,1980-03-29
+298,1980 Belgian Grand Prix - qualifying,1980-05-03
+306,1980 Monaco Grand Prix - qualifying,1980-05-17
+303,1980 French Grand Prix - qualifying,1980-06-28
+300,1980 British Grand Prix - qualifying,1980-07-12
+304,1980 German Grand Prix - qualifying,1980-08-09
+297,1980 Austrian Grand Prix - qualifying,1980-08-16
+302,1980 Dutch Grand Prix - qualifying,1980-08-30
+305,1980 Italian Grand Prix - qualifying,1980-09-13
+301,1980 Canadian Grand Prix - qualifying,1980-09-27
+308,1980 United States Grand Prix - qualifying,1980-10-04
+324,1981 United States Grand Prix West - qualifying,1981-03-14
+313,1981 Brazilian Grand Prix - qualifying,1981-03-28
+310,1981 Argentine Grand Prix - qualifying,1981-04-11
+322,1981 San Marino Grand Prix - qualifying,1981-05-02
+312,1981 Belgian Grand Prix - qualifying,1981-05-16
+321,1981 Monaco Grand Prix - qualifying,1981-05-30
+323,1981 Spanish Grand Prix - qualifying,1981-06-20
+317,1981 French Grand Prix - qualifying,1981-07-04
+314,1981 British Grand Prix - qualifying,1981-07-17
+318,1981 German Grand Prix - qualifying,1981-08-01
+311,1981 Austrian Grand Prix - qualifying,1981-08-15
+316,1981 Dutch Grand Prix - qualifying,1981-08-29
+319,1981 Italian Grand Prix - qualifying,1981-09-12
+315,1981 Canadian Grand Prix - qualifying,1981-09-26
+320,1981 Caesars Palace Grand Prix - qualifying,1981-10-16
+338,1982 South African Grand Prix - qualifying,1982-01-22
+327,1982 Brazilian Grand Prix - qualifying,1982-03-20
+340,1982 United States Grand Prix West - qualifying,1982-04-03
+337,1982 San Marino Grand Prix - qualifying,1982-04-24
+326,1982 Belgian Grand Prix - qualifying,1982-05-08
+336,1982 Monaco Grand Prix - qualifying,1982-05-22
+330,1982 Detroit Grand Prix - qualifying,1982-06-05
+329,1982 Canadian Grand Prix - qualifying,1982-06-12
+331,1982 Dutch Grand Prix - qualifying,1982-07-02
+328,1982 British Grand Prix - qualifying,1982-07-17
+332,1982 French Grand Prix - qualifying,1982-07-24
+333,1982 German Grand Prix - qualifying,1982-08-07
+325,1982 Austrian Grand Prix - qualifying,1982-08-14
+339,1982 Swiss Grand Prix - qualifying,1982-08-28
+334,1982 Italian Grand Prix - qualifying,1982-09-11
+335,1982 Caesars Palace Grand Prix - qualifying,1982-09-24
+343,1983 Brazilian Grand Prix - qualifying,1983-03-12
+355,1983 United States Grand Prix West - qualifying,1983-03-26
+349,1983 French Grand Prix - qualifying,1983-04-16
+353,1983 San Marino Grand Prix - qualifying,1983-04-30
+352,1983 Monaco Grand Prix - qualifying,1983-05-14
+342,1983 Belgian Grand Prix - qualifying,1983-05-21
+346,1983 Detroit Grand Prix - qualifying,1983-06-04
+345,1983 Canadian Grand Prix - qualifying,1983-06-11
+344,1983 British Grand Prix - qualifying,1983-07-15
+350,1983 German Grand Prix - qualifying,1983-08-06
+341,1983 Austrian Grand Prix - qualifying,1983-08-13
+347,1983 Dutch Grand Prix - qualifying,1983-08-27
+351,1983 Italian Grand Prix - qualifying,1983-09-10
+348,1983 European Grand Prix - qualifying,1983-09-24
+354,1983 South African Grand Prix - qualifying,1983-10-14
+358,1984 Brazilian Grand Prix - qualifying,1984-03-24
+371,1984 South African Grand Prix - qualifying,1984-04-06
+357,1984 Belgian Grand Prix - qualifying,1984-04-28
+370,1984 San Marino Grand Prix - qualifying,1984-05-05
+365,1984 French Grand Prix - qualifying,1984-05-19
+368,1984 Monaco Grand Prix - qualifying,1984-06-02
+360,1984 Canadian Grand Prix - qualifying,1984-06-16
+362,1984 Detroit Grand Prix - qualifying,1984-06-23
+361,1984 Dallas Grand Prix - qualifying,1984-07-07
+359,1984 British Grand Prix - qualifying,1984-07-21
+366,1984 German Grand Prix - qualifying,1984-08-04
+356,1984 Austrian Grand Prix - qualifying,1984-08-18
+363,1984 Dutch Grand Prix - qualifying,1984-08-25
+367,1984 Italian Grand Prix - qualifying,1984-09-08
+364,1984 European Grand Prix - qualifying,1984-10-06
+369,1984 Portuguese Grand Prix - qualifying,1984-10-20
+375,1985 Brazilian Grand Prix - qualifying,1985-04-06
+385,1985 Portuguese Grand Prix - qualifying,1985-04-20
+386,1985 San Marino Grand Prix - qualifying,1985-05-04
+384,1985 Monaco Grand Prix - qualifying,1985-05-18
+377,1985 Canadian Grand Prix - qualifying,1985-06-15
+378,1985 Detroit Grand Prix - qualifying,1985-06-22
+381,1985 French Grand Prix - qualifying,1985-07-06
+376,1985 British Grand Prix - qualifying,1985-07-20
+382,1985 German Grand Prix - qualifying,1985-08-03
+373,1985 Austrian Grand Prix - qualifying,1985-08-17
+379,1985 Dutch Grand Prix - qualifying,1985-08-24
+383,1985 Italian Grand Prix - qualifying,1985-09-07
+374,1985 Belgian Grand Prix - qualifying,1985-09-14
+380,1985 European Grand Prix - qualifying,1985-10-05
+387,1985 South African Grand Prix - qualifying,1985-10-18
+372,1985 Australian Grand Prix - qualifying,1985-11-02
+391,1986 Brazilian Grand Prix - qualifying,1986-03-22
+403,1986 Spanish Grand Prix - qualifying,1986-04-12
+402,1986 San Marino Grand Prix - qualifying,1986-04-26
+400,1986 Monaco Grand Prix - qualifying,1986-05-10
+390,1986 Belgian Grand Prix - qualifying,1986-05-24
+393,1986 Canadian Grand Prix - qualifying,1986-06-14
+394,1986 Detroit Grand Prix - qualifying,1986-06-21
+395,1986 French Grand Prix - qualifying,1986-07-05
+392,1986 British Grand Prix - qualifying,1986-07-12
+396,1986 German Grand Prix - qualifying,1986-07-26
+397,1986 Hungarian Grand Prix - qualifying,1986-08-09
+389,1986 Austrian Grand Prix - qualifying,1986-08-16
+398,1986 Italian Grand Prix - qualifying,1986-09-06
+401,1986 Portuguese Grand Prix - qualifying,1986-09-20
+399,1986 Mexican Grand Prix - qualifying,1986-10-11
+388,1986 Australian Grand Prix - qualifying,1986-10-25
+407,1987 Brazilian Grand Prix - qualifying,1987-04-11
+418,1987 San Marino Grand Prix - qualifying,1987-05-02
+406,1987 Belgian Grand Prix - qualifying,1987-05-16
+416,1987 Monaco Grand Prix - qualifying,1987-05-30
+409,1987 Detroit Grand Prix - qualifying,1987-06-20
+410,1987 French Grand Prix - qualifying,1987-07-04
+408,1987 British Grand Prix - qualifying,1987-07-11
+411,1987 German Grand Prix - qualifying,1987-07-25
+412,1987 Hungarian Grand Prix - qualifying,1987-08-08
+405,1987 Austrian Grand Prix - qualifying,1987-06-17
+413,1987 Italian Grand Prix - qualifying,1987-09-05
+417,1987 Portuguese Grand Prix - qualifying,1987-09-19
+419,1987 Spanish Grand Prix - qualifying,1987-09-26
+415,1987 Mexican Grand Prix - qualifying,1987-10-17
+414,1987 Japanese Grand Prix - qualifying,1987-10-31
+404,1987 Australian Grand Prix - qualifying,1987-11-14
+422,1988 Brazilian Grand Prix - qualifying,1988-04-02
+434,1988 San Marino Grand Prix - qualifying,1988-04-30
+432,1988 Monaco Grand Prix - qualifying,1988-05-14
+431,1988 Mexican Grand Prix - qualifying,1988-05-28
+424,1988 Canadian Grand Prix - qualifying,1988-06-11
+425,1988 Detroit Grand Prix - qualifying,1988-06-18
+426,1988 French Grand Prix - qualifying,1988-07-02
+423,1988 British Grand Prix - qualifying,1988-07-09
+427,1988 German Grand Prix - qualifying,1988-07-23
+428,1988 Hungarian Grand Prix - qualifying,1988-08-06
+421,1988 Belgian Grand Prix - qualifying,1988-08-27
+429,1988 Italian Grand Prix - qualifying,1988-09-10
+433,1988 Portuguese Grand Prix - qualifying,1988-09-24
+435,1988 Spanish Grand Prix - qualifying,1988-10-01
+430,1988 Japanese Grand Prix - qualifying,1988-10-29
+420,1988 Australian Grand Prix - qualifying,1988-11-12
+441,1989 Brazilian Grand Prix - qualifying,1989-03-25
+463,1989 San Marino Grand Prix - qualifying,1989-04-22
+459,1989 Monaco Grand Prix - qualifying,1989-05-06
+457,1989 Mexican Grand Prix - qualifying,1989-05-27
+467,1989 United States Grand Prix - qualifying,1989-06-03
+445,1989 Canadian Grand Prix - qualifying,1989-06-17
+447,1989 French Grand Prix - qualifying,1989-07-08
+443,1989 British Grand Prix - qualifying,1989-07-15
+449,1989 German Grand Prix - qualifying,1989-07-29
+451,1989 Hungarian Grand Prix - qualifying,1989-08-12
+439,1989 Belgian Grand Prix - qualifying,1989-08-26
+453,1989 Italian Grand Prix - qualifying,1989-09-09
+461,1989 Portuguese Grand Prix - qualifying,1989-09-23
+465,1989 Spanish Grand Prix - qualifying,1989-09-30
+455,1989 Japanese Grand Prix - qualifying,1989-10-21
+437,1989 Australian Grand Prix - qualifying,1989-11-04
+497,1990 United States Grand Prix - qualifying,1990-03-10
+472,1990 Brazilian Grand Prix - qualifying,1990-03-24
+493,1990 San Marino Grand Prix - qualifying,1990-05-12
+489,1990 Monaco Grand Prix - qualifying,1990-05-26
+476,1990 Canadian Grand Prix - qualifying,1990-06-09
+487,1990 Mexican Grand Prix - qualifying,1990-06-23
+478,1990 French Grand Prix - qualifying,1990-07-07
+474,1990 British Grand Prix - qualifying,1990-07-14
+480,1990 German Grand Prix - qualifying,1990-07-28
+482,1990 Hungarian Grand Prix - qualifying,1990-08-11
+470,1990 Belgian Grand Prix - qualifying,1990-08-25
+484,1990 Italian Grand Prix - qualifying,1990-09-08
+491,1990 Portuguese Grand Prix - qualifying,1990-09-22
+495,1990 Spanish Grand Prix - qualifying,1990-09-29
+485,1990 Japanese Grand Prix - qualifying,1990-10-20
+468,1990 Australian Grand Prix - qualifying,1990-11-03
+528,1991 United States Grand Prix - qualifying,1991-03-09
+502,1991 Brazilian Grand Prix - qualifying,1991-03-23
+524,1991 San Marino Grand Prix - qualifying,1991-04-27
+520,1991 Monaco Grand Prix - qualifying,1991-05-11
+506,1991 Canadian Grand Prix - qualifying,1991-06-01
+518,1991 Mexican Grand Prix - qualifying,1991-06-15
+508,1991 French Grand Prix - qualifying,1991-07-06
+504,1991 British Grand Prix - qualifying,1991-07-13
+510,1991 German Grand Prix - qualifying,1991-07-27
+512,1991 Hungarian Grand Prix - qualifying,1991-08-10
+500,1991 Belgian Grand Prix - qualifying,1991-08-24
+514,1991 Italian Grand Prix - qualifying,1991-09-07
+522,1991 Portuguese Grand Prix - qualifying,1991-09-21
+526,1991 Spanish Grand Prix - qualifying,1991-09-28
+516,1991 Japanese Grand Prix - qualifying,1991-10-19
+498,1991 Australian Grand Prix - qualifying,1991-11-02
+543,1992 South African Grand Prix - qualifying,1992-02-29
+539,1992 Mexican Grand Prix - qualifying,1992-03-21
+531,1992 Brazilian Grand Prix - qualifying,1992-04-04
+544,1992 Spanish Grand Prix - qualifying,1992-05-02
+542,1992 San Marino Grand Prix - qualifying,1992-05-16
+540,1992 Monaco Grand Prix - qualifying,1992-05-30
+533,1992 Canadian Grand Prix - qualifying,1992-06-13
+534,1992 French Grand Prix - qualifying,1992-07-04
+532,1992 British Grand Prix - qualifying,1992-07-11
+535,1992 German Grand Prix - qualifying,1992-07-25
+536,1992 Hungarian Grand Prix - qualifying,1992-08-15
+530,1992 Belgian Grand Prix - qualifying,1992-08-29
+537,1992 Italian Grand Prix - qualifying,1992-09-12
+541,1992 Portuguese Grand Prix - qualifying,1992-09-26
+538,1992 Japanese Grand Prix - qualifying,1992-10-24
+529,1992 Australian Grand Prix - qualifying,1992-11-07
+559,1993 South African Grand Prix - qualifying,1993-03-13
+547,1993 Brazilian Grand Prix - qualifying,1993-03-27
+550,1993 European Grand Prix - qualifying,1993-04-10
+558,1993 San Marino Grand Prix - qualifying,1993-04-24
+560,1993 Spanish Grand Prix - qualifying,1993-05-08
+556,1993 Monaco Grand Prix - qualifying,1993-05-22
+549,1993 Canadian Grand Prix - qualifying,1993-06-12
+551,1993 French Grand Prix - qualifying,1993-07-03
+548,1993 British Grand Prix - qualifying,1993-07-10
+552,1993 German Grand Prix - qualifying,1993-07-24
+553,1993 Hungarian Grand Prix - qualifying,1993-08-14
+546,1993 Belgian Grand Prix - qualifying,1993-08-28
+554,1993 Italian Grand Prix - qualifying,1993-09-11
+557,1993 Portuguese Grand Prix - qualifying,1993-09-25
+555,1993 Japanese Grand Prix - qualifying,1993-10-23
+545,1993 Australian Grand Prix - qualifying,1993-11-06
+563,1994 Brazilian Grand Prix - qualifying,1994-03-26
+573,1994 Pacific Grand Prix - qualifying,1994-04-16
+575,1994 San Marino Grand Prix - qualifying,1994-04-30
+572,1994 Monaco Grand Prix - qualifying,1994-05-14
+576,1994 Spanish Grand Prix - qualifying,1994-05-28
+565,1994 Canadian Grand Prix - qualifying,1994-06-11
+567,1994 French Grand Prix - qualifying,1994-07-02
+564,1994 British Grand Prix - qualifying,1994-07-09
+568,1994 German Grand Prix - qualifying,1994-07-30
+569,1994 Hungarian Grand Prix - qualifying,1994-08-13
+562,1994 Belgian Grand Prix - qualifying,1994-08-27
+570,1994 Italian Grand Prix - qualifying,1994-09-10
+574,1994 Portuguese Grand Prix - qualifying,1994-09-24
+566,1994 European Grand Prix - qualifying,1994-10-15
+571,1994 Japanese Grand Prix - qualifying,1994-11-05
+561,1994 Australian Grand Prix - qualifying,1994-11-12
+580,1995 Brazilian Grand Prix - qualifying,1995-03-25
+577,1995 Argentine Grand Prix - qualifying,1995-04-08
+592,1995 San Marino Grand Prix - qualifying,1995-04-29
+593,1995 Spanish Grand Prix - qualifying,1995-05-13
+589,1995 Monaco Grand Prix - qualifying,1995-05-27
+582,1995 Canadian Grand Prix - qualifying,1995-06-10
+584,1995 French Grand Prix - qualifying,1995-07-01
+581,1995 British Grand Prix - qualifying,1995-07-15
+585,1995 German Grand Prix - qualifying,1995-07-29
+586,1995 Hungarian Grand Prix - qualifying,1995-08-12
+579,1995 Belgian Grand Prix - qualifying,1995-08-26
+587,1995 Italian Grand Prix - qualifying,1995-09-09
+591,1995 Portuguese Grand Prix - qualifying,1995-09-23
+583,1995 European Grand Prix - qualifying,1995-09-30
+590,1995 Pacific Grand Prix - qualifying,1995-10-21
+588,1995 Japanese Grand Prix - qualifying,1995-10-28
+578,1995 Australian Grand Prix - qualifying,1995-11-11
+595,1996 Australian Grand Prix - qualifying,1996-03-09
+597,1996 Brazilian Grand Prix - qualifying,1996-03-30
+594,1996 Argentine Grand Prix - qualifying,1996-04-06
+600,1996 European Grand Prix - qualifying,1996-04-27
+608,1996 San Marino Grand Prix - qualifying,1996-05-04
+606,1996 Monaco Grand Prix - qualifying,1996-05-18
+609,1996 Spanish Grand Prix - qualifying,1996-06-01
+599,1996 Canadian Grand Prix - qualifying,1996-06-15
+601,1996 French Grand Prix - qualifying,1996-06-29
+598,1996 British Grand Prix - qualifying,1996-07-13
+602,1996 German Grand Prix - qualifying,1996-07-27
+603,1996 Hungarian Grand Prix - qualifying,1996-08-10
+596,1996 Belgian Grand Prix - qualifying,1996-08-24
+604,1996 Italian Grand Prix - qualifying,1996-09-07
+607,1996 Portuguese Grand Prix - qualifying,1996-09-21
+605,1996 Japanese Grand Prix - qualifying,1996-10-12
+611,1997 Australian Grand Prix - qualifying,1997-03-08
+614,1997 Brazilian Grand Prix - qualifying,1997-03-29
+610,1997 Argentine Grand Prix - qualifying,1997-04-12
+625,1997 San Marino Grand Prix - qualifying,1997-04-26
+624,1997 Monaco Grand Prix - qualifying,1997-05-10
+626,1997 Spanish Grand Prix - qualifying,1997-05-24
+616,1997 Canadian Grand Prix - qualifying,1997-06-14
+618,1997 French Grand Prix - qualifying,1997-06-28
+615,1997 British Grand Prix - qualifying,1997-07-12
+619,1997 German Grand Prix - qualifying,1997-07-26
+620,1997 Hungarian Grand Prix - qualifying,1997-08-09
+613,1997 Belgian Grand Prix - qualifying,1997-08-23
+621,1997 Italian Grand Prix - qualifying,1997-09-06
+612,1997 Austrian Grand Prix - qualifying,1997-09-20
+623,1997 Luxembourg Grand Prix - qualifying,1997-09-27
+622,1997 Japanese Grand Prix - qualifying,1997-10-11
+617,1997 European Grand Prix - qualifying,1997-10-25
+628,1998 Australian Grand Prix - qualifying,1998-03-07
+631,1998 Brazilian Grand Prix - qualifying,1998-03-28
+627,1998 Argentine Grand Prix - qualifying,1998-04-11
+641,1998 San Marino Grand Prix - qualifying,1998-04-25
+642,1998 Spanish Grand Prix - qualifying,1998-05-09
+640,1998 Monaco Grand Prix - qualifying,1998-05-23
+633,1998 Canadian Grand Prix - qualifying,1998-06-06
+634,1998 French Grand Prix - qualifying,1998-06-27
+632,1998 British Grand Prix - qualifying,1998-07-11
+629,1998 Austrian Grand Prix - qualifying,1998-07-25
+635,1998 German Grand Prix - qualifying,1998-08-01
+636,1998 Hungarian Grand Prix - qualifying,1998-08-15
+630,1998 Belgian Grand Prix - qualifying,1998-08-29
+637,1998 Italian Grand Prix - qualifying,1998-09-12
+639,1998 Luxembourg Grand Prix - qualifying,1998-09-26
+638,1998 Japanese Grand Prix - qualifying,1998-10-31
+643,1999 Australian Grand Prix - qualifying,1999-03-06
+646,1999 Brazilian Grand Prix - qualifying,1999-04-10
+657,1999 San Marino Grand Prix - qualifying,1999-05-01
+656,1999 Monaco Grand Prix - qualifying,1999-05-15
+658,1999 Spanish Grand Prix - qualifying,1999-05-29
+648,1999 Canadian Grand Prix - qualifying,1999-06-12
+650,1999 French Grand Prix - qualifying,1999-06-26
+647,1999 British Grand Prix - qualifying,1999-07-10
+644,1999 Austrian Grand Prix - qualifying,1999-07-24
+651,1999 German Grand Prix - qualifying,1999-07-31
+652,1999 Hungarian Grand Prix - qualifying,1999-08-14
+645,1999 Belgian Grand Prix - qualifying,1999-08-28
+653,1999 Italian Grand Prix - qualifying,1999-09-11
+649,1999 European Grand Prix - qualifying,1999-09-25
+655,1999 Malaysian Grand Prix - qualifying,1999-10-16
+654,1999 Japanese Grand Prix - qualifying,1999-10-30
+659,2000 Australian Grand Prix - qualifying,2000-03-11
+662,2000 Brazilian Grand Prix - qualifying,2000-03-25
+673,2000 San Marino Grand Prix - qualifying,2000-04-08
+663,2000 British Grand Prix - qualifying,2000-04-22
+674,2000 Spanish Grand Prix - qualifying,2000-05-06
+665,2000 European Grand Prix - qualifying,2000-05-20
+672,2000 Monaco Grand Prix - qualifying,2000-06-03
+664,2000 Canadian Grand Prix - qualifying,2000-06-17
+666,2000 French Grand Prix - qualifying,2000-07-01
+660,2000 Austrian Grand Prix - qualifying,2000-07-15
+667,2000 German Grand Prix - qualifying,2000-07-29
+668,2000 Hungarian Grand Prix - qualifying,2000-08-12
+661,2000 Belgian Grand Prix - qualifying,2000-08-26
+669,2000 Italian Grand Prix - qualifying,2000-09-09
+675,2000 United States Grand Prix - qualifying,2000-09-23
+670,2000 Japanese Grand Prix - qualifying,2000-10-07
+671,2000 Malaysian Grand Prix - qualifying,2000-10-21
+676,2001 Australian Grand Prix - qualifying,2001-03-03
+688,2001 Malaysian Grand Prix - qualifying,2001-03-17
+679,2001 Brazilian Grand Prix - qualifying,2001-03-31
+690,2001 San Marino Grand Prix - qualifying,2001-04-14
+691,2001 Spanish Grand Prix - qualifying,2001-04-28
+677,2001 Austrian Grand Prix - qualifying,2001-05-12
+689,2001 Monaco Grand Prix - qualifying,2001-05-26
+681,2001 Canadian Grand Prix - qualifying,2001-06-09
+682,2001 European Grand Prix - qualifying,2001-06-23
+683,2001 French Grand Prix - qualifying,2001-06-30
+680,2001 British Grand Prix - qualifying,2001-07-14
+684,2001 German Grand Prix - qualifying,2001-07-28
+685,2001 Hungarian Grand Prix - qualifying,2001-08-18
+678,2001 Belgian Grand Prix - qualifying,2001-09-01
+686,2001 Italian Grand Prix - qualifying,2001-09-15
+692,2001 United States Grand Prix - qualifying,2001-09-29
+687,2001 Japanese Grand Prix - qualifying,2001-10-13
+693,2002 Australian Grand Prix - qualifying,2002-03-02
+705,2002 Malaysian Grand Prix - qualifying,2002-03-16
+696,2002 Brazilian Grand Prix - qualifying,2002-03-30
+707,2002 San Marino Grand Prix - qualifying,2002-04-13
+708,2002 Spanish Grand Prix - qualifying,2002-04-27
+694,2002 Austrian Grand Prix - qualifying,2002-05-11
+706,2002 Monaco Grand Prix - qualifying,2002-05-25
+698,2002 Canadian Grand Prix - qualifying,2002-06-08
+699,2002 European Grand Prix - qualifying,2002-06-22
+697,2002 British Grand Prix - qualifying,2002-07-06
+700,2002 French Grand Prix - qualifying,2002-07-20
+701,2002 German Grand Prix - qualifying,2002-07-27
+702,2002 Hungarian Grand Prix - qualifying,2002-08-17
+695,2002 Belgian Grand Prix - qualifying,2002-08-31
+703,2002 Italian Grand Prix - qualifying,2002-09-14
+709,2002 United States Grand Prix - qualifying,2002-09-28
+704,2002 Japanese Grand Prix - qualifying,2002-10-12
+710,2003 Australian Grand Prix - qualifying,2003-03-08
+721,2003 Malaysian Grand Prix - qualifying,2003-03-22
+712,2003 Brazilian Grand Prix - qualifying,2003-04-05
+723,2003 San Marino Grand Prix - qualifying,2003-04-19
+724,2003 Spanish Grand Prix - qualifying,2003-05-03
+711,2003 Austrian Grand Prix - qualifying,2003-05-17
+722,2003 Monaco Grand Prix - qualifying,2003-05-31
+714,2003 Canadian Grand Prix - qualifying,2003-06-14
+715,2003 European Grand Prix - qualifying,2003-06-28
+716,2003 French Grand Prix - qualifying,2003-07-05
+713,2003 British Grand Prix - qualifying,2003-07-19
+717,2003 German Grand Prix - qualifying,2003-08-02
+718,2003 Hungarian Grand Prix - qualifying,2003-08-23
+719,2003 Italian Grand Prix - qualifying,2003-09-13
+725,2003 United States Grand Prix - qualifying,2003-09-27
+720,2003 Japanese Grand Prix - qualifying,2003-10-11
+726,2004 Australian Grand Prix - qualifying,2004-03-06
+739,2004 Malaysian Grand Prix - qualifying,2004-03-20
+727,2004 Bahrain Grand Prix - qualifying,2004-04-03
+741,2004 San Marino Grand Prix - qualifying,2004-04-24
+742,2004 Spanish Grand Prix - qualifying,2004-05-08
+740,2004 Monaco Grand Prix - qualifying,2004-05-22
+733,2004 European Grand Prix - qualifying,2004-05-29
+731,2004 Canadian Grand Prix - qualifying,2004-06-12
+743,2004 United States Grand Prix - qualifying,2004-06-19
+734,2004 French Grand Prix - qualifying,2004-07-03
+730,2004 British Grand Prix - qualifying,2004-07-10
+735,2004 German Grand Prix - qualifying,2004-07-24
+736,2004 Hungarian Grand Prix - qualifying,2004-08-14
+728,2004 Belgian Grand Prix - qualifying,2004-08-28
+737,2004 Italian Grand Prix - qualifying,2004-09-11
+732,2004 Chinese Grand Prix - qualifying,2004-09-25
+738,2004 Japanese Grand Prix - qualifying,2004-10-09
+729,2004 Brazilian Grand Prix - qualifying,2004-10-23
+744,2005 Australian Grand Prix - qualifying,2005-03-05
+757,2005 Malaysian Grand Prix - qualifying,2005-03-19
+745,2005 Bahrain Grand Prix - qualifying,2005-04-02
+759,2005 San Marino Grand Prix - qualifying,2005-04-23
+760,2005 Spanish Grand Prix - qualifying,2005-05-07
+758,2005 Monaco Grand Prix - qualifying,2005-05-21
+751,2005 European Grand Prix - qualifying,2005-05-28
+749,2005 Canadian Grand Prix - qualifying,2005-06-11
+762,2005 United States Grand Prix - qualifying,2005-06-18
+752,2005 French Grand Prix - qualifying,2005-07-02
+748,2005 British Grand Prix - qualifying,2005-07-09
+753,2005 German Grand Prix - qualifying,2005-07-23
+754,2005 Hungarian Grand Prix - qualifying,2005-07-30
+761,2005 Turkish Grand Prix - qualifying,2005-08-20
+755,2005 Italian Grand Prix - qualifying,2005-09-03
+746,2005 Belgian Grand Prix - qualifying,2005-09-10
+747,2005 Brazilian Grand Prix - qualifying,2005-09-24
+756,2005 Japanese Grand Prix - qualifying,2005-10-08
+750,2005 Chinese Grand Prix - qualifying,2005-10-15
+764,2006 Bahrain Grand Prix - qualifying,2006-03-11
+775,2006 Malaysian Grand Prix - qualifying,2006-03-18
+763,2006 Australian Grand Prix - qualifying,2006-04-01
+777,2006 San Marino Grand Prix - qualifying,2006-04-22
+769,2006 European Grand Prix - qualifying,2006-05-06
+778,2006 Spanish Grand Prix - qualifying,2006-05-13
+776,2006 Monaco Grand Prix - qualifying,2006-05-27
+766,2006 British Grand Prix - qualifying,2006-06-10
+767,2006 Canadian Grand Prix - qualifying,2006-06-24
+780,2006 United States Grand Prix - qualifying,2006-07-01
+770,2006 French Grand Prix - qualifying,2006-07-15
+771,2006 German Grand Prix - qualifying,2006-07-29
+772,2006 Hungarian Grand Prix - qualifying,2006-08-05
+779,2006 Turkish Grand Prix - qualifying,2006-08-26
+773,2006 Italian Grand Prix - qualifying,2006-09-09
+768,2006 Chinese Grand Prix - qualifying,2006-09-30
+774,2006 Japanese Grand Prix - qualifying,2006-10-07
+765,2006 Brazilian Grand Prix - qualifying,2006-10-21
+781,2007 Australian Grand Prix - qualifying,2007-03-17
+793,2007 Malaysian Grand Prix - qualifying,2007-04-07
+782,2007 Bahrain Grand Prix - qualifying,2007-04-14
+795,2007 Spanish Grand Prix - qualifying,2007-05-12
+794,2007 Monaco Grand Prix - qualifying,2007-05-26
+786,2007 Canadian Grand Prix - qualifying,2007-06-09
+797,2007 United States Grand Prix - qualifying,2007-06-16
+789,2007 French Grand Prix - qualifying,2007-06-30
+785,2007 British Grand Prix - qualifying,2007-07-07
+788,2007 European Grand Prix - qualifying,2007-07-21
+790,2007 Hungarian Grand Prix - qualifying,2007-08-04
+796,2007 Turkish Grand Prix - qualifying,2007-08-25
+791,2007 Italian Grand Prix - qualifying,2007-09-08
+783,2007 Belgian Grand Prix - qualifying,2007-09-15
+792,2007 Japanese Grand Prix - qualifying,2007-09-29
+787,2007 Chinese Grand Prix - qualifying,2007-10-06
+784,2007 Brazilian Grand Prix - qualifying,2007-10-20
+798,2008 Australian Grand Prix - qualifying,2008-03-15
+811,2008 Malaysian Grand Prix - qualifying,2008-03-22
+799,2008 Bahrain Grand Prix - qualifying,2008-04-05
+814,2008 Spanish Grand Prix - qualifying,2008-04-26
+815,2008 Turkish Grand Prix - qualifying,2008-05-10
+812,2008 Monaco Grand Prix - qualifying,2008-05-24
+803,2008 Canadian Grand Prix - qualifying,2008-06-07
+806,2008 French Grand Prix - qualifying,2008-06-21
+802,2008 British Grand Prix - qualifying,2008-07-05
+807,2008 German Grand Prix - qualifying,2008-07-19
+808,2008 Hungarian Grand Prix - qualifying,2008-08-02
+805,2008 European Grand Prix - qualifying,2008-08-23
+800,2008 Belgian Grand Prix - qualifying,2008-09-06
+809,2008 Italian Grand Prix - qualifying,2008-09-13
+813,2008 Singapore Grand Prix - qualifying,2008-09-27
+810,2008 Japanese Grand Prix - qualifying,2008-10-11
+804,2008 Chinese Grand Prix - qualifying,2008-10-18
+801,2008 Brazilian Grand Prix - qualifying,2008-11-01
+817,2009 Australian Grand Prix - qualifying,2009-03-28
+828,2009 Malaysian Grand Prix - qualifying,2009-04-04
+822,2009 Chinese Grand Prix - qualifying,2009-04-18
+818,2009 Bahrain Grand Prix - qualifying,2009-04-25
+831,2009 Spanish Grand Prix - qualifying,2009-05-09
+829,2009 Monaco Grand Prix - qualifying,2009-05-23
+832,2009 Turkish Grand Prix - qualifying,2009-06-06
+821,2009 British Grand Prix - qualifying,2009-06-20
+824,2009 German Grand Prix - qualifying,2009-07-11
+825,2009 Hungarian Grand Prix - qualifying,2009-07-25
+823,2009 European Grand Prix - qualifying,2009-08-22
+819,2009 Belgian Grand Prix - qualifying,2009-08-29
+826,2009 Italian Grand Prix - qualifying,2009-09-12
+830,2009 Singapore Grand Prix - qualifying,2009-09-26
+827,2009 Japanese Grand Prix - qualifying,2009-10-03
+820,2009 Brazilian Grand Prix - qualifying,2009-10-17
+816,2009 Abu Dhabi Grand Prix - qualifying,2009-10-31
+835,2010 Bahrain Grand Prix - qualifying,2010-03-13
+834,2010 Australian Grand Prix - qualifying,2010-03-27
+847,2010 Malaysian Grand Prix - qualifying,2010-04-03
+840,2010 Chinese Grand Prix - qualifying,2010-04-17
+850,2010 Spanish Grand Prix - qualifying,2010-05-08
+848,2010 Monaco Grand Prix - qualifying,2010-05-15
+851,2010 Turkish Grand Prix - qualifying,2010-05-29
+839,2010 Canadian Grand Prix - qualifying,2010-06-12
+841,2010 European Grand Prix - qualifying,2010-06-26
+838,2010 British Grand Prix - qualifying,2010-07-10
+842,2010 German Grand Prix - qualifying,2010-07-24
+843,2010 Hungarian Grand Prix - qualifying,2010-07-31
+836,2010 Belgian Grand Prix - qualifying,2010-08-28
+844,2010 Italian Grand Prix - qualifying,2010-09-11
+849,2010 Singapore Grand Prix - qualifying,2010-09-25
+845,2010 Japanese Grand Prix - qualifying,2010-10-09
+846,2010 Korean Grand Prix - qualifying,2010-10-23
+837,2010 Brazilian Grand Prix - qualifying,2010-11-06
+833,2010 Abu Dhabi Grand Prix - qualifying,2010-11-13
+853,2011 Australian Grand Prix - qualifying,2011-03-26
+866,2011 Malaysian Grand Prix - qualifying,2011-04-09
+858,2011 Chinese Grand Prix - qualifying,2011-04-16
+870,2011 Turkish Grand Prix - qualifying,2011-05-07
+869,2011 Spanish Grand Prix - qualifying,2011-05-21
+867,2011 Monaco Grand Prix - qualifying,2011-05-28
+857,2011 Canadian Grand Prix - qualifying,2011-06-11
+859,2011 European Grand Prix - qualifying,2011-06-25
+856,2011 British Grand Prix - qualifying,2011-07-09
+860,2011 German Grand Prix - qualifying,2011-07-23
+861,2011 Hungarian Grand Prix - qualifying,2011-07-30
+854,2011 Belgian Grand Prix - qualifying,2011-08-27
+863,2011 Italian Grand Prix - qualifying,2011-09-10
+868,2011 Singapore Grand Prix - qualifying,2011-09-24
+864,2011 Japanese Grand Prix - qualifying,2011-10-08
+865,2011 Korean Grand Prix - qualifying,2011-10-15
+862,2011 Indian Grand Prix - qualifying,2011-10-29
+852,2011 Abu Dhabi Grand Prix - qualifying,2011-11-12
+855,2011 Brazilian Grand Prix - qualifying,2011-11-26
+872,2012 Australian Grand Prix - qualifying,2012-03-17
+886,2012 Malaysian Grand Prix - qualifying,2012-03-24
+878,2012 Chinese Grand Prix - qualifying,2012-04-14
+873,2012 Bahrain Grand Prix - qualifying,2012-04-21
+889,2012 Spanish Grand Prix - qualifying,2012-05-12
+887,2012 Monaco Grand Prix - qualifying,2012-05-26
+877,2012 Canadian Grand Prix - qualifying,2012-06-09
+879,2012 European Grand Prix - qualifying,2012-06-23
+876,2012 British Grand Prix - qualifying,2012-07-07
+880,2012 German Grand Prix - qualifying,2012-07-21
+881,2012 Hungarian Grand Prix - qualifying,2012-07-28
+874,2012 Belgian Grand Prix - qualifying,2012-09-01
+883,2012 Italian Grand Prix - qualifying,2012-09-08
+888,2012 Singapore Grand Prix - qualifying,2012-09-22
+884,2012 Japanese Grand Prix - qualifying,2012-10-06
+885,2012 Korean Grand Prix - qualifying,2012-10-13
+882,2012 Indian Grand Prix - qualifying,2012-10-27
+871,2012 Abu Dhabi Grand Prix - qualifying,2012-11-03
+890,2012 United States Grand Prix - qualifying,2012-11-17
+875,2012 Brazilian Grand Prix - qualifying,2012-11-24
+892,2013 Australian Grand Prix - qualifying,2013-03-16
+905,2013 Malaysian Grand Prix - qualifying,2013-03-23
+898,2013 Chinese Grand Prix - qualifying,2013-04-13
+893,2013 Bahrain Grand Prix - qualifying,2013-04-20
+908,2013 Spanish Grand Prix - qualifying,2013-05-11
+906,2013 Monaco Grand Prix - qualifying,2013-05-25
+897,2013 Canadian Grand Prix - qualifying,2013-06-08
+896,2013 British Grand Prix - qualifying,2013-06-29
+899,2013 German Grand Prix - qualifying,2013-07-06
+900,2013 Hungarian Grand Prix - qualifying,2013-07-27
+894,2013 Belgian Grand Prix - qualifying,2013-08-24
+902,2013 Italian Grand Prix - qualifying,2013-09-07
+907,2013 Singapore Grand Prix - qualifying,2013-09-21
+904,2013 Korean Grand Prix - qualifying,2013-10-05
+903,2013 Japanese Grand Prix - qualifying,2013-10-12
+901,2013 Indian Grand Prix - qualifying,2013-10-26
+891,2013 Abu Dhabi Grand Prix - qualifying,2013-11-02
+909,2013 United States Grand Prix - qualifying,2013-11-16
+895,2013 Brazilian Grand Prix - qualifying,2013-11-23
+910,2014 Australian Grand Prix - qualifying,2014-03-15
+921,2014 Malaysian Grand Prix - qualifying,2014-03-29
+912,2014 Bahrain Grand Prix - qualifying,2014-04-05
+916,2014 Chinese Grand Prix - qualifying,2014-04-19
+925,2014 Spanish Grand Prix - qualifying,2014-05-10
+922,2014 Monaco Grand Prix - qualifying,2014-05-24
+915,2014 Canadian Grand Prix - qualifying,2014-06-07
+911,2014 Austrian Grand Prix - qualifying,2014-06-21
+914,2014 British Grand Prix - qualifying,2014-07-05
+917,2014 German Grand Prix - qualifying,2014-07-19
+918,2014 Hungarian Grand Prix - qualifying,2014-07-26
+913,2014 Belgian Grand Prix - qualifying,2014-08-23
+919,2014 Italian Grand Prix - qualifying,2014-09-06
+924,2014 Singapore Grand Prix - qualifying,2014-09-20
+920,2014 Japanese Grand Prix - qualifying,2014-10-04
+923,2014 Russian Grand Prix - qualifying,2014-10-11
