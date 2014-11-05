@@ -399,12 +399,12 @@
 418,1987 San Marino Grand Prix - qualifying,1987-05-02
 406,1987 Belgian Grand Prix - qualifying,1987-05-16
 416,1987 Monaco Grand Prix - qualifying,1987-05-30
+405,1987 Austrian Grand Prix - qualifying,1987-06-17
 409,1987 Detroit Grand Prix - qualifying,1987-06-20
 410,1987 French Grand Prix - qualifying,1987-07-04
 408,1987 British Grand Prix - qualifying,1987-07-11
 411,1987 German Grand Prix - qualifying,1987-07-25
 412,1987 Hungarian Grand Prix - qualifying,1987-08-08
-405,1987 Austrian Grand Prix - qualifying,1987-06-17
 413,1987 Italian Grand Prix - qualifying,1987-09-05
 417,1987 Portuguese Grand Prix - qualifying,1987-09-19
 419,1987 Spanish Grand Prix - qualifying,1987-09-26
@@ -427,52 +427,97 @@
 435,1988 Spanish Grand Prix - qualifying,1988-10-01
 430,1988 Japanese Grand Prix - qualifying,1988-10-29
 420,1988 Australian Grand Prix - qualifying,1988-11-12
+440,1989 Brazilian Grand Prix - prequalifying,1989-03-24
 441,1989 Brazilian Grand Prix - qualifying,1989-03-25
+462,1989 San Marino Grand Prix - prequalifying,1989-04-21
 463,1989 San Marino Grand Prix - qualifying,1989-04-22
+458,1989 Monaco Grand Prix - prequalifying,1989-05-05
 459,1989 Monaco Grand Prix - qualifying,1989-05-06
+456,1989 Mexican Grand Prix - prequalifying,1989-05-26
 457,1989 Mexican Grand Prix - qualifying,1989-05-27
+466,1989 United States Grand Prix - prequalifying,1989-06-02
 467,1989 United States Grand Prix - qualifying,1989-06-03
+444,1989 Canadian Grand Prix - prequalifying,1989-06-16
 445,1989 Canadian Grand Prix - qualifying,1989-06-17
+446,1989 French Grand Prix - prequalifying,1989-07-07
 447,1989 French Grand Prix - qualifying,1989-07-08
+442,1989 British Grand Prix - prequalifying,1989-07-14
 443,1989 British Grand Prix - qualifying,1989-07-15
+448,1989 German Grand Prix - prequalifying,1989-07-28
 449,1989 German Grand Prix - qualifying,1989-07-29
+450,1989 Hungarian Grand Prix - prequalifying,1989-08-11
 451,1989 Hungarian Grand Prix - qualifying,1989-08-12
+438,1989 Belgian Grand Prix - prequalifying,1989-08-25
 439,1989 Belgian Grand Prix - qualifying,1989-08-26
+452,1989 Italian Grand Prix - prequalifying,1989-09-08
 453,1989 Italian Grand Prix - qualifying,1989-09-09
+460,1989 Portuguese Grand Prix - prequalifying,1989-09-22
 461,1989 Portuguese Grand Prix - qualifying,1989-09-23
+464,1989 Spanish Grand Prix - prequalifying,1989-09-29
 465,1989 Spanish Grand Prix - qualifying,1989-09-30
+454,1989 Japanese Grand Prix - prequalifying,1989-10-20
 455,1989 Japanese Grand Prix - qualifying,1989-10-21
+436,1989 Australian Grand Prix - prequalifying,1989-11-03
 437,1989 Australian Grand Prix - qualifying,1989-11-04
+496,1990 United States Grand Prix - prequalifying,1990-03-09
 497,1990 United States Grand Prix - qualifying,1990-03-10
+471,1990 Brazilian Grand Prix - prequalifying,1990-03-23
 472,1990 Brazilian Grand Prix - qualifying,1990-03-24
+492,1990 San Marino Grand Prix - prequalifying,1990-05-11
 493,1990 San Marino Grand Prix - qualifying,1990-05-12
+488,1990 Monaco Grand Prix - prequalifying,1990-05-25
 489,1990 Monaco Grand Prix - qualifying,1990-05-26
+475,1990 Canadian Grand Prix - prequalifying,1990-06-08
 476,1990 Canadian Grand Prix - qualifying,1990-06-09
+486,1990 Mexican Grand Prix - prequalifying,1990-06-22
 487,1990 Mexican Grand Prix - qualifying,1990-06-23
+477,1990 French Grand Prix - prequalifying,1990-07-06
 478,1990 French Grand Prix - qualifying,1990-07-07
+473,1990 British Grand Prix - prequalifying,1990-07-13
 474,1990 British Grand Prix - qualifying,1990-07-14
+479,1990 German Grand Prix - prequalifying,1990-07-27
 480,1990 German Grand Prix - qualifying,1990-07-28
+481,1990 Hungarian Grand Prix - prequalifying,1990-08-10
 482,1990 Hungarian Grand Prix - qualifying,1990-08-11
+469,1990 Belgian Grand Prix - prequalifying,1990-08-24
 470,1990 Belgian Grand Prix - qualifying,1990-08-25
+483,1990 Italian Grand Prix - prequalifying,1990-09-07
 484,1990 Italian Grand Prix - qualifying,1990-09-08
+490,1990 Portuguese Grand Prix - prequalifying,1990-09-21
 491,1990 Portuguese Grand Prix - qualifying,1990-09-22
+494,1990 Spanish Grand Prix - prequalifying,1990-09-28
 495,1990 Spanish Grand Prix - qualifying,1990-09-29
 485,1990 Japanese Grand Prix - qualifying,1990-10-20
 468,1990 Australian Grand Prix - qualifying,1990-11-03
+527,1991 United States Grand Prix - prequalifying,1991-03-08
 528,1991 United States Grand Prix - qualifying,1991-03-09
+501,1991 Brazilian Grand Prix - prequalifying,1991-03-22
 502,1991 Brazilian Grand Prix - qualifying,1991-03-23
+523,1991 San Marino Grand Prix - prequalifying,1991-04-26
 524,1991 San Marino Grand Prix - qualifying,1991-04-27
+519,1991 Monaco Grand Prix - prequalifying,1991-05-10
 520,1991 Monaco Grand Prix - qualifying,1991-05-11
+505,1991 Canadian Grand Prix - prequalifying,1991-05-31
 506,1991 Canadian Grand Prix - qualifying,1991-06-01
+517,1991 Mexican Grand Prix - prequalifying,1991-06-14
 518,1991 Mexican Grand Prix - qualifying,1991-06-15
+507,1991 French Grand Prix - prequalifying,1991-07-05
 508,1991 French Grand Prix - qualifying,1991-07-06
+503,1991 British Grand Prix - prequalifying,1991-07-12
 504,1991 British Grand Prix - qualifying,1991-07-13
+509,1991 German Grand Prix - prequalifying,1991-07-26
 510,1991 German Grand Prix - qualifying,1991-07-27
+511,1991 Hungarian Grand Prix - prequalifying,1991-08-09
 512,1991 Hungarian Grand Prix - qualifying,1991-08-10
+499,1991 Belgian Grand Prix - prequalifying,1991-08-23
 500,1991 Belgian Grand Prix - qualifying,1991-08-24
+513,1991 Italian Grand Prix - prequalifying,1991-09-06
 514,1991 Italian Grand Prix - qualifying,1991-09-07
+521,1991 Portuguese Grand Prix - prequalifying,1991-09-20
 522,1991 Portuguese Grand Prix - qualifying,1991-09-21
+525,1991 Spanish Grand Prix - prequalifying,1991-09-27
 526,1991 Spanish Grand Prix - qualifying,1991-09-28
+515,1991 Japanese Grand Prix - prequalifying,1991-10-18
 516,1991 Japanese Grand Prix - qualifying,1991-10-19
 498,1991 Australian Grand Prix - qualifying,1991-11-02
 543,1992 South African Grand Prix - qualifying,1992-02-29
