@@ -3,6 +3,7 @@ Tables:
  - top exit ratings (date < 2014)
  - peak rating progression
  - highest/lowest ranked podiums
+ - races with biggest changes
 Charts:
  - rolling average and deviation of rankings
  - average ranking at the beginning of each championship season
