@@ -10,7 +10,7 @@ class Driver(Base):
     __tablename__ = 'drivers'
 
     id = Column(Integer, primary_key=True)
-    driver = Column(String(1024))
+    driver = Column(String(255), index=True)
     country = Column(String(255))
 
     rankings = relationship(
@@ -65,7 +65,7 @@ class Entry(Base):
     id = Column(Integer, primary_key=True)
     result = Column(String(255))
     car_no = Column(String(255))
-    result_group = Column(Integer)
+    result_group = Column(Integer, index=True)
 
     _race = Column(
         Integer,
@@ -93,8 +93,8 @@ class Race(Base):
 
     id = Column(Integer, primary_key=True)
     race = Column(String(1024))
-    date = Column(Date)
-    ranked = Column(Boolean, nullable=False, server_default='0', default=False)
+    date = Column(Date, index=True)
+    ranked = Column(Boolean, nullable=False, server_default='0', default=False, index=True)
 
     _type = Column(
         Integer,
@@ -122,7 +122,7 @@ class RaceType(Base):
     __tablename__ = 'race_types'
 
     id = Column(Integer, primary_key=True)
-    code = Column(String(255))
+    code = Column(String(255), index=True)
     description = Column(String(1024))
 
     races = relationship(
@@ -139,8 +139,8 @@ class Ranking(Base):
     __tablename__ = 'rankings'
 
     id = Column(Integer, primary_key=True)
-    rank_date = Column(Date)
-    ranking = Column(Float)
+    rank_date = Column(Date, index=True)
+    ranking = Column(Float, index=True)
 
     _driver = Column(
         Integer,
