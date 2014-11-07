@@ -139,7 +139,7 @@
 3007,10,12,,Sergio Mantovani,10
 3007,11,10,,Roberto Mières,11
 3007,12,4,,Karl Kling,12
-3007,13,16,,Chico Godia,13
+3007,13,16,,Francisco Godia-Sales,13
 3007,14,28,,Ken Wharton,14
 3007,15,18,,Prince Bira,15
 3007,16,48,,Jacques Pollet,16
@@ -219,8 +219,8 @@
 3011,14,36,,Tony Rolt,14
 3011,15,28,,Ken Wharton,15
 3011,16,46,,Lance Macklin,16
-3011,17,32,,Ken McAlpine,17
-3011,18,24,,Hermano da Silva Ramos,18
+3011,17,32,,Kenneth McAlpine,17
+3011,18,24,,Hernando da Silva Ramos,18
 3011,19,38,,Leslie Marr,19
 3011,20,44,,Roy Salvadori,20
 3011,21,34,,Jack Fairman,21
@@ -241,7 +241,7 @@
 3012,11,20,,Robert Manzon,11
 3012,12,24,,Jacques Pollet,12
 3012,13,28,,Louis Rosier,13
-3012,14,22,,Hermano da Silva Ramos,14
+3012,14,22,,Hernando da Silva Ramos,14
 3012,15,32,,Horace Gould,15
 3012,16,30,,Johnny Claes,16
 3014,1,18,,Juan Manuel Fangio,1
@@ -261,7 +261,7 @@
 3014,15,8,,Maurice Trintignant,15
 3014,16,34,,Carlos Menditéguy,16
 3014,17,44,,Ken Wharton,17
-3014,18,22,,Hermano da Silva Ramos,18
+3014,18,22,,Hernando da Silva Ramos,18
 3014,19,26,,Jacques Pollet,19
 3014,20,40,,John Fitch,20
 3014,21,38,,Horace Gould,21
@@ -302,10 +302,10 @@
 3016,11,44,,Olivier Gendebien,11
 3016,12,36,,Louis Rosier,12
 3016,13,8,,Piero Taruffi,13
-3016,14,32,,Hermano da Silva Ramos,14
+3016,14,32,,Hernando da Silva Ramos,14
 3016,15,30,,Robert Manzon,15
 3016,16,6,,Cesare Perdisa,16
-3016,17,40,,Chico Godia,17
+3016,17,40,,Francisco Godia-Sales,17
 3016,18,28,,Maurice Trintignant,18
 3016,19,34,,André Pilette,19
 3016,20,42,,André Simon,20
@@ -335,7 +335,7 @@
 3018,11,22,,Luigi Villoresi,11
 3018,12,28,,Piero Scotti,12
 3018,dns,38,,Mike Hawthorn,13
-3018,13,36,,Chico Godia,14
+3018,13,36,,Francisco Godia-Sales,14
 3018,14,26,,Horace Gould,15
 3018,15,20,,André Pilette,16
 3019,1,7,,Stirling Moss,1
@@ -347,7 +347,7 @@
 3019,7,28,,Roy Salvadori,7
 3019,8,3,,Eugenio Castellotti,8
 3019,9,24,,Tony Brooks,9
-3019,10,19,,Archie Scott-Brown,10
+3019,10,19,,Archie Scott Brown,10
 3019,11,20,,Desmond Titterington,11
 3019,12,4,,Alfonso de Portago,12
 3019,13,8,,Jean Behra,13
@@ -362,8 +362,8 @@
 3019,22,26,,Bob Gerard,22
 3019,23,32,,Paul Emery,23
 3019,24,12,,Umberto Maglioli,24
-3019,25,10,,Chico Godia,25
-3019,26,14,,Hermano da Silva Ramos,26
+3019,25,10,,Francisco Godia-Sales,25
+3019,26,14,,Hernando da Silva Ramos,26
 3019,27,27,,Louis Rosier,27
 3019,28,30,,Jack Brabham,28
 3020,1,1,,Juan Manuel Fangio,1
@@ -380,7 +380,7 @@
 3020,13,19,,Horace Gould,12
 3020,14,15,,Louis Rosier,13
 3020,15,10,,Robert Manzon,14
-3020,16,20,,Chico Godia,15
+3020,16,20,,Francisco Godia-Sales,15
 3020,17,14,,Giorgio Scarlatti,16
 3020,19,22,,Ottorino Volonterio,17
 3020,6,8,,Cesare Perdisa,18
@@ -404,10 +404,10 @@
 3022,14,40,,Luigi Piotti,14
 3022,15,6,,Jack Fairman,15
 3022,16,42,,Gerino Gerini,16
-3022,17,38,,Chico Godia,17
+3022,17,38,,Francisco Godia-Sales,17
 3022,18,14,,Emmanuel de Graffenried,18
 3022,19,2,,Les Leston,19
-3022,20,8,,Hermano da Silva Ramos,20
+3022,20,8,,Hernando da Silva Ramos,20
 3022,21,48,,Bruce Halford,21
 3022,22,10,,Robert Manzon,22
 3022,23,4,,Ron Flockhart,23
@@ -426,7 +426,7 @@
 3023,10,4,,Élie Bayol,11
 3023,11,2,,Robert Manzon,12
 3023,dns,12,,Tony Brooks,13
-3023,12,6,,Hermano da Silva Ramos,14
+3023,12,6,,Hernando da Silva Ramos,14
 3023,13,8,,Louis Rosier,15
 3023,14,18,,Horace Gould,16
 3023,dnq,36,,Giorgio Scarlatti,17
@@ -442,7 +442,7 @@
 3024,9,8,,Carlos Menditéguy,9
 3024,10,18,,Stuart Lewis-Evans,10
 3024,11,26,,Ron Flockhart,11
-3024,12,28,,Mackay Fraser,12
+3024,12,28,,Herbert MacKay-Fraser,12
 3024,13,22,,Jack Brabham,13
 3024,14,30,,Horace Gould,14
 3024,15,24,,Mike MacDowel,15
@@ -457,7 +457,7 @@
 3025,9,22,,Harry Schell,9
 3025,10,20,,José Froilan González,10
 3025,11,18,,Cesare Perdisa,11
-3025,12,26,,Alejandro de Tomaso,12
+3025,12,26,,Alessandro de Tomaso,12
 3025,13,24,,Jo Bonnier,13
 3025,14,28,,Luigi Piotti,14
 3026,1,18,,Stirling Moss,1
@@ -499,7 +499,7 @@
 3027,18,24,,Jack Brabham,18
 3027,19,19,,Horace Gould,19
 3027,20,27,,Carel Godin de Beaufort,20
-3027,21,18,,Chico Godia,21
+3027,21,18,,Francisco Godia-Sales,21
 3027,22,25,,Tony Marsh,22
 3027,23,26,,Paul England,23
 3027,24,29,,Dick Gibson,24
@@ -517,7 +517,7 @@
 3029,12,8,,Giorgio Scarlatti,12
 3029,13,24,,Jo Bonnier,13
 3029,14,16,,Bruce Halford,14
-3029,15,10,,Chico Godia,15
+3029,15,10,,Francisco Godia-Sales,15
 3029,16,28,,André Simon,16
 3029,17,12,,Luigi Piotti,17
 3029,18,14,,Horace Gould,18
@@ -553,7 +553,7 @@
 3031,9,16,,Jo Bonnier,9
 3031,10,8,,Giorgio Scarlatti,10
 3031,11,18,,Horace Gould,11
-3031,12,10,,Chico Godia,12
+3031,12,10,,Francisco Godia-Sales,12
 3031,13,12,,Luigi Piotti,13
 3031,14,20,,Bruce Halford,14
 3031,15,22,,Roy Salvadori,15
@@ -568,7 +568,7 @@
 3032,8,34,,Juan Manuel Fangio,8
 3032,9,14,,Jean Behra,9
 3032,10,12,,Stuart Lewis-Evans,10
-3032,11,40,,Chico Godia,11
+3032,11,40,,Francisco Godia-Sales,11
 3032,12,22,,Jack Brabham,12
 3032,13,36,,Phil Hill,13
 3032,14,20,,Roy Salvadori,14
@@ -587,7 +587,7 @@
 3033,6,6,,Carlos Menditéguy,6
 3033,7,14,,Stirling Moss,7
 3033,8,8,,Harry Schell,8
-3033,9,10,,Chico Godia,9
+3033,9,10,,Francisco Godia-Sales,9
 3033,10,12,,Horace Gould,10
 3034,1,16,,Mike Hawthorn,1
 3034,2,18,,Luigi Musso,2
@@ -606,8 +606,8 @@
 3034,15,42,,Graham Hill,15
 3034,16,28,,Maurice Trintignant,16
 3034,17,32,,Wolfgang Seidel,17
-3034,18,38,,Chico Godia,18
-3034,19,26,,Maria-Teresa de Filippis,19
+3034,18,38,,Francisco Godia-Sales,18
+3034,19,26,,Maria de Filippis,19
 3034,dns,34,,Ken Kavanagh,20
 3035,1,7,,Stirling Moss,1
 3035,2,20,,Harry Schell,2
@@ -693,7 +693,7 @@
 3039,18,24,,Hans Herrmann,18
 3039,19,40,,Gerino Gerini,19
 3039,20,22,,Giulio Cabianca,20
-3039,21,42,,Maria-Teresa de Filippis,21
+3039,21,42,,Maria de Filippis,21
 3040,1,30,,Tony Brooks,1
 3040,2,6,,Jean Behra,2
 3040,3,16,,Jack Brabham,3
@@ -715,7 +715,7 @@
 3040,dnq,48,,Gerino Gerini,19
 3040,dnq,12,,Bruce Kessler,20
 3040,dnq,14,,Paul Emery,21
-3040,dnq,44,,Maria-Teresa de Filippis,22
+3040,dnq,44,,Maria de Filippis,22
 3040,dnq,56,,André Testut,23
 3040,dnq,52,,Giulio Cabianca,24
 3040,dnq,54,,Luigi Piotti,25
@@ -724,7 +724,7 @@
 3040,dnq,12,,Bernie Ecclestone,27
 3040,dnq,50,,Luigi Taramazzo,27
 3040,dnq,56,,Louis Chiron,27
-3040,dnq,4,,Chico Godia,27
+3040,dnq,4,,Francisco Godia-Sales,27
 3041,1,6,,Mike Hawthorn,1
 3041,2,8,,Stirling Moss,2
 3041,3,12,,Stuart Lewis-Evans,3
@@ -764,7 +764,7 @@
 3042,12,20,,Graham Hill,12
 3042,13,18,,Cliff Allison,13
 3042,14,32,,Jo Bonnier,14
-3042,15,30,,Maria-Teresa de Filippis,15
+3042,15,30,,Maria de Filippis,15
 3043,1,24,,Tony Brooks,1
 3043,2,8,,Jack Brabham,2
 3043,3,26,,Phil Hill,3
@@ -890,7 +890,7 @@
 3049,dnq,54,,Giorgio Scarlatti,18
 3049,dnq,12,,Alain de Changy,19
 3049,dnq,10,,Lucien Bianchi,20
-3049,dnq,4,,Maria-Teresa de Filippis,21
+3049,dnq,4,,Maria de Filippis,21
 3049,dnq,42,,Pete Lovely,22
 3049,dnq,14,,Jean Lucienbonnet,23
 3049,dnq,56,,André Testut,24
@@ -923,7 +923,7 @@
 3051,11,12,,Roy Salvadori,11
 3051,12,11,,Alan Stacey,12
 3051,13,18,,Bob Said,13
-3051,14,14,,Alejandro de Tomaso,14
+3051,14,14,,Alessandro de Tomaso,14
 3051,15,16,,George Constantine,15
 3051,16,17,,Harry Blanchard,16
 3051,17,15,,Fritz d'Orey,17
@@ -1128,7 +1128,7 @@
 3062,19,28,,Lucien Bianchi,19
 3062,20,48,,Willy Mairesse,20
 3062,21,52,,Bernard Collomb,21
-3062,22,46,,Michel May,22
+3062,22,46,,Michael May,22
 3062,23,32,,Maurice Trintignant,23
 3062,24,38,,Ian Burgess,24
 3062,25,30,,Henry Taylor,25
@@ -1231,7 +1231,7 @@
 3066,24,30,,Ian Burgess,24
 3066,25,27,,Gerry Ashmore,25
 3066,26,38,,Bernard Collomb,26
-3066,dns,25,,Michel May,27
+3066,dns,25,,Michael May,27
 3067,1,4,,Wolfgang von Trips,1
 3067,2,8,,Ricardo Rodriguez,2
 3067,3,6,,Richie Ginther,3
@@ -1278,7 +1278,7 @@
 3068,10,4,,Dan Gurney,11
 3068,11,22,,John Surtees,12
 3068,12,6,,Hans Herrmann,13
-3068,13,8,,Michel May,14
+3068,13,8,,Michael May,14
 3068,14,32,,Cliff Allison,15
 3068,15,42,,Maurice Trintignant,16
 3068,dnq,34,,Henry Taylor,17
@@ -1477,7 +1477,7 @@
 3077,10,20,,Neville Lederle,10
 3077,11,7,,Roy Salvadori,11
 3077,12,18,,John Love,12
-3077,13,14,,Ernest Pieterse,13
+3077,13,14,,Ernie Pieterse,13
 3077,14,21,,Doug Serrurier,14
 3077,15,22,,Mike Harris,15
 3077,16,15,,Carel Godin de Beaufort,16
@@ -1493,7 +1493,7 @@
 3078,9,11,,Jo Bonnier,9
 3078,10,22,,Tony Maggs,10
 3078,dns,19,,Roy Salvadori,11
-3078,11,23,,Tim Mayer,12
+3078,11,23,,Timmy Mayer,12
 3078,12,14,,Roger Penske,13
 3078,13,12,,Carel Godin de Beaufort,14
 3078,14,24,,Hap Sharp,15
@@ -1690,7 +1690,7 @@
 3087,9,10,,Bruce McLaren,9
 3087,10,11,,Tony Maggs,10
 3087,11,12,,Jo Bonnier,11
-3087,12,7,,Ernest Pieterse,12
+3087,12,7,,Ernie Pieterse,12
 3087,13,19,,John Love,13
 3087,14,22,,David Prophet,14
 3087,15,21,,Brausch Niemann,15
@@ -1868,7 +1868,7 @@
 3095,dns,60,,Jean-Claude Rudaz,20
 3095,20,48,,Maurice Trintignant,21
 3095,dnq,44,,Trevor Taylor,22
-3095,dnq,36,,Geki,23
+3095,dnq,36,,Giacomo Russo,23
 3095,dnq,24,,John Love,24
 3095,dnq,56,,Ian Raby,25
 3096,1,1,,Jim Clark,1
@@ -2049,7 +2049,7 @@
 3104,17,20,,Richie Ginther,17
 3104,18,38,,Innes Ireland,18
 3104,19,10,,Giancarlo Baghetti,19
-3104,20,28,,Geki,20
+3104,20,28,,Giacomo Russo,20
 3104,21,50,,Roberto Bussinello,21
 3104,22,52,,Giorgio Bassi,22
 3104,23,48,,Masten Gregory,23
@@ -2113,7 +2113,7 @@
 3107,dnq,23,,Neville Lederle,22
 3107,dnq,21,,Doug Serrurier,23
 3107,dnq,27,,Brausch Niemann,24
-3107,dnq,22,,Ernest Pieterse,25
+3107,dnq,22,,Ernie Pieterse,25
 3108,1,3,,Graham Hill,1
 3108,2,5,,Jim Clark,2
 3108,3,11,,Richie Ginther,3
@@ -2244,7 +2244,7 @@
 3114,17,36,,Jo Siffert,17
 3114,18,48,,Bob Bondurant,18
 3114,19,30,,Dan Gurney,19
-3114,20,20,,Geki,20
+3114,20,20,,Giacomo Russo,20
 3114,dnq,34,,Phil Hill,21
 3114,dnq,32,,Chris Amon,22
 3115,1,7,,John Surtees,1
@@ -3310,7 +3310,7 @@
 3168,19,25,,Tim Schenken,19
 3168,20,18,,Nanni Galli,20
 3168,21,30,,Gijs van Lennep,21
-3168,22,15,,Dave Walker,22
+3168,22,15,,David Walker,22
 3168,23,28,,Peter Gethin,23
 3168,24,22,,Skip Barber,24
 3169,1,11,,Jackie Stewart,1
@@ -3506,7 +3506,7 @@
 3176,17,4,,Reine Wisell,17
 3176,18,5,,Peter Gethin,18
 3176,19,7,,Helmut Marko,19
-3176,20,12,,Dave Walker,20
+3176,20,12,,David Walker,20
 3176,21,6,,Alex Soler-Roig,21
 3176,22,15,,Niki Lauda,22
 3177,1,31,,Emerson Fittipaldi,1
@@ -3527,7 +3527,7 @@
 3177,16,6,,Peter Gethin,16
 3177,17,27,,Rolf Stommelen,17
 3177,18,23,,Carlos Pace,18
-3177,19,21,,Dave Walker,19
+3177,19,21,,David Walker,19
 3177,20,2,,François Cévert,20
 3177,21,7,,Jean-Pierre Beltoise,21
 3177,22,4,,Niki Lauda,22
@@ -3546,7 +3546,7 @@
 3178,9,19,,Carlos Reutemann,9
 3178,10,36,,Andrea de Adamich,10
 3178,11,16,,Carlos Pace,11
-3178,12,33,,Dave Walker,12
+3178,12,33,,David Walker,12
 3178,13,5,,Chris Amon,13
 3178,14,11,,Ronnie Peterson,14
 3178,15,25,,Howden Ganley,15
@@ -3575,7 +3575,7 @@
 3179,12,2,,François Cévert,12
 3179,13,25,,Carlos Pace,13
 3179,14,14,,Jackie Oliver,14
-3179,15,9,,Dave Walker,15
+3179,15,9,,David Walker,15
 3179,16,12,,Peter Gethin,16
 3179,17,17,,Chris Amon,17
 3179,18,30,,Nanni Galli,18
@@ -3637,7 +3637,7 @@
 3181,dns,22,,Peter Gethin,22
 3181,20,18,,Graham Hill,23
 3181,21,14,,Niki Lauda,24
-3181,22,6,,Dave Walker,25
+3181,22,6,,David Walker,25
 3181,23,15,,Mike Beuttler,26
 3181,dns,21,,Derek Bell,27
 3181,dnq,29,,Dave Charlton,28
@@ -3664,7 +3664,7 @@
 3182,20,16,,Andrea de Adamich,20
 3182,21,26,,Wilson Fittipaldi,21
 3182,22,19,,Arturo Merzario,22
-3182,23,25,,Dave Walker,23
+3182,23,25,,David Walker,23
 3182,24,23,,Niki Lauda,24
 3182,25,27,,Derek Bell,25
 3182,26,29,,Dave Charlton,26
@@ -3709,7 +3709,7 @@
 3184,11,11,,Mike Hailwood,11
 3184,12,2,,François Cévert,12
 3184,13,10,,Tim Schenken,13
-3184,14,9,,Dave Walker,14
+3184,14,9,,David Walker,14
 3184,15,3,,Ronnie Peterson,15
 3184,16,28,,Reine Wisell,16
 3184,17,26,,Helmut Marko,17
@@ -3739,7 +3739,7 @@
 3185,16,23,,Howden Ganley,16
 3185,17,26,,Dave Charlton,17
 3185,18,11,,Peter Gethin,18
-3185,19,9,,Dave Walker,19
+3185,19,9,,David Walker,19
 3185,20,18,,Andrea de Adamich,20
 3185,21,4,,Niki Lauda,21
 3185,22,21,,Henri Pescarolo,22
@@ -3772,7 +3772,7 @@
 3186,21,8,,Peter Gethin,21
 3186,22,28,,Alex Soler-Roig,22
 3186,23,18,,Graham Hill,23
-3186,24,21,,Dave Walker,24
+3186,24,21,,David Walker,24
 3186,25,24,,Niki Lauda,25
 3186,dnq,23,,Mike Beuttler,26
 3187,1,1,,Jackie Stewart,1
@@ -3805,7 +3805,7 @@
 3187,27,28,,Graham Hill,28
 3187,28,14,,Peter Gethin,29
 3187,29,31,,Derek Bell,30
-3187,30,11,,Dave Walker,31
+3187,30,11,,David Walker,31
 3187,31,24,,Tim Schenken,32
 3188,1,32,,Clay Regazzoni,1
 3188,2,2,,Emerson Fittipaldi,2
@@ -4140,7 +4140,7 @@
 3201,19,16,,George Follmer,19
 3201,20,14,,Jean-Pierre Jarier,20
 3201,21,15,,Mike Beuttler,21
-3201,dns,26,,Tom Belso,22
+3201,dns,26,,Tom Belsø,22
 3202,1,2,,Ronnie Peterson,1
 3202,2,10,,Carlos Reutemann,2
 3202,3,1,,Emerson Fittipaldi,3
@@ -4310,7 +4310,7 @@
 3207,25,23,,Tim Schenken,25
 3207,dnq,42,,David Purley,26
 3207,dnq,18,,Derek Bell,27
-3207,dnq,21,,Tom Belso,28
+3207,dnq,21,,Tom Belsø,28
 3207,dnq,208,,Lella Lombardi,29
 3207,dnq,22,,Vern Schuppan,30
 3207,dnq,29,,John Nicholson,31
@@ -4521,7 +4521,7 @@
 3214,24,32,,Eddie Keizan,24
 3214,25,37,,François Migault,25
 3214,26,30,,Paddy Driver,26
-3214,27,21,,Tom Belso,27
+3214,27,21,,Tom Belsø,27
 3215,1,12,,Niki Lauda,1
 3215,2,1,,Ronnie Peterson,2
 3215,3,11,,Clay Regazzoni,3
@@ -4549,7 +4549,7 @@
 3215,24,8,,Rikky von Opel,25
 3215,25,23,,Tim Schenken,26
 3215,dnq,27,,Guy Edwards,27
-3215,dnq,21,,Tom Belso,28
+3215,dnq,21,,Tom Belsø,28
 3216,1,4,,Patrick Depailler,1
 3216,2,3,,Jody Scheckter,2
 3216,3,12,,Niki Lauda,3
@@ -4570,7 +4570,7 @@
 3216,18,27,,Guy Edwards,18
 3216,19,15,,Henri Pescarolo,19
 3216,20,8,,Rikky von Opel,20
-3216,21,21,,Tom Belso,21
+3216,21,21,,Tom Belsø,21
 3216,22,19,,Jochen Mass,22
 3216,23,16,,Bertil Roos,23
 3216,24,18,,Carlos Pace,24
@@ -5044,7 +5044,7 @@
 3234,17,21,,Renzo Zorzi,17
 3234,18,5,,Ronnie Peterson,18
 3234,19,20,,Jacky Ickx,19
-3234,20,31,,Ingo Hoffman,20
+3234,20,31,,Ingo Hoffmann,20
 3234,21,14,,Ian Ashley,21
 3234,22,10,,Lella Lombardi,22
 3235,1,1,,Niki Lauda,1
@@ -5158,7 +5158,7 @@
 3238,25,25,,Guy Edwards,25
 3238,26,22,,Patrick Nève,26
 3238,dnq,33,,Damien Magee,27
-3238,dnq,31,,Ingo Hoffman,28
+3238,dnq,31,,Ingo Hoffmann,28
 3238,27,24,,Harald Ertl,29
 3238,dnq,32,,Loris Kessel,30
 3239,1,11,,James Hunt,1
@@ -5325,7 +5325,7 @@
 3244,dnq,25,,Emilio Zapico,27
 3244,dnq,33,,Emilio de Villota,28
 3244,dnq,24,,Harald Ertl,29
-3244,dnq,31,,Ingo Hoffman,30
+3244,dnq,31,,Ingo Hoffmann,30
 3245,1,3,,Jody Scheckter,1
 3245,2,5,,Mario Andretti,2
 3245,3,22,,Chris Amon,3
@@ -5401,7 +5401,7 @@
 3247,19,19,,Alan Jones,19
 3247,20,6,,Gunnar Nilsson,20
 3247,dnq,21,,Michel Leclère,21
-3247,dnq,31,,Ingo Hoffman,22
+3247,dnq,31,,Ingo Hoffmann,22
 3247,dnq,35,,Arturo Merzario,23
 3247,dnq,5,,Bob Evans,24
 3247,dnq,20,,Jacky Ickx,25
@@ -5425,7 +5425,7 @@
 3248,16,28,,Emerson Fittipaldi,16
 3248,17,10,,Ian Scheckter,17
 3248,18,18,,Hans Binder,18
-3248,19,29,,Ingo Hoffman,19
+3248,19,29,,Ingo Hoffmann,19
 3248,20,9,,Alex Ribeiro,20
 3248,21,17,,Renzo Zorzi,21
 3249,1,11,,Niki Lauda,1
@@ -5508,7 +5508,7 @@
 3251,16,28,,Emerson Fittipaldi,16
 3251,17,10,,Ian Scheckter,17
 3251,18,17,,Renzo Zorzi,18
-3251,19,29,,Ingo Hoffman,19
+3251,19,29,,Ingo Hoffmann,19
 3251,20,18,,Hans Binder,20
 3251,21,9,,Alex Ribeiro,21
 3251,22,14,,Larry Perkins,22
@@ -7288,7 +7288,7 @@
 3315,dnq,20,,Keke Rosberg,25
 3315,dnq,21,,Chico Serra,26
 3315,dnq,35,,Brian Henton,27
-3315,dnq,30,,Jacques Villeneuve (Snr),28
+3315,dnq,30,,Jacques Villeneuve Sr.,28
 3315,dnq,36,,Derek Warwick,29
 3315,dnq,31,,Beppe Gabbiani,30
 3316,1,15,,Alain Prost,1
@@ -7437,7 +7437,7 @@
 3320,dnq,9,,Slim Borgudd,25
 3320,dnq,21,,Chico Serra,26
 3320,dnq,17,,Derek Daly,27
-3320,dnq,30,,Jacques Villeneuve (Snr),28
+3320,dnq,30,,Jacques Villeneuve Sr.,28
 3320,dnq,35,,Brian Henton,29
 3320,dnq,31,,Beppe Gabbiani,30
 3321,1,5,,Nélson Piquet,1
@@ -8153,7 +8153,7 @@
 3345,24,26,,Raul Boesel,24
 3345,25,31,,Corrado Fabi,25
 3345,26,23,,Mauro Baldi,26
-3345,dnq,17,,Jacques Villeneuve (Snr),27
+3345,dnq,17,,Jacques Villeneuve Sr.,27
 3345,dnq,32,,Piercarlo Ghinzani,28
 3346,1,28,,René Arnoux,1
 3346,2,5,,Nélson Piquet,2
@@ -10593,7 +10593,7 @@
 3436,1,17,,Nicola Larini,1
 3436,2,30,,Philippe Alliot,2
 3436,3,18,,Piercarlo Ghinzani,3
-3436,4,37,,J J Lehto,4
+3436,4,37,,Jyrki Järvilehto,4
 3436,5,36,,Stefan Johansson,5
 3436,6,29,,Michele Alboreto,6
 3436,7,34,,Bernd Schneider,7
@@ -10619,7 +10619,7 @@
 3437,14,28,,Gerhard Berger,14
 3437,15,4,,Jean Alesi,15
 3437,16,16,,Ivan Capelli,16
-3437,17,37,,J J Lehto,17
+3437,17,37,,Jyrki Järvilehto,17
 3437,18,11,,Nélson Piquet,18
 3437,19,30,,Philippe Alliot,19
 3437,20,9,,Derek Warwick,20
@@ -10986,7 +10986,7 @@
 3454,7,36,,Stefan Johansson,7
 3454,8,35,,Aguri Suzuki,8
 3454,9,33,,Oscar Larrauri,9
-3454,10,37,,J J Lehto,10
+3454,10,37,,Jyrki Järvilehto,10
 3454,11,40,,Gabriele Tarquini,11
 3454,12,41,,Yannick Dalmas,12
 3454,13,32,,Enrico Bertaggia,13
@@ -11109,7 +11109,7 @@
 3460,2,30,,Philippe Alliot,2
 3460,3,31,,Roberto Moreno,3
 3460,4,29,,Michele Alboreto,4
-3460,5,37,,J J Lehto,5
+3460,5,37,,Jyrki Järvilehto,5
 3460,6,18,,Piercarlo Ghinzani,6
 3460,7,33,,Oscar Larrauri,7
 3460,8,40,,Gabriele Tarquini,8
@@ -11192,7 +11192,7 @@
 3463,dnq,38,,Christian Danner,29
 3463,dnq,31,,Roberto Moreno,30
 3464,1,17,,Nicola Larini,1
-3464,2,37,,J J Lehto,2
+3464,2,37,,Jyrki Järvilehto,2
 3464,3,18,,Piercarlo Ghinzani,3
 3464,4,40,,Gabriele Tarquini,4
 3464,5,36,,Stefan Johansson,5
@@ -11219,7 +11219,7 @@
 3465,14,19,,Alessandro Nannini,14
 3465,15,22,,Andrea de Cesaris,15
 3465,16,9,,Derek Warwick,16
-3465,17,37,,J J Lehto,17
+3465,17,37,,Jyrki Järvilehto,17
 3465,18,12,,Satoru Nakajima,18
 3465,19,16,,Ivan Capelli,19
 3465,20,24,,Luis Perez-Sala,20
@@ -11378,7 +11378,7 @@
 3472,25,10,,Alex Caffi,25
 3472,26,18,,Yannick Dalmas,26
 3472,dnq,35,,Stefan Johansson,27
-3472,dnq,36,,J J Lehto,28
+3472,dnq,36,,Jyrki Järvilehto,28
 3472,dnq,16,,Ivan Capelli,29
 3472,dnq,15,,Mauricio Gugelmin,30
 3473,1,29,,Éric Bernard,1
@@ -11418,7 +11418,7 @@
 3474,26,17,,Gabriele Tarquini,26
 3474,dnq,14,,Olivier Grouillard,27
 3474,dnq,7,,David Brabham,28
-3474,dnq,36,,J J Lehto,29
+3474,dnq,36,,Jyrki Järvilehto,29
 3474,dnq,35,,Gregor Foitek,30
 3475,1,33,,Roberto Moreno,1
 3475,2,14,,Olivier Grouillard,2
@@ -11450,7 +11450,7 @@
 3476,19,21,,Emanuele Pirro,19
 3476,20,25,,Nicola Larini,20
 3476,21,35,,Gregor Foitek,21
-3476,22,36,,J J Lehto,22
+3476,22,36,,Jyrki Järvilehto,22
 3476,23,29,,Éric Bernard,23
 3476,24,16,,Ivan Capelli,24
 3476,25,22,,Andrea de Cesaris,25
@@ -11497,7 +11497,7 @@
 3478,dnq,24,,Paolo Barilla,27
 3478,dnq,17,,Gabriele Tarquini,28
 3478,dnq,35,,Gregor Foitek,29
-3478,dnq,36,,J J Lehto,30
+3478,dnq,36,,Jyrki Järvilehto,30
 3479,1,26,,Philippe Alliot,1
 3479,2,25,,Nicola Larini,2
 3479,3,14,,Olivier Grouillard,3
@@ -11531,7 +11531,7 @@
 3480,22,25,,Nicola Larini,22
 3480,23,21,,Emanuele Pirro,23
 3480,24,26,,Philippe Alliot,24
-3480,25,36,,J J Lehto,25
+3480,25,36,,Jyrki Järvilehto,25
 3480,26,35,,Gregor Foitek,26
 3480,dnq,14,,Olivier Grouillard,27
 3480,dnq,24,,Paolo Barilla,28
@@ -11574,7 +11574,7 @@
 3482,26,10,,Alex Caffi,26
 3482,dnq,18,,Yannick Dalmas,27
 3482,dnq,7,,David Brabham,28
-3482,dnq,36,,J J Lehto,29
+3482,dnq,36,,Jyrki Järvilehto,29
 3482,dnq,35,,Gregor Foitek,30
 3483,1,14,,Olivier Grouillard,1
 3483,2,31,,Bertrand Gachot,2
@@ -11678,7 +11678,7 @@
 3487,24,25,,Nicola Larini,24
 3487,dnq,33,,Roberto Moreno,25
 3487,25,29,,Éric Bernard,26
-3487,26,36,,J J Lehto,27
+3487,26,36,,Jyrki Järvilehto,27
 3487,dnq,16,,Ivan Capelli,28
 3487,dnq,15,,Mauricio Gugelmin,29
 3487,dnq,10,,Alex Caffi,30
@@ -11716,7 +11716,7 @@
 3489,23,16,,Ivan Capelli,23
 3489,24,29,,Éric Bernard,24
 3489,25,7,,David Brabham,25
-3489,26,36,,J J Lehto,26
+3489,26,36,,Jyrki Järvilehto,26
 3489,dnq,9,,Michele Alboreto,27
 3489,dnq,14,,Olivier Grouillard,28
 3489,dnq,15,,Mauricio Gugelmin,29
@@ -11791,7 +11791,7 @@
 3493,22,14,,Olivier Grouillard,23
 3493,23,35,,Gregor Foitek,24
 3493,24,33,,Roberto Moreno,25
-3493,25,36,,J J Lehto,26
+3493,25,36,,Jyrki Järvilehto,26
 3493,26,24,,Paolo Barilla,27
 3493,dnq,10,,Alex Caffi,28
 3493,dnq,9,,Michele Alboreto,29
@@ -11871,7 +11871,7 @@
 3497,dnq,35,,Stefan Johansson,27
 3497,dnq,21,,Gianni Morbidelli,28
 3497,dsq,26,,Philippe Alliot,30
-3497,dnq,36,,J J Lehto,29
+3497,dnq,36,,Jyrki Järvilehto,29
 3498,1,1,,Ayrton Senna,1
 3498,2,2,,Gerhard Berger,2
 3498,3,5,,Nigel Mansell,3
@@ -11882,7 +11882,7 @@
 3498,8,27,,Gianni Morbidelli,8
 3498,9,4,,Stefano Modena,9
 3498,10,23,,Pierluigi Martini,10
-3498,11,22,,J J Lehto,11
+3498,11,22,,Jyrki Järvilehto,11
 3498,12,33,,Andrea de Cesaris,12
 3498,13,21,,Emanuele Pirro,13
 3498,14,15,,Mauricio Gugelmin,14
@@ -11908,7 +11908,7 @@
 3499,4,10,,Alex Caffi,4
 3499,5,9,,Michele Alboreto,5
 3499,6,17,,Gabriele Tarquini,6
-3499,7,31,,Pedro Matos Chaves,7
+3499,7,31,,Pedro Chaves,7
 3499,8,18,,Fabrizio Barbazza,8
 3500,1,1,,Ayrton Senna,1
 3500,2,27,,Alain Prost,2
@@ -11923,7 +11923,7 @@
 3500,11,33,,Andrea de Cesaris,11
 3500,12,16,,Ivan Capelli,12
 3500,13,8,,Mark Blundell,13
-3500,14,22,,J J Lehto,14
+3500,14,22,,Jyrki Järvilehto,14
 3500,15,15,,Mauricio Gugelmin,15
 3500,16,7,,Martin Brundle,16
 3500,17,6,,Riccardo Patrese,17
@@ -11940,13 +11940,13 @@
 3500,dnq,34,,Nicola Larini,28
 3500,dnq,10,,Alex Caffi,29
 3500,dnq,35,,Eric van de Poele,30
-3501,1,22,,J J Lehto,1
+3501,1,22,,Jyrki Järvilehto,1
 3501,2,33,,Andrea de Cesaris,2
 3501,3,32,,Bertrand Gachot,3
 3501,4,21,,Emanuele Pirro,4
 3501,5,35,,Eric van de Poele,5
 3501,6,34,,Nicola Larini,6
-3501,7,31,,Pedro Matos Chaves,7
+3501,7,31,,Pedro Chaves,7
 3501,8,14,,Olivier Grouillard,8
 3502,1,1,,Ayrton Senna,1
 3502,2,6,,Riccardo Patrese,2
@@ -11966,7 +11966,7 @@
 3502,16,3,,Satoru Nakajima,16
 3502,17,30,,Aguri Suzuki,17
 3502,18,25,,Thierry Boutsen,18
-3502,19,22,,J J Lehto,19
+3502,19,22,,Jyrki Järvilehto,19
 3502,20,23,,Pierluigi Martini,20
 3502,21,24,,Gianni Morbidelli,21
 3502,22,11,,Mika Häkkinen,22
@@ -11978,14 +11978,14 @@
 3502,dnq,18,,Stefan Johansson,28
 3502,dnq,9,,Michele Alboreto,29
 3502,dnq,12,,Julian Bailey,30
-3503,1,22,,J J Lehto,1
+3503,1,22,,Jyrki Järvilehto,1
 3503,2,33,,Andrea de Cesaris,2
 3503,3,21,,Emanuele Pirro,3
 3503,4,32,,Bertrand Gachot,4
 3503,5,14,,Olivier Grouillard,5
 3503,6,34,,Nicola Larini,6
 3503,7,35,,Eric van de Poele,7
-3503,8,31,,Pedro Matos Chaves,8
+3503,8,31,,Pedro Chaves,8
 3504,1,5,,Nigel Mansell,1
 3504,2,1,,Ayrton Senna,2
 3504,3,6,,Riccardo Patrese,3
@@ -11996,7 +11996,7 @@
 3504,8,20,,Nélson Piquet,8
 3504,9,15,,Mauricio Gugelmin,9
 3504,10,4,,Stefano Modena,10
-3504,11,22,,J J Lehto,11
+3504,11,22,,Jyrki Järvilehto,11
 3504,12,8,,Mark Blundell,12
 3504,13,33,,Andrea de Cesaris,13
 3504,14,7,,Martin Brundle,14
@@ -12017,13 +12017,13 @@
 3504,dnq,18,,Fabrizio Barbazza,29
 3504,dnq,17,,Gabriele Tarquini,30
 3505,1,21,,Emanuele Pirro,1
-3505,2,22,,J J Lehto,2
+3505,2,22,,Jyrki Järvilehto,2
 3505,3,33,,Andrea de Cesaris,3
 3505,4,32,,Bertrand Gachot,4
 3505,5,14,,Olivier Grouillard,5
 3505,6,34,,Nicola Larini,6
 3505,7,35,,Eric van de Poele,7
-3505,8,31,,Pedro Matos Chaves,8
+3505,8,31,,Pedro Chaves,8
 3506,1,6,,Riccardo Patrese,1
 3506,2,5,,Nigel Mansell,2
 3506,3,1,,Ayrton Senna,3
@@ -12040,7 +12040,7 @@
 3506,14,32,,Bertrand Gachot,14
 3506,15,24,,Gianni Morbidelli,15
 3506,16,25,,Thierry Boutsen,16
-3506,17,22,,J J Lehto,17
+3506,17,22,,Jyrki Järvilehto,17
 3506,18,23,,Pierluigi Martini,18
 3506,19,29,,Éric Bernard,19
 3506,20,7,,Martin Brundle,20
@@ -12055,13 +12055,13 @@
 3506,dnq,8,,Mark Blundell,29
 3506,dnq,12,,Johnny Herbert,30
 3507,1,33,,Andrea de Cesaris,1
-3507,2,22,,J J Lehto,2
+3507,2,22,,Jyrki Järvilehto,2
 3507,3,14,,Olivier Grouillard,3
 3507,4,32,,Bertrand Gachot,4
 3507,5,21,,Emanuele Pirro,5
 3507,6,34,,Nicola Larini,6
 3507,7,35,,Eric van de Poele,7
-3507,8,31,,Pedro Matos Chaves,8
+3507,8,31,,Pedro Chaves,8
 3508,1,6,,Riccardo Patrese,1
 3508,2,27,,Alain Prost,2
 3508,3,1,,Ayrton Senna,3
@@ -12087,7 +12087,7 @@
 3508,23,29,,Éric Bernard,23
 3508,24,7,,Martin Brundle,24
 3508,25,9,,Michele Alboreto,25
-3508,26,22,,J J Lehto,26
+3508,26,22,,Jyrki Järvilehto,26
 3508,dnq,11,,Mika Häkkinen,27
 3508,dnq,18,,Fabrizio Barbazza,28
 3508,dnq,17,,Gabriele Tarquini,29
@@ -12099,7 +12099,7 @@
 3509,5,14,,Olivier Grouillard,5
 3509,6,10,,Alex Caffi,6
 3509,7,18,,Fabrizio Barbazza,7
-3509,8,31,,Pedro Matos Chaves,8
+3509,8,31,,Pedro Chaves,8
 3510,1,5,,Nigel Mansell,1
 3510,2,1,,Ayrton Senna,2
 3510,3,2,,Gerhard Berger,3
@@ -12119,7 +12119,7 @@
 3510,17,25,,Thierry Boutsen,17
 3510,18,21,,Emanuele Pirro,18
 3510,19,24,,Gianni Morbidelli,19
-3510,20,22,,J J Lehto,20
+3510,20,22,,Jyrki Järvilehto,20
 3510,21,8,,Mark Blundell,21
 3510,22,30,,Aguri Suzuki,22
 3510,23,11,,Mika Häkkinen,23
@@ -12137,7 +12137,7 @@
 3511,5,17,,Gabriele Tarquini,5
 3511,6,10,,Alex Caffi,6
 3511,7,18,,Fabrizio Barbazza,7
-3511,8,31,,Pedro Matos Chaves,8
+3511,8,31,,Pedro Chaves,8
 3512,1,1,,Ayrton Senna,1
 3512,2,6,,Riccardo Patrese,2
 3512,3,5,,Nigel Mansell,3
@@ -12149,7 +12149,7 @@
 3512,9,16,,Ivan Capelli,9
 3512,10,7,,Martin Brundle,10
 3512,11,20,,Nélson Piquet,11
-3512,12,22,,J J Lehto,12
+3512,12,22,,Jyrki Järvilehto,12
 3512,13,15,,Mauricio Gugelmin,13
 3512,14,3,,Satoru Nakajima,14
 3512,15,19,,Roberto Moreno,15
@@ -12175,7 +12175,7 @@
 3513,5,18,,Fabrizio Barbazza,5
 3513,6,17,,Gabriele Tarquini,6
 3513,7,10,,Alex Caffi,7
-3513,8,31,,Pedro Matos Chaves,8
+3513,8,31,,Pedro Chaves,8
 3514,1,1,,Ayrton Senna,1
 3514,2,5,,Nigel Mansell,2
 3514,3,2,,Gerhard Berger,3
@@ -12195,7 +12195,7 @@
 3514,17,24,,Gianni Morbidelli,17
 3514,18,15,,Mauricio Gugelmin,18
 3514,19,7,,Martin Brundle,19
-3514,20,22,,J J Lehto,20
+3514,20,22,,Jyrki Järvilehto,20
 3514,21,25,,Thierry Boutsen,21
 3514,22,26,,Érik Comas,22
 3514,23,34,,Nicola Larini,23
@@ -12223,7 +12223,7 @@
 3516,9,19,,Michael Schumacher,9
 3516,10,20,,Nélson Piquet,10
 3516,11,33,,Andrea de Cesaris,11
-3516,12,22,,J J Lehto,12
+3516,12,22,,Jyrki Järvilehto,12
 3516,13,32,,Alessandro Zanardi,13
 3516,14,4,,Stefano Modena,14
 3516,15,3,,Satoru Nakajima,15
@@ -12242,12 +12242,12 @@
 3516,dnq,34,,Nicola Larini,28
 3516,dnq,35,,Eric van de Poele,29
 3516,dnq,29,,Éric Bernard,30
-3517,1,22,,J J Lehto,1
+3517,1,22,,Jyrki Järvilehto,1
 3517,2,14,,Olivier Grouillard,2
 3517,3,33,,Andrea de Cesaris,3
 3517,4,32,,Bertrand Gachot,4
 3517,5,35,,Eric van de Poele,5
-3517,6,31,,Pedro Matos Chaves,6
+3517,6,31,,Pedro Chaves,6
 3517,7,21,,Emanuele Pirro,7
 3517,dsq,34,,Nicola Larini,8
 3518,1,6,,Riccardo Patrese,1
@@ -12265,7 +12265,7 @@
 3518,13,3,,Satoru Nakajima,13
 3518,14,25,,Thierry Boutsen,14
 3518,15,23,,Pierluigi Martini,15
-3518,16,22,,J J Lehto,16
+3518,16,22,,Jyrki Järvilehto,16
 3518,17,7,,Martin Brundle,17
 3518,18,29,,Éric Bernard,18
 3518,19,30,,Aguri Suzuki,19
@@ -12280,13 +12280,13 @@
 3518,dnq,17,,Gabriele Tarquini,28
 3518,dnq,10,,Stefan Johansson,29
 3518,dnq,18,,Fabrizio Barbazza,30
-3519,1,22,,J J Lehto,1
+3519,1,22,,Jyrki Järvilehto,1
 3519,2,33,,Andrea de Cesaris,2
 3519,3,21,,Emanuele Pirro,3
 3519,4,32,,Bertrand Gachot,4
 3519,5,34,,Nicola Larini,5
 3519,6,35,,Eric van de Poele,6
-3519,7,31,,Pedro Matos Chaves,7
+3519,7,31,,Pedro Chaves,7
 3519,8,14,,Olivier Grouillard,8
 3520,1,1,,Ayrton Senna,1
 3520,2,4,,Stefano Modena,2
@@ -12300,7 +12300,7 @@
 3520,10,33,,Andrea de Cesaris,10
 3520,11,3,,Satoru Nakajima,11
 3520,12,21,,Emanuele Pirro,12
-3520,13,22,,J J Lehto,13
+3520,13,22,,Jyrki Järvilehto,13
 3520,14,23,,Pierluigi Martini,14
 3520,15,15,,Mauricio Gugelmin,15
 3520,16,25,,Thierry Boutsen,16
@@ -12325,7 +12325,7 @@
 3521,5,18,,Fabrizio Barbazza,5
 3521,6,14,,Olivier Grouillard,6
 3521,7,10,,Alex Caffi,7
-3521,8,31,,Pedro Matos Chaves,8
+3521,8,31,,Pedro Chaves,8
 3522,1,6,,Riccardo Patrese,1
 3522,2,2,,Gerhard Berger,2
 3522,3,1,,Ayrton Senna,3
@@ -12343,7 +12343,7 @@
 3522,15,8,,Mark Blundell,15
 3522,16,32,,Roberto Moreno,16
 3522,17,21,,Emanuele Pirro,17
-3522,18,22,,J J Lehto,18
+3522,18,22,,Jyrki Järvilehto,18
 3522,19,7,,Martin Brundle,19
 3522,20,25,,Thierry Boutsen,20
 3522,21,3,,Satoru Nakajima,21
@@ -12357,13 +12357,13 @@
 3522,dnq,34,,Nicola Larini,29
 3522,dnq,35,,Eric van de Poele,30
 3523,1,33,,Andrea de Cesaris,1
-3523,2,22,,J J Lehto,2
+3523,2,22,,Jyrki Järvilehto,2
 3523,3,32,,Bertrand Gachot,3
 3523,4,35,,Eric van de Poele,4
 3523,5,21,,Emanuele Pirro,5
 3523,6,14,,Olivier Grouillard,6
 3523,7,34,,Nicola Larini,7
-3523,8,31,,Pedro Matos Chaves,8
+3523,8,31,,Pedro Chaves,8
 3524,1,1,,Ayrton Senna,1
 3524,2,6,,Riccardo Patrese,2
 3524,3,27,,Alain Prost,3
@@ -12379,7 +12379,7 @@
 3524,13,19,,Roberto Moreno,13
 3524,14,20,,Nélson Piquet,14
 3524,15,15,,Mauricio Gugelmin,15
-3524,16,22,,J J Lehto,16
+3524,16,22,,Jyrki Järvilehto,16
 3524,17,29,,Éric Bernard,17
 3524,18,7,,Martin Brundle,18
 3524,19,26,,Érik Comas,19
@@ -12415,7 +12415,7 @@
 3526,12,8,,Mark Blundell,12
 3526,13,15,,Mauricio Gugelmin,13
 3526,14,4,,Stefano Modena,14
-3526,15,22,,J J Lehto,15
+3526,15,22,,Jyrki Järvilehto,15
 3526,16,24,,Gianni Morbidelli,16
 3526,17,33,,Andrea de Cesaris,17
 3526,18,3,,Satoru Nakajima,18
@@ -12432,11 +12432,11 @@
 3526,dnq,12,,Michael Bartels,29
 3526,dnq,35,,Eric van de Poele,30
 3527,1,21,,Emanuele Pirro,1
-3527,2,22,,J J Lehto,2
+3527,2,22,,Jyrki Järvilehto,2
 3527,3,34,,Nicola Larini,3
 3527,4,32,,Bertrand Gachot,4
 3527,5,33,,Andrea de Cesaris,5
-3527,6,31,,Pedro Matos Chaves,6
+3527,6,31,,Pedro Chaves,6
 3527,7,14,,Olivier Grouillard,7
 3527,8,35,,Eric van de Poele,8
 3528,1,1,,Ayrton Senna,1
@@ -12448,7 +12448,7 @@
 3528,7,2,,Gerhard Berger,7
 3528,8,19,,Roberto Moreno,8
 3528,9,21,,Emanuele Pirro,9
-3528,10,22,,J J Lehto,10
+3528,10,22,,Jyrki Järvilehto,10
 3528,11,4,,Stefano Modena,11
 3528,12,7,,Martin Brundle,12
 3528,13,11,,Mika Häkkinen,13
@@ -12492,7 +12492,7 @@
 3529,21,29,,Bertrand Gachot,21
 3529,22,25,,Thierry Boutsen,22
 3529,23,17,,Emanuele Naspetti,23
-3529,24,21,,J J Lehto,24
+3529,24,21,,Jyrki Järvilehto,24
 3529,25,16,,Jan Lammers,25
 3529,26,30,,Ukyo Katayama,26
 3530,1,5,,Nigel Mansell,1
@@ -12510,7 +12510,7 @@
 3530,13,4,,Andrea de Cesaris,13
 3530,14,9,,Michele Alboreto,14
 3530,15,14,,Eric van de Poele,15
-3530,16,21,,J J Lehto,16
+3530,16,21,,Jyrki Järvilehto,16
 3530,17,32,,Stefano Modena,17
 3530,18,16,,Karl Wendlinger,18
 3530,19,22,,Pierluigi Martini,19
@@ -12540,7 +12540,7 @@
 3531,13,4,,Andrea de Cesaris,13
 3531,14,9,,Michele Alboreto,14
 3531,15,26,,Érik Comas,15
-3531,16,21,,J J Lehto,16
+3531,16,21,,Jyrki Järvilehto,16
 3531,17,3,,Olivier Grouillard,17
 3531,18,29,,Bertrand Gachot,18
 3531,19,15,,Gabriele Tarquini,19
@@ -12573,7 +12573,7 @@
 3532,16,30,,Ukyo Katayama,16
 3532,17,10,,Aguri Suzuki,17
 3532,18,4,,Andrea de Cesaris,18
-3532,19,21,,J J Lehto,19
+3532,19,21,,Jyrki Järvilehto,19
 3532,20,3,,Olivier Grouillard,20
 3532,21,16,,Karl Wendlinger,21
 3532,22,22,,Pierluigi Martini,22
@@ -12607,7 +12607,7 @@
 3533,20,17,,Paul Belmondo,20
 3533,21,25,,Thierry Boutsen,21
 3533,22,26,,Érik Comas,22
-3533,23,21,,J J Lehto,23
+3533,23,21,,Jyrki Järvilehto,23
 3533,24,33,,Mauricio Gugelmin,24
 3533,25,23,,Christian Fittipaldi,25
 3533,26,3,,Olivier Grouillard,26
@@ -12631,7 +12631,7 @@
 3534,14,9,,Michele Alboreto,14
 3534,15,10,,Aguri Suzuki,15
 3534,16,24,,Gianni Morbidelli,16
-3534,17,21,,J J Lehto,17
+3534,17,21,,Jyrki Järvilehto,17
 3534,18,30,,Ukyo Katayama,18
 3534,19,4,,Andrea de Cesaris,19
 3534,20,32,,Stefano Modena,20
@@ -12665,7 +12665,7 @@
 3535,18,22,,Pierluigi Martini,18
 3535,19,15,,Gabriele Tarquini,19
 3535,20,4,,Andrea de Cesaris,20
-3535,21,21,,J J Lehto,21
+3535,21,21,,Jyrki Järvilehto,21
 3535,22,17,,Paul Belmondo,22
 3535,23,33,,Mauricio Gugelmin,23
 3535,24,23,,Alessandro Zanardi,24
@@ -12702,7 +12702,7 @@
 3536,25,8,,Damon Hill,25
 3536,26,22,,Pierluigi Martini,26
 3536,dnq,24,,Gianni Morbidelli,27
-3536,dnq,21,,J J Lehto,28
+3536,dnq,21,,Jyrki Järvilehto,28
 3536,dnq,23,,Alessandro Zanardi,29
 3536,dnq,34,,Roberto Moreno,30
 3537,1,5,,Nigel Mansell,1
@@ -12718,7 +12718,7 @@
 3537,11,11,,Mika Häkkinen,11
 3537,12,24,,Gianni Morbidelli,12
 3537,13,12,,Johnny Herbert,13
-3537,14,21,,J J Lehto,14
+3537,14,21,,Jyrki Järvilehto,14
 3537,15,26,,Érik Comas,15
 3537,16,9,,Michele Alboreto,16
 3537,17,16,,Karl Wendlinger,17
@@ -12754,7 +12754,7 @@
 3538,19,22,,Pierluigi Martini,19
 3538,20,30,,Ukyo Katayama,20
 3538,21,3,,Olivier Grouillard,21
-3538,22,21,,J J Lehto,22
+3538,22,21,,Jyrki Järvilehto,22
 3538,23,16,,Jan Lammers,23
 3538,24,9,,Michele Alboreto,24
 3538,25,33,,Mauricio Gugelmin,25
@@ -12765,7 +12765,7 @@
 3539,4,20,,Martin Brundle,4
 3539,5,2,,Gerhard Berger,5
 3539,6,1,,Ayrton Senna,6
-3539,7,21,,J J Lehto,7
+3539,7,21,,Jyrki Järvilehto,7
 3539,8,33,,Mauricio Gugelmin,8
 3539,9,22,,Pierluigi Martini,9
 3539,10,27,,Jean Alesi,10
@@ -12808,7 +12808,7 @@
 3540,17,23,,Christian Fittipaldi,17
 3540,18,22,,Pierluigi Martini,18
 3540,19,10,,Aguri Suzuki,19
-3540,20,21,,J J Lehto,20
+3540,20,21,,Jyrki Järvilehto,20
 3540,21,32,,Stefano Modena,21
 3540,22,25,,Thierry Boutsen,22
 3540,23,26,,Érik Comas,23
@@ -12837,7 +12837,7 @@
 3541,16,28,,Ivan Capelli,16
 3541,17,10,,Aguri Suzuki,17
 3541,18,24,,Gianni Morbidelli,18
-3541,19,21,,J J Lehto,19
+3541,19,21,,Jyrki Järvilehto,19
 3541,20,33,,Mauricio Gugelmin,20
 3541,21,22,,Pierluigi Martini,21
 3541,22,16,,Karl Wendlinger,22
@@ -12860,7 +12860,7 @@
 3542,13,26,,Érik Comas,13
 3542,14,4,,Andrea de Cesaris,14
 3542,15,22,,Pierluigi Martini,15
-3542,16,21,,J J Lehto,16
+3542,16,21,,Jyrki Järvilehto,16
 3542,17,30,,Ukyo Katayama,17
 3542,18,33,,Mauricio Gugelmin,18
 3542,19,29,,Bertrand Gachot,19
@@ -12898,7 +12898,7 @@
 3543,21,11,,Mika Häkkinen,21
 3543,22,29,,Bertrand Gachot,22
 3543,23,33,,Mauricio Gugelmin,23
-3543,24,21,,J J Lehto,24
+3543,24,21,,Jyrki Järvilehto,24
 3543,25,22,,Pierluigi Martini,25
 3543,26,7,,Eric van de Poele,26
 3543,dnq,17,,Paul Belmondo,27
@@ -12916,7 +12916,7 @@
 3544,9,16,,Karl Wendlinger,9
 3544,10,26,,Érik Comas,10
 3544,11,4,,Andrea de Cesaris,11
-3544,12,21,,J J Lehto,12
+3544,12,21,,Jyrki Järvilehto,12
 3544,13,22,,Pierluigi Martini,13
 3544,14,25,,Thierry Boutsen,14
 3544,15,3,,Olivier Grouillard,15
@@ -12946,7 +12946,7 @@
 3545,9,6,,Riccardo Patrese,9
 3545,10,10,,Aguri Suzuki,10
 3545,11,29,,Karl Wendlinger,11
-3545,12,30,,J J Lehto,12
+3545,12,30,,Jyrki Järvilehto,12
 3545,13,14,,Rubens Barrichello,13
 3545,14,26,,Mark Blundell,14
 3545,15,4,,Andrea de Cesaris,15
@@ -12967,7 +12967,7 @@
 3546,6,10,,Aguri Suzuki,6
 3546,7,9,,Derek Warwick,7
 3546,8,6,,Riccardo Patrese,8
-3546,9,30,,J J Lehto,9
+3546,9,30,,Jyrki Järvilehto,9
 3546,10,12,,Johnny Herbert,10
 3546,11,25,,Martin Brundle,11
 3546,12,29,,Karl Wendlinger,12
@@ -12991,7 +12991,7 @@
 3547,4,5,,Michael Schumacher,4
 3547,5,7,,Michael Andretti,5
 3547,6,6,,Riccardo Patrese,6
-3547,7,30,,J J Lehto,7
+3547,7,30,,Jyrki Järvilehto,7
 3547,8,29,,Karl Wendlinger,8
 3547,9,27,,Jean Alesi,9
 3547,10,26,,Mark Blundell,10
@@ -13026,7 +13026,7 @@
 3548,13,28,,Gerhard Berger,13
 3548,14,11,,Alessandro Zanardi,14
 3548,15,14,,Rubens Barrichello,15
-3548,16,30,,J J Lehto,16
+3548,16,30,,Jyrki Järvilehto,16
 3548,17,20,,Érik Comas,17
 3548,18,29,,Karl Wendlinger,18
 3548,19,23,,Christian Fittipaldi,19
@@ -13047,7 +13047,7 @@
 3549,8,8,,Ayrton Senna,8
 3549,9,29,,Karl Wendlinger,9
 3549,10,26,,Mark Blundell,10
-3549,11,30,,J J Lehto,11
+3549,11,30,,Jyrki Järvilehto,11
 3549,12,7,,Michael Andretti,12
 3549,13,20,,Érik Comas,13
 3549,14,14,,Rubens Barrichello,14
@@ -13069,7 +13069,7 @@
 3550,4,8,,Ayrton Senna,4
 3550,5,29,,Karl Wendlinger,5
 3550,6,7,,Michael Andretti,6
-3550,7,30,,J J Lehto,7
+3550,7,30,,Jyrki Järvilehto,7
 3550,8,28,,Gerhard Berger,8
 3550,9,27,,Jean Alesi,9
 3550,10,6,,Riccardo Patrese,10
@@ -13106,7 +13106,7 @@
 3551,15,9,,Derek Warwick,15
 3551,16,7,,Michael Andretti,16
 3551,17,11,,Alessandro Zanardi,17
-3551,18,30,,J J Lehto,18
+3551,18,30,,Jyrki Järvilehto,18
 3551,19,12,,Johnny Herbert,19
 3551,20,15,,Thierry Boutsen,20
 3551,21,3,,Ukyo Katayama,21
@@ -13132,7 +13132,7 @@
 3552,15,11,,Alessandro Zanardi,15
 3552,16,20,,Érik Comas,16
 3552,17,14,,Rubens Barrichello,17
-3552,18,30,,J J Lehto,18
+3552,18,30,,Jyrki Järvilehto,18
 3552,19,4,,Andrea de Cesaris,19
 3552,20,23,,Christian Fittipaldi,20
 3552,21,3,,Ukyo Katayama,21
@@ -13155,7 +13155,7 @@
 3553,12,26,,Mark Blundell,12
 3553,13,25,,Martin Brundle,13
 3553,14,23,,Christian Fittipaldi,14
-3553,15,30,,J J Lehto,15
+3553,15,30,,Jyrki Järvilehto,15
 3553,16,14,,Rubens Barrichello,16
 3553,17,29,,Karl Wendlinger,17
 3553,18,20,,Érik Comas,18
@@ -13179,7 +13179,7 @@
 3554,10,6,,Riccardo Patrese,10
 3554,11,9,,Derek Warwick,11
 3554,12,25,,Martin Brundle,12
-3554,13,30,,J J Lehto,13
+3554,13,30,,Jyrki Järvilehto,13
 3554,14,26,,Mark Blundell,14
 3554,15,29,,Karl Wendlinger,15
 3554,16,19,,Philippe Alliot,16
@@ -13203,7 +13203,7 @@
 3555,8,15,,Eddie Irvine,8
 3555,9,10,,Aguri Suzuki,9
 3555,10,6,,Riccardo Patrese,10
-3555,11,30,,J J Lehto,11
+3555,11,30,,Jyrki Järvilehto,11
 3555,12,14,,Rubens Barrichello,12
 3555,13,3,,Ukyo Katayama,13
 3555,14,27,,Jean Alesi,14
@@ -13227,7 +13227,7 @@
 3556,8,29,,Karl Wendlinger,8
 3556,9,7,,Michael Andretti,9
 3556,10,20,,Érik Comas,10
-3556,11,30,,J J Lehto,11
+3556,11,30,,Jyrki Järvilehto,11
 3556,12,9,,Derek Warwick,12
 3556,13,25,,Martin Brundle,13
 3556,14,12,,Johnny Herbert,14
@@ -13254,7 +13254,7 @@
 3557,9,9,,Derek Warwick,9
 3557,10,26,,Mark Blundell,10
 3557,11,25,,Martin Brundle,11
-3557,12,30,,J J Lehto,12
+3557,12,30,,Jyrki Järvilehto,12
 3557,13,29,,Karl Wendlinger,13
 3557,14,12,,Johnny Herbert,14
 3557,15,14,,Rubens Barrichello,15
@@ -13284,7 +13284,7 @@
 3558,13,14,,Rubens Barrichello,13
 3558,14,19,,Philippe Alliot,14
 3558,15,9,,Derek Warwick,15
-3558,16,30,,J J Lehto,16
+3558,16,30,,Jyrki Järvilehto,16
 3558,17,20,,Érik Comas,17
 3558,18,4,,Andrea de Cesaris,18
 3558,19,15,,Thierry Boutsen,19
@@ -13300,7 +13300,7 @@
 3559,3,5,,Michael Schumacher,3
 3559,4,0,,Damon Hill,4
 3559,5,27,,Jean Alesi,5
-3559,6,30,,J J Lehto,6
+3559,6,30,,Jyrki Järvilehto,6
 3559,7,6,,Riccardo Patrese,7
 3559,8,26,,Mark Blundell,8
 3559,9,7,,Michael Andretti,9
@@ -13329,7 +13329,7 @@
 3560,6,29,,Karl Wendlinger,6
 3560,7,7,,Michael Andretti,7
 3560,8,27,,Jean Alesi,8
-3560,9,30,,J J Lehto,9
+3560,9,30,,Jyrki Järvilehto,9
 3560,10,12,,Johnny Herbert,10
 3560,11,28,,Gerhard Berger,11
 3560,12,26,,Mark Blundell,12
@@ -13363,7 +13363,7 @@
 3572,14,15,,Andrea de Cesaris,14
 3572,15,14,,Rubens Barrichello,15
 3572,16,12,,Johnny Herbert,16
-3572,17,6,,J J Lehto,17
+3572,17,6,,Jyrki Järvilehto,17
 3572,18,19,,Olivier Beretta,18
 3572,19,11,,Pedro Lamy,19
 3572,20,26,,Olivier Panis,20
