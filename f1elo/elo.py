@@ -24,27 +24,27 @@ class Elo:
         return sum([self.get_ranking(d, date) for d in entry.drivers]) / len(entry.drivers)
 
     def rank_race(self, race):
-        recent_date = race.date - dateutil.relativedelta.relativedelta(months=9)
-        recent_ratings = self.session.query(
-            func.min(Ranking.ranking).label('min'),
-            func.max(Ranking.ranking).label('max')
-        ).filter(
-            Ranking.rank_date >= recent_date
-        ).group_by(
-            Ranking._driver
-        )
-        changes_query = self.session.query(
-            func.avg(
-                func.abs(
-                    recent_ratings.subquery().columns.min - recent_ratings.subquery().columns.max
+        race_disparity = self.config['disparity']['base_disparity']
+        if self.config['disparity']['adjust']:
+            recent_date = race.date - dateutil.relativedelta.relativedelta(months=3)
+            recent_ratings = self.session.query(
+                func.min(Ranking.ranking).label('min'),
+                func.max(Ranking.ranking).label('max')
+            ).filter(
+                Ranking.rank_date >= recent_date
+            ).group_by(
+                Ranking._driver
+            )
+            changes_query = self.session.query(
+                func.avg(
+                    recent_ratings.subquery().columns.max - recent_ratings.subquery().columns.min
                 )
             )
-        )
-        recent_rank_changes = changes_query.scalar()
-        race_disparity = self.config['disparity']
-        if recent_rank_changes:
-            race_disparity -= recent_rank_changes
-        print(race_disparity, str(race.date))
+            recent_rank_change = changes_query.scalar()
+            if not recent_rank_change:
+                recent_rank_change = 0
+            recent_rank_change = min(self.config['disparity']['base_rating_change'], recent_rank_change)
+            race_disparity *= (2.5 + (self.config['disparity']['base_rating_change']/(recent_rank_change - 2.0 * self.config['disparity']['base_rating_change']))) * 0.5
         entries = race.entries
         entries_to_compare = []
         rankings = {}
