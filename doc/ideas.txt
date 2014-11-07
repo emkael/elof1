@@ -14,6 +14,4 @@ WISHLIST:
  - modifying disparity by time of year (or by ranking deviation from last 3-4 months)
 
 TODO:
- - detect grid penalties (ergast.races.grid != eragst.qualifying.position) -> ergast-qualifying.csv
- - non-ergast.qualifying.position != ergast.races.grid (chicane-results.csv -> temp db -> chicane-results.csv)
  - detect multi-heat (NC) races on chicanef1

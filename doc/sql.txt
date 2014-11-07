@@ -1,6 +1,6 @@
 Useful queries:
 
- - selects top rating progression
+ - overall top rating progression
 
 CREATE OR REPLACE VIEW max_date_rankings AS
        SELECT MAX(ranking) max_ranking,
@@ -19,13 +19,6 @@ WHERE max_ranking > (
       WHERE mr.max_rank_date < max_date_rankings.max_rank_date
 );
 
-SELECT * FROM rankings
-JOIN drivers ON rankings._driver = drivers.id
-WHERE ranking >= (
-      SELECT MAX(r.ranking) FROM rankings r
-      WHERE r.rank_date <= rankings.rank_date
-) ORDER BY rank_date ASC;
-
  - overall top peak ratings
 
 SELECT drivers.driver,
@@ -37,6 +30,7 @@ INNER JOIN (
       GROUP BY _driver
 ) r ON r.ranking=rankings.ranking AND r._driver=rankings._driver
 JOIN drivers ON rankings._driver = drivers.id
+GROUP BY rankings._driver
 ORDER BY rankings.ranking DESC;
 
  - highest exit ratings
@@ -49,7 +43,7 @@ INNER JOIN (
       SELECT MAX(rank_date) rank_date, _driver FROM rankings GROUP BY _driver
 ) r ON r.rank_date=rankings.rank_date AND r._driver=rankings._driver
 JOIN drivers ON rankings._driver = drivers.id
-WHERE rankings.rank_date < CONCAT(YEAR(CURDATE()),'-01-01')
+WHERE rankings.rank_date < CURDATE() - INTERVAL 1 YEAR
 ORDER BY rankings.ranking DESC;
 
  - year-by-year rating inflation
@@ -63,7 +57,3 @@ SELECT YEAR(rank_date),
 FROM rankings
 GROUP BY YEAR(rank_date)
 ORDER BY YEAR(rank_date) ASC;
-
- - qualifying/grid sanity check
-
-SELECT drivers.number, drivers.forename, drivers.surname, races.year, races.name, qualifying.number, qualifying.position, qualifying.q1, qualifying.q2, qualifying.q3, results.grid, results.number FROM qualifying INNER JOIN results ON (qualifying.driverID = results.driverId) AND (qualifying.raceId = results.raceId) JOIN drivers ON drivers.driverId = results.driverId JOIN races ON results.raceId = races.raceId WHERE qualifying.position <> results.grid ORDER BY races.date ASC
