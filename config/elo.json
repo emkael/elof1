@@ -1,6 +1,6 @@
 {
     "initial_ranking": 2000.0,
-    "disparity": 400,
+    "disparity": 600,
     "importance": {
 	     "NC_Q": 1.6,
 	     "NC_R": 16,

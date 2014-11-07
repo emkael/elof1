@@ -7,6 +7,7 @@ Tables:
 Charts:
  - rolling average and deviation of rankings
  - average ranking at the beginning of each championship season
+ - average ranking at the end of each championship season
  - peak season ranking (MAX, MIN, AVG, STDDEV GROUP BY YEAR(date))
  - top 5 of every season (on average) by decade
 

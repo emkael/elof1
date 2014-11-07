@@ -111,11 +111,12 @@ class Interface:
 
         one_year = dateutil.relativedelta.relativedelta(years=1)
         rankings = self.session.query(
-            Ranking).filter(
-                Ranking.rank_date > (
-                    date - one_year)).filter(
-                Ranking.rank_date <= date).all(
-        )
+            Ranking
+        ).filter(
+            Ranking.rank_date > (date - one_year)
+        ).filter(
+            Ranking.rank_date <= date
+        ).all()
 
         drivers = {}
         for ranking in rankings:

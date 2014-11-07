@@ -1,4 +1,5 @@
-import json
+import json, dateutil
+from sqlalchemy import func
 from itertools import combinations
 from os import path
 
@@ -23,6 +24,27 @@ class Elo:
         return sum([self.get_ranking(d, date) for d in entry.drivers]) / len(entry.drivers)
 
     def rank_race(self, race):
+        recent_date = race.date - dateutil.relativedelta.relativedelta(months=9)
+        recent_ratings = self.session.query(
+            func.min(Ranking.ranking).label('min'),
+            func.max(Ranking.ranking).label('max')
+        ).filter(
+            Ranking.rank_date >= recent_date
+        ).group_by(
+            Ranking._driver
+        )
+        changes_query = self.session.query(
+            func.avg(
+                func.abs(
+                    recent_ratings.subquery().columns.min - recent_ratings.subquery().columns.max
+                )
+            )
+        )
+        recent_rank_changes = changes_query.scalar()
+        race_disparity = self.config['disparity']
+        if recent_rank_changes:
+            race_disparity -= recent_rank_changes
+        print(race_disparity, str(race.date))
         entries = race.entries
         entries_to_compare = []
         rankings = {}
@@ -38,7 +60,9 @@ class Elo:
                 self.get_outcome(c),
                 self.get_importance(race,
                                     [rankings[c[0]],
-                                     rankings[c[1]]]))
+                                     rankings[c[1]]]),
+                race_disparity
+            )
             new_rankings[c[0]] += score
             new_rankings[c[1]] -= score
         return new_rankings
@@ -59,5 +83,5 @@ class Elo:
             return 0
         return 0.5
 
-    def get_score(self, difference, outcome, importance):
-        return importance * (outcome - 1 / (1 + (10 ** (-difference / self.config['disparity']))))
+    def get_score(self, difference, outcome, importance, disparity):
+        return importance * (outcome - 1 / (1 + (10 ** (-difference / disparity))))
