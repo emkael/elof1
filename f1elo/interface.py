@@ -85,7 +85,7 @@ class Interface:
                     print(
                         entry,
                         elo.get_entry_ranking(entry,
-                                              race.date),
+                                              race.date - dateutil.relativedelta.relativedelta(days=1)),
                         elo.get_entry_ranking(entry),
                         file=sys.stderr)
                 print('', file=sys.stderr)
