@@ -4,15 +4,10 @@ Tables:
  - peak rating progression
  - highest/lowest ranked podiums
  - races with biggest changes
+ - highest rating at the end of rookie season (or next season if < 3 races in rookie season)
 Charts:
- - rolling average and deviation of rankings
- - average ranking at the beginning of each championship season
- - average ranking at the end of each championship season
+ - rolling average and deviation of rankings (average of averages groupped by driver)
+ - average ranking at the beginning of each championship season (for first championship season race grid)
+ - average ranking at the end of each championship season (for drivers from championship races)
  - peak season ranking (MAX, MIN, AVG, STDDEV GROUP BY YEAR(date))
  - top 5 of every season (on average) by decade
-
-WISHLIST:
- - modifying disparity by time of year (or by ranking deviation from last 3-4 months)
-
-TODO:
- - detect multi-heat (NC) races on chicanef1
