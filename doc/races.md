@@ -20,7 +20,7 @@ Race importance factor:
 
 Heats and aggregates:
 
- * for multi-heat races with bracket-style heats and a final heats count as qualifying sessions and the final count as a race (except for Bologna Sprints, in which every heat from the full bracket get qualifying importance)
+ * for multi-heat races with bracket-style heats and a final heats count as qualifying sessions and the final count as a race (except for Bologna Sprints, in which every heat from the full bracket gets non-championship race importance)
  * for multi-heat races with aggregate-style standings the initial grid counts as qualifying and the aggregate results count as a race
 
 Other remarks:
