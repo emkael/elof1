@@ -124,7 +124,7 @@ The cut-off had to be more subtle than linear decrease of disparity, so the foll
  * `base_disparity` and `base_rating_change` are application parameters
  * `rating_change` is average amplitude of driver rating for previous 3 months (max(rating) - min(rating) over 3 months for every driver, averaged)
 
-The equation may look scary, but it's just a concave segment of hyperbolic function, spanning from base_disparity in 0 to 75% of base_disparity in base_rating_change and staying constant for higher values of rating change. The adjustement can be turned off in application configuration.
+The equation may look scary, but it's just a concave segment of hyperbolic function, spanning from `base_disparity` in 0 to 75% of `base_disparity` in `base_rating_change` and staying constant for higher values of rating change. The adjustement can be turned off in application configuration.
 
 Now, it has to be said that if you have a predetermined bias or prejudice for (or against) certain drivers or decades, it's fairly easy to tweak the algorithm so that it yields results that satisfy you. For the results I'm showing, I tried my best to keep overall ranking conditions over the entire field constant over time. It's debatable if that's not defeating the entire point of the simulation - one of the main reasons for using Elo-like rating was to separate absolute driver achievements (yes, "achievements", not "skill", since comparisons among the entire field do not factor out technical level of cars driven by competitors) from the general "quality" of the grid they're fielded against. But as the average rating is comparable over decades, the variation is not - so some conclusions on overall quality of certain grids can be drawn.
 
