@@ -1,0 +1,67 @@
+Challenges and issues with the rating process
+=============================================
+
+Gathering and unifying data
+---------------------------
+
+The project obviously involved dealing with lots of race and qualifying results (well, basically, with *all* of it).
+
+The usual process of compiling results into project database consisted of several steps:
+1. scraping data from various public web sources
+2. converting data to consistent format (i.e. CSV)
+3. semi-manual compilation of data in the CSV to importable format
+4. importing CSV data to project database
+5. normalization of imported data
+
+### Scraping the data
+
+At first, I tried to use Wikipedia as an initial source for race results. Since any source with uniform tabular would do just fine, it seemed like a good idea at the time. Unfortunately, wikipedia is far from uniform. Throughout 1000+ wikipedia pages for both championship and non-championship races, not only the format of the results table varies, but the number of tables (separate qualifying table vs. "grid" column), or the placement and headings of the tables, as well.
+
+Plus, Wikipedia is far from being complete in terms of non-championship races results. And since that meant I would need a separate data source anyway, fighting with Wikipedia scrape automation didn't seem worth it (despite the presence of a proper API for fetching revisions of wiki pages).
+
+The next source, this time with consitently formatted tables, was [A Second A Lap blog](http://second-a-lap.blogspot.com/) - which showcases one ray each day. Main advantage of the source: lightweight native Blogspot API for fetching article contents. Main (and critical) flaw: the series is in the mid-60s as of now so the data would not be complete for a long time. Also, the tables lacked entry numbers, a nice flavour in the data.
+
+Fortunately, that's were [Ergast Developer API](http://ergast.com/mrd/db) came in handy. The SQL database image provided an achievable baseline for testing the algorithm (on championship race results and the qualifying data included in the dump). As a side-effect, after running some checks on the Ergast-imported data, some inconsistencies were detected and reported to Ergast maintainers.
+
+The initial source for non-championship races was then chosen: [The Formula One Archives](http://www.silhouet.com/motorsport/archive/f1/title.html). That meant dealing with plain-text data and lots of manual aligning of the data to form columns. Surprisingly, CSV-formatted data manipulation in any office software works very well so this wasn't as hard as it seemed.
+
+Yet still, there was a need for qualifying/prequalifying data not included in Ergast DB. So the ultimate source (without which compiling wouldn't be possible in relatively short time) was the magnificent [Chicane F1 website](http://chicanef1.com/). Despite some minor errors in the data (most likely - propagation of print errors from original sources, small things like wrong digits in timing which then lead to incorrect qualifying speeds by which I had to sort my data to discard grid penalties), the website data turned out bullet-proof (comprehensive, consistent, covering at least everything covered in other sources) and dataset was completed.
+
+### Scraped data conversion
+
+The conversion process for the sources which I managed to automate happened on the fly. The helper script for both scraping and HTML->CSV conversion is available in the dumps/ directory of project tree.
+
+The directory includes:
+ - scrapers for chicanef1 and second-a-lap single result pages
+ - scrapers which extract all possible qualifying and non-championship result page URLs from chicane
+ - utility which fetches URLs and converts the tables to CSV files and compiles multiple CSV files to single file, producing the list of compiled files as a side-effect
+
+**I urge you to proceed with highest level of attention when trying to scrape the websites on your own using these tools.**
+They involve lots of excess requests (since it was easier to fetch everything that moves and filter out the weeds afterwards) and may generate substantial bandwidth on the source websites if used without common sense. And the last thing I'd want is to cause trouble to the amazing people who put these data for public access in the first place.
+
+### Compiling the data
+
+The most time-consuming and boring part of the whole process. Extending the CSV data to accomodate algorithm's ranking criteria. Spread sheet manual labor with lots of filtering, sanity checks, conditional formulas, more filtering, more formula etc.
+
+Nothing useful in terms of source-code or data not included in the resulting database came up from this stage, apart from a sense of satisfaction and drastic appreciation of spreadsheet software.
+
+### Importing the data
+
+That's where the result database structure kicks in. For clarity, I'll show you the schema first:
+
+    +---------+           +------------+
+    |  races  |           | race_types |
+    +---------+ 0..*    1 +------------+
+    | + date  |-----------| + code     |
+    | + race  |     _type +------------+
+    +---------+
+       1 | _race
+         |
+    0..* |
+    +-----------------+                  +-----------+              +--------------+
+    |     entries     |                  |  drivers  |              |   rankings   |
+    +-----------------+                  +-----------+ 1       0..* +--------------+
+    | + result        | 0..*        0..* | + driver  |--------------| + ranking    |
+    | + car_no        |------------------| + country | _driver      | + rank_date  |
+    | + result_group  | _entry   _driver +-----------+              +--------------+
+    +-----------------+ (driver_entries)
