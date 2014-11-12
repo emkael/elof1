@@ -1,6 +1,10 @@
 Challenges and issues with the rating process
 =============================================
 
+Two main obstacles had to be overcome to achieve satisfactory quality of the analysis and the entire project.
+
+One of them was purely technical, the other - theoretical/methodological. This documents presents them very briefly.
+
 Gathering and unifying data
 ---------------------------
 
@@ -65,3 +69,20 @@ That's where the result database structure kicks in. For clarity, I'll show you 
     | + car_no        |------------------| + country | _driver      | + rank_date  |
     | + result_group  | _entry   _driver +-----------+              +--------------+
     +-----------------+ (driver_entries)
+
+Since `race_types` table is a pre-filled dictionary and values in `rankings` are only calculated by the main rating application, dataset import operates on `races`, `entries` and `drivers`.
+
+The `races` table is pretty much straight-forward, so CSV-formatted file can easily be imported into the table (e.g. with the help of any proper web-based RDBMS administration tool).
+
+The aim of main import procedure was to populate the `drivers`, `driver_entries` and `entries` tables, with - if possible - shared drives support.
+
+That pushed some constraints on the amount of information and format of the imported CSV file. Very rudimentary import script (import-csv.py) assumes CSV file with either of the following line formats:
+ - 6 columns: race ID, text description of entry result, car number, driver country, driver name, result group for Elo algorithm outcome
+ - 2 columns: driver country, driver name
+Detecting first row format created a new entry for race, the second one - appended another driver to a shared drive for the last processed entry. On top of that, the `drivers` table was being filled with every driver name not yet present in the database.
+
+### Data normalization
+
+Usually after running import script, the main concern was the normalization of driver names present in the database. Since lookup and identification of drivers during the import took only their into account, there were lots of duplicates - drivers racing under nicknames, drivers with multiple names they'd figured under or drivers with various spelling variant of their names.
+
+After manual normalization of such values, the dataset was ready for processing (usually - resetting the ranking DB to the date of first newly imported session and running the rating onwards).
