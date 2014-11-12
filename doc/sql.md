@@ -1,7 +1,9 @@
-Useful queries:
+Useful queries for application database:
+=======================================
 
- - overall top rating progression
+ * overall top rating progression
 
+```
 CREATE OR REPLACE VIEW max_date_rankings AS
        SELECT MAX(ranking) max_ranking,
               rank_date max_rank_date
@@ -18,9 +20,11 @@ WHERE max_ranking > (
       SELECT MAX(mr.max_ranking) FROM max_date_rankings mr
       WHERE mr.max_rank_date < max_date_rankings.max_rank_date
 );
+```
 
- - overall top peak ratings
+ * overall top peak ratings
 
+```
 SELECT drivers.driver,
        rankings.ranking,
        rankings.rank_date
@@ -32,9 +36,11 @@ INNER JOIN (
 JOIN drivers ON rankings._driver = drivers.id
 GROUP BY rankings._driver
 ORDER BY rankings.ranking DESC;
+```
 
- - highest exit ratings
+ * highest exit ratings
 
+```
 SELECT drivers.driver,
        rankings.ranking,
          rankings.rank_date
@@ -45,9 +51,11 @@ INNER JOIN (
 JOIN drivers ON rankings._driver = drivers.id
 WHERE rankings.rank_date < CURDATE() - INTERVAL 1 YEAR
 ORDER BY rankings.ranking DESC;
+```
 
- - year-by-year rating inflation
+ * year-by-year rating inflation
 
+```
 SELECT YEAR(rank_date),
        MAX(ranking),
        MIN(ranking),
@@ -57,3 +65,4 @@ SELECT YEAR(rank_date),
 FROM rankings
 GROUP BY YEAR(rank_date)
 ORDER BY YEAR(rank_date) ASC;
+```
