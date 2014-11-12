@@ -17,9 +17,9 @@ After separating session results into groups, all entries from non-"0" groups fo
 All such duels are then treated as input for Elo rating algorithm.
 
 Specific rules regarding Elo implementation for this application's purposes:
- * rankings are applied (evaluated) after each session ("tournament")
+ * rankings are applied (evaluated) after each session (note: debug information for Bologna Sprints does not display correct "previous" ratings: ratings are applied after each heat, yeat debug info displays inital rating from before the event; this applies to any possible situation in which drivers take part in multiple sessions in one day)
  * no minimum rating limit for driver is enforced
- * drivers are rated from their first entry (there's no initial grace period)
+ * drivers are rated from their first entry (there's no initial grace period, see: challenges.txt)
  * shared drive entries have the effective ranking equal to the average ranking of drivers sharing the drive; pending ranking points from duels of such entries are divided equally between drivers sharing the drive
  * driver group disparity is varied to accommodate for dynamic shifts of relative performance within the F1 field (caused by technical changes) - see below
 
@@ -39,4 +39,4 @@ Specific parameters which are configurable:
  * duel importance (base, i.e. for drivers ranked below importance thresholds) for all race types
  * importance thresholds (for 50% of base importance and 75% of base importance)
 
-All calculation is rounded to 2 decimal places.
+All calculation is rounded to 2 decimal places at each rating cycle.

@@ -6,7 +6,7 @@ Races included in the standings:
  * all non-championship races run to contemporary or nearly contemporary Formula One regulations since 1950, apart from national championship series (so Races of Champions, International Trophies, Bologna Sprints or non-championship Grands Prix are included, but Aurora F1, Tasman Series or South African F1 races are excluded)
  * some of the 1952-53 non-championship Formula Two races (including these with substantial WDC drivers appearence, such as French Formula Two Championship races and some other arbitrary races)
  * all post-War, pre-1950 Grandes Épreuves races (which includes some 1946 races from before F1 regulations and excludes majority of F1-compliant races from 1947 onwards)
- * races with mixed formula entries (e.g. F1/F2 or F1/FLibre) are separated by class and only F1 class (and F2 class in 1952-53) is scored
+ * races with mixed formula entries (e.g. F1/F2 or F1/FLibre) are separated by class and only F1 class (and F2 class in 1952-53) is scored, apart from joined F1-F2 World Championship races (German Grands Prix from 50s and 60s and 1958 Moroccan GP)
 
 Race importance factor:
  * WCoD and FOWC race importance constitutes 100% of base value

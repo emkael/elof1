@@ -58,7 +58,7 @@ class Interface:
         race_query = self.session.query(Race).filter(Race.ranked == False)
         if date is not None:
             race_query = race_query.filter(Race.date <= date)
-        races = race_query.order_by(Race.date).all()
+        races = race_query.order_by(Race.date, Race.id).all()
 
         for race in races:
             if _debug:
@@ -76,7 +76,7 @@ class Interface:
             for driver, rank in driver_ranks.iteritems():
                 ranking = Ranking()
                 ranking.rank_date = race.date
-                ranking.ranking = elo.get_ranking(driver, race.date) + rank
+                ranking.ranking = round(elo.get_ranking(driver, race.date) + rank, 2)
                 self.session.add(ranking)
                 driver.rankings.append(ranking)
 

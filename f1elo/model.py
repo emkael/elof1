@@ -15,7 +15,7 @@ class Driver(Base):
 
     rankings = relationship(
         'Ranking',
-        order_by='Ranking.rank_date',
+        order_by='Ranking.rank_date,Ranking.id',
         back_populates='driver',
         cascade="all",
         passive_deletes=True)
