@@ -68,11 +68,12 @@ class Interface:
             ranks = elo.rank_race(race)
             driver_ranks = {}
             for entry, rank in ranks.iteritems():
-                correction = rank / len(entry.drivers)
-                for driver in entry.drivers:
-                    if driver not in driver_ranks:
-                        driver_ranks[driver] = 0
-                    driver_ranks[driver] += correction
+                if entry.result_group:
+                    correction = rank / len(entry.drivers)
+                    for driver in entry.drivers:
+                        if driver not in driver_ranks:
+                            driver_ranks[driver] = 0
+                        driver_ranks[driver] += correction
             for driver, rank in driver_ranks.iteritems():
                 ranking = Ranking()
                 ranking.rank_date = race.date
