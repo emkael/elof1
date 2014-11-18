@@ -82,13 +82,28 @@ class Interface:
                 driver.rankings.append(ranking)
 
             if _debug:
+                podium_rating = 0
+                podium_rating_after = 0
+                rating_sum = 0
+                rating_change_sum = 0
                 for entry in race.entries:
+                    old_rating = elo.get_entry_ranking(entry,
+                                                       race.date - dateutil.relativedelta.relativedelta(days=1))
+                    new_rating = elo.get_entry_ranking(entry)
+                    rating_sum += old_rating
+                    rating_change_sum += abs(new_rating - old_rating)
                     print(
                         entry,
-                        elo.get_entry_ranking(entry,
-                                              race.date - dateutil.relativedelta.relativedelta(days=1)),
-                        elo.get_entry_ranking(entry),
+                        old_rating,
+                        new_rating,
                         file=sys.stderr)
+                    if entry.result in ['1','2','3']:
+                        podium_rating += old_rating
+                        podium_rating_after += new_rating
+                print('', file=sys.stderr)
+                print('Podium rating: ', podium_rating, podium_rating_after, file=sys.stderr)
+                print('Average rating: ', rating_sum / len(race.entries), file=sys.stderr)
+                print('Average rating change: ', rating_change_sum / len(race.entries), file=sys.stderr)
                 print('', file=sys.stderr)
 
             race.ranked = True
