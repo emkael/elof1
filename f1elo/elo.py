@@ -23,7 +23,7 @@ class Elo:
     def get_entry_ranking(self, entry, date=None):
         return sum([self.get_ranking(d, date) for d in entry.drivers]) / len(entry.drivers)
 
-    def rank_race(self, race):
+    def get_race_disparity(self, race):
         race_disparity = self.config['disparity']['base_disparity']
         if self.config['disparity']['adjust']:
             recent_date = race.date - dateutil.relativedelta.relativedelta(months=3)
@@ -45,6 +45,10 @@ class Elo:
                 recent_rank_change = 0
             recent_rank_change = min(self.config['disparity']['base_rating_change'], recent_rank_change)
             race_disparity *= (2.5 + (self.config['disparity']['base_rating_change']/(recent_rank_change - 2.0 * self.config['disparity']['base_rating_change']))) * 0.5
+        return race_disparity
+
+    def rank_race(self, race):
+        race_disparity = self.get_race_disparity(race)
         entries = race.entries
         entries_to_compare = []
         rankings = {}
