@@ -1,13 +1,13 @@
 Tables:
- - all-time peak ratings
- - top exit ratings (date < 2014)
- - peak rating progression
- - highest/lowest ranked podiums
- - races with biggest changes
- - highest rating at the end of rookie season (or next season if < 3 races in rookie season)
+ + all-time peak ratings
+ + top exit ratings (date < 2014)
+ + peak rating progression
+ + year-by-year top peak/average ratings
+ + highest/lowest ranked podiums
+ + races with biggest changes
+ + highest rating at the end of rookie season (= first season with at least 7 sessions) / highest average rating over rookie season
 Charts:
- - rolling average and deviation of rankings (average of averages groupped by driver)
- - average ranking at the beginning of each championship season (for first championship season race grid)
- - average ranking at the end of each championship season (for drivers from championship races)
- - peak season ranking (MAX, MIN, AVG, STDDEV GROUP BY YEAR(date))
- - top 5 of every season (on average) by decade
+ + rolling average and deviation of rankings (average of averages groupped by driver)
+ + average ranking at the beginning and the end of each championship season (first and last championship races)
+ + peak season ranking (MAX peak rating, MIN bottom rating, AVG average, STDDEV average GROUP BY YEAR(date), _driver)
+ + top 3 of every season (on average) by half-decade
