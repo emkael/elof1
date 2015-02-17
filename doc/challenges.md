@@ -119,6 +119,7 @@ As I've already mentioned in the write-up of pairing and ranking method (see: do
 The cut-off had to be more subtle than linear decrease of disparity, so the following formula was used:
 
 `disparity` = `base_disparity` * 0.5 * (2.5 + `base_rating_change` / (`rating_change` - 2 * `base_rating_change`))) [if `rating_change` <= `base_rating_change`]
+
 `disparity` = 0.75 * `base_disparity` [if `rating_change` >= `base_rating_change`], where:
 
  * `base_disparity` and `base_rating_change` are application parameters
