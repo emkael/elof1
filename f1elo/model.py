@@ -5,13 +5,43 @@ from sqlalchemy.types import Boolean, Date, Float, Integer, String
 
 Base = declarative_base()
 
+class Country(Base):
+    __tablename__ = 'countries'
+
+    id = Column(Integer, primary_key=True)
+    name = Column(String(255), index=True)
+
+    drivers = relationship(
+        'Driver',
+        back_populates='country',
+        cascade="all",
+        passive_deletes=True)
+
+    @staticmethod
+    def fetch(name, session):
+        country = session.query(Country).filter(Country.name == name).first()
+        if not country:
+            country = Country()
+            country.name = name
+            session.add(country)
+        return country
 
 class Driver(Base):
     __tablename__ = 'drivers'
 
     id = Column(Integer, primary_key=True)
     driver = Column(String(255), index=True)
-    country = Column(String(255))
+
+    _country = Column(
+        Integer,
+        ForeignKey(
+            'countries.id',
+            onupdate="CASCADE",
+            ondelete="CASCADE"))
+    country = relationship(
+        'Country',
+        back_populates='drivers',
+        order_by='Driver.id')
 
     rankings = relationship(
         'Ranking',
@@ -37,7 +67,7 @@ class Driver(Base):
         if not driver:
             driver = Driver()
             driver.driver = name
-            driver.country = country
+            driver.country = Country.fetch(country, session)
             session.add(driver)
         return driver
 
@@ -156,5 +186,4 @@ class Ranking(Base):
     def __repr__(self):
         return ("%s: %0.2f (%s)" % (self.driver.__repr__().decode('utf8'), self.ranking, self. rank_date)).encode('utf8')
 
-
-__all__ = ['Driver', 'Entry', 'Ranking', 'Race', 'RaceType']
+__all__ = ['Country', 'Driver', 'Entry', 'Ranking', 'Race', 'RaceType']
