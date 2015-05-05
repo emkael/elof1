@@ -94,7 +94,7 @@ class Entry(Base):
 
     id = Column(Integer, primary_key=True)
     result = Column(String(255))
-    car_no = Column(String(255))
+    car_no = Column(Integer, index=True)
     result_group = Column(Integer, index=True)
 
     _race = Column(
