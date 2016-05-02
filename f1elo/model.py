@@ -3,6 +3,9 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import backref, relationship, sessionmaker
 from sqlalchemy.types import Boolean, Date, Float, Integer, String
 
+from functools import total_ordering
+import sys
+
 Base = declarative_base()
 
 class Country(Base):
@@ -89,6 +92,7 @@ driver_entry = Table('driver_entries', Base.metadata,
                      Column('id', Integer, primary_key=True))
 
 
+@total_ordering
 class Entry(Base):
     __tablename__ = 'entries'
 
@@ -117,6 +121,25 @@ class Entry(Base):
     def __repr__(self):
         return ('#%s (%s) %s[%d]' % (self.car_no, ', '.join([driver.__repr__().decode('utf8') for driver in self.drivers]), self.result, self.result_group)).encode('utf8')
 
+    def __eq__(self, other):
+        return self.id == other.id
+
+    def __lt__(self, other):
+        try:
+            self_result = int(self.result)
+        except ValueError:
+            self_result = sys.maxint
+        try:
+            other_result = int(other.result)
+        except ValueError:
+            other_result = sys.maxint
+        if self_result == other_result:
+            if self.result_group == other.result_group:
+                return self.id < other.id
+            else:
+                return self.result_group < other.result_group
+        else:
+            return self_result < other_result
 
 class Race(Base):
     __tablename__ = 'races'

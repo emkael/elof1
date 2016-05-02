@@ -86,7 +86,7 @@ class Interface:
                 podium_rating_after = 0
                 rating_sum = 0
                 rating_change_sum = 0
-                for entry in race.entries:
+                for entry in sorted(race.entries):
                     old_rating = elo.get_entry_ranking(entry,
                                                        race.date - dateutil.relativedelta.relativedelta(days=1))
                     new_rating = elo.get_entry_ranking(entry)
