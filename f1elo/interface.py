@@ -86,12 +86,15 @@ class Interface:
                 podium_rating_after = 0
                 rating_sum = 0
                 rating_change_sum = 0
+                changed_ratings = 0
                 for entry in sorted(race.entries):
                     old_rating = elo.get_entry_ranking(entry,
                                                        race.date - dateutil.relativedelta.relativedelta(days=1))
                     new_rating = elo.get_entry_ranking(entry)
                     rating_sum += old_rating
-                    rating_change_sum += abs(new_rating - old_rating)
+                    if entry.result_group != 0:
+                        rating_change_sum += abs(new_rating - old_rating)
+                        changed_ratings += 1
                     print(
                         entry,
                         old_rating,
@@ -103,7 +106,7 @@ class Interface:
                 print('', file=sys.stderr)
                 print('Podium rating: ', podium_rating, podium_rating_after, file=sys.stderr)
                 print('Average rating: ', rating_sum / len(race.entries), file=sys.stderr)
-                print('Average rating change: ', rating_change_sum / len(race.entries), file=sys.stderr)
+                print('Average rating change: ', rating_change_sum / changed_ratings, file=sys.stderr)
                 print('', file=sys.stderr)
 
             race.ranked = True
