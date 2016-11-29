@@ -68,7 +68,7 @@ The first time you run the application against a fresh database, you have to ini
 
 At any time, you can do a hard reset on the existing database, by running init with `--force` parameter. This truncates all the data, including race results data from the database, and recreates the structure.
 
-Results data are provided in elo.db pre-filled SQLite database or in sql/results.sql, in plain SQL format.
+Results data are provided in sql/results.sql, in plain SQL format.
 
 Elo parameters
 --------------
