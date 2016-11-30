@@ -2,7 +2,9 @@ from __future__ import print_function
 
 import datetime
 import sys
+from os import path
 
+import __main__
 import dateutil.relativedelta
 from f1elo.db import Session
 from f1elo.elo import Elo
@@ -21,6 +23,11 @@ class Interface:
         if force:
             Base.metadata.drop_all(self.session.get_bind())
         Base.metadata.create_all(self.session.get_bind())
+        with open(path.join(path.dirname(__main__.__file__), 'sql', 'results.sql')) as result_dump:
+            for line in result_dump.readlines():
+                line = line.strip()
+                if line and line[0:2] != '--':
+                    self.session.bind.execute(line)
 
     def reset(self, date=None, _debug=False):
         if date is None:
