@@ -9,10 +9,9 @@ import dateutil.relativedelta
 from f1elo.db import Session
 from f1elo.elo import Elo
 from f1elo.model import *
-from sqlalchemy import MetaData
 
 
-class Interface:
+class Interface(object):
 
     def __init__(self, date=None):
         self.session = Session()
@@ -23,7 +22,8 @@ class Interface:
         if force:
             Base.metadata.drop_all(self.session.get_bind())
         Base.metadata.create_all(self.session.get_bind())
-        with open(path.join(path.dirname(__main__.__file__), 'sql', 'results.sql')) as result_dump:
+        with open(path.join(path.dirname(__main__.__file__),
+                            'sql', 'results.sql')) as result_dump:
             for line in result_dump.readlines():
                 line = line.strip()
                 if line and line[0:2] != '--':
@@ -62,7 +62,7 @@ class Interface:
             date = datetime.date.today()
 
         elo = Elo(self.session)
-        race_query = self.session.query(Race).filter(Race.ranked == False)
+        race_query = self.session.query(Race).filter(Race.ranked.is_(False))
         if date is not None:
             race_query = race_query.filter(Race.date <= date)
         races = race_query.order_by(Race.date, Race.id).all()
@@ -84,7 +84,9 @@ class Interface:
             for driver, rank in driver_ranks.iteritems():
                 ranking = Ranking()
                 ranking.rank_date = race.date
-                ranking.ranking = round(elo.get_ranking(driver, race.date) + rank, 2)
+                ranking.ranking = round(
+                    elo.get_ranking(driver, race.date) + rank,
+                    2)
                 self.session.add(ranking)
                 driver.rankings.append(ranking)
 
@@ -95,8 +97,10 @@ class Interface:
                 rating_change_sum = 0
                 changed_ratings = 0
                 for entry in sorted(race.entries):
-                    old_rating = elo.get_entry_ranking(entry,
-                                                       race.date - dateutil.relativedelta.relativedelta(days=1))
+                    old_rating = elo.get_entry_ranking(
+                        entry,
+                        race.date
+                        - dateutil.relativedelta.relativedelta(days=1))
                     new_rating = elo.get_entry_ranking(entry)
                     rating_sum += old_rating
                     if entry.result_group != 0:
@@ -107,13 +111,17 @@ class Interface:
                         old_rating,
                         new_rating,
                         file=sys.stderr)
-                    if entry.result in ['1','2','3']:
+                    if entry.result in ['1', '2', '3']:
                         podium_rating += old_rating
                         podium_rating_after += new_rating
                 print('', file=sys.stderr)
-                print('Podium rating: ', podium_rating, podium_rating_after, file=sys.stderr)
-                print('Average rating: ', rating_sum / len(race.entries), file=sys.stderr)
-                print('Average rating change: ', rating_change_sum / changed_ratings, file=sys.stderr)
+                print('Podium rating: ', podium_rating, podium_rating_after,
+                      file=sys.stderr)
+                print('Average rating: ', rating_sum / len(race.entries),
+                      file=sys.stderr)
+                print('Average rating change: ',
+                      rating_change_sum / changed_ratings,
+                      file=sys.stderr)
                 print('', file=sys.stderr)
 
             race.ranked = True
@@ -151,4 +159,6 @@ class Interface:
 
         self.date = date
 
-        return sorted(drivers.values(), key=lambda rank: rank.ranking, reverse=True)
+        return sorted(drivers.values(),
+                      key=lambda rank: rank.ranking,
+                      reverse=True)

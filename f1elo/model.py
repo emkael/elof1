@@ -1,12 +1,13 @@
+import sys
+from functools import total_ordering
+
 from sqlalchemy import Column, ForeignKey, Table
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import backref, relationship, sessionmaker
+from sqlalchemy.orm import relationship
 from sqlalchemy.types import Boolean, Date, Float, Integer, String
 
-from functools import total_ordering
-import sys
-
 Base = declarative_base()
+
 
 class Country(Base):
     __tablename__ = 'countries'
@@ -28,6 +29,7 @@ class Country(Base):
             country.name = name
             session.add(country)
         return country
+
 
 class Driver(Base):
     __tablename__ = 'drivers'
@@ -74,21 +76,22 @@ class Driver(Base):
             session.add(driver)
         return driver
 
+
 driver_entry = Table('driver_entries', Base.metadata,
                      Column(
-                     '_driver',
-                     Integer,
-                     ForeignKey(
-                         'drivers.id',
-                         onupdate="CASCADE",
-                         ondelete="CASCADE")),
+                         '_driver',
+                         Integer,
+                         ForeignKey(
+                             'drivers.id',
+                             onupdate="CASCADE",
+                             ondelete="CASCADE")),
                      Column(
-                     '_entry',
-                     Integer,
-                     ForeignKey(
-                         'entries.id',
-                         onupdate="CASCADE",
-                         ondelete="CASCADE")),
+                         '_entry',
+                         Integer,
+                         ForeignKey(
+                             'entries.id',
+                             onupdate="CASCADE",
+                             ondelete="CASCADE")),
                      Column('id', Integer, primary_key=True))
 
 
@@ -119,7 +122,12 @@ class Entry(Base):
         passive_deletes=True)
 
     def __repr__(self):
-        return ('#%s (%s) %s[%d]' % (self.car_no, ', '.join([driver.__repr__().decode('utf8') for driver in self.drivers]), self.result, self.result_group)).encode('utf8')
+        return ('#%s (%s) %s[%d]' % (
+            self.car_no,
+            ', '.join([driver.__repr__().decode('utf8')
+                       for driver in self.drivers]),
+            self.result,
+            self.result_group)).encode('utf8')
 
     def __eq__(self, other):
         return self.id == other.id
@@ -141,13 +149,17 @@ class Entry(Base):
         else:
             return self_result < other_result
 
+
 class Race(Base):
     __tablename__ = 'races'
 
     id = Column(Integer, primary_key=True)
     race = Column(String(1024))
     date = Column(Date, index=True)
-    ranked = Column(Boolean, nullable=False, server_default='0', default=False, index=True)
+    ranked = Column(Boolean,
+                    nullable=False,
+                    server_default='0', default=False,
+                    index=True)
 
     _type = Column(
         Integer,
@@ -204,9 +216,12 @@ class Ranking(Base):
     driver = relationship(
         'Driver',
         back_populates='rankings',
-     order_by=rank_date)
+        order_by=rank_date)
 
     def __repr__(self):
-        return ("%s: %0.2f (%s)" % (self.driver.__repr__().decode('utf8'), self.ranking, self. rank_date)).encode('utf8')
+        return ("%s: %0.2f (%s)" % (
+            self.driver.__repr__().decode('utf8'),
+            self.ranking, self. rank_date)).encode('utf8')
 
-__all__ = ['Country', 'Driver', 'Entry', 'Ranking', 'Race', 'RaceType']
+
+__all__ = ('Country', 'Driver', 'Entry', 'Ranking', 'Race', 'RaceType')
