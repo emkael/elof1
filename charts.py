@@ -26,7 +26,6 @@ def fetch_raw():
     GROUP BY _driver
     ) r ON r.ranking=rankings.ranking AND r._driver=rankings._driver
     JOIN drivers ON rankings._driver = drivers.id
-    GROUP BY rankings._driver
     ORDER BY rankings.ranking DESC
     LIMIT 0,20
     ''',
@@ -42,7 +41,7 @@ def fetch_raw():
     SELECT MAX(mr.max_ranking) FROM max_date_rankings mr
     WHERE mr.max_rank_date < max_date_rankings.max_rank_date
     )
-    ''',                
+    ''',
     'top-exit-rankings': '''
     SELECT drivers.driver,
     rankings.ranking,
@@ -106,7 +105,7 @@ def fetch_raw():
         for result in connection.execute(text(query)):
             csv.writerow(result)
 
-def fetch_decades():            
+def fetch_decades():
     for decade in range(1950, 2020, 5):
         drivers = []
         for year in range(decade, decade + 5):
@@ -124,14 +123,14 @@ def fetch_decades():
             LIMIT 0,3)
             '''), year=year):
                 drivers.append(driver_id[0])
-        rankings = connection.execute(text("SELECT rankings.id, rankings.rank_date, MAX(rankings.ranking), rankings._driver, drivers.* FROM rankings JOIN drivers ON drivers.id = rankings._driver WHERE rank_date >= :date_from AND rank_date <= :date_to AND _driver IN :drivers GROUP BY rankings._driver, rankings.rank_date"), date_from=str(decade)+'-01-01', date_to=str(decade+4)+'-12-31', drivers=drivers)
+        rankings = connection.execute(text("SELECT rankings.rank_date, MAX(rankings.ranking), rankings._driver, drivers.* FROM rankings JOIN drivers ON drivers.id = rankings._driver WHERE rank_date >= :date_from AND rank_date <= :date_to AND _driver IN :drivers GROUP BY rankings._driver, rankings.rank_date"), date_from=str(decade)+'-01-01', date_to=str(decade+4)+'-12-31', drivers=drivers)
         csv = unicodecsv.writer(open('charts/' + str(decade) + 's.csv', 'w'))
         tree = lambda: collections.defaultdict(tree)
         table = tree()
         dates = set()
         for row in rankings:
-            dates.add(str(row[1]))
-            table[row[5]][str(row[1])] = row[2]
+            dates.add(str(row[0]))
+            table[row[4]][str(row[0])] = row[1]
         dates = list(dates)
         dates.append('')
         dates = sorted(dates)
@@ -172,4 +171,3 @@ elif sys.argv[1] == 'all':
     fetch_raw()
     fetch_decades()
     fetch_rolling()
-

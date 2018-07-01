@@ -15,7 +15,8 @@ CREATE VIEW driver_seasons_count AS
 DROP VIEW IF EXISTS driver_yearly_rankings;
 
 CREATE VIEW driver_yearly_rankings AS
-	SELECT MAX(rankings.ranking) max_ranking, AVG(rankings.ranking) avg_ranking, MIN(rankings.ranking) min_ranking, YEAR(rankings.rank_date) date, COUNT(rankings.id) count, championship.position, rankings._driver
+	SELECT MAX(rankings.ranking) max_ranking, AVG(rankings.ranking) avg_ranking, MIN(rankings.ranking) min_ranking,
+           YEAR(rankings.rank_date) date, COUNT(rankings.id) count, MIN(championship.position) position, rankings._driver
 	FROM rankings
 	LEFT JOIN championship ON rankings._driver = championship._driver AND YEAR(rankings.rank_date) = championship.year
 	GROUP BY YEAR(rankings.rank_date), rankings._driver;
@@ -59,6 +60,4 @@ CREATE VIEW top_peak_rankings AS
 	FROM rankings
 		JOIN top_yearly_rankings ON YEAR(rankings.rank_date) = top_yearly_rankings.date AND rankings.ranking = top_yearly_rankings.peak
 		JOIN drivers ON rankings._driver = drivers.id
-		JOIN driver_yearly_rankings ON rankings._driver = driver_yearly_rankings._driver AND top_yearly_rankings.date = driver_yearly_rankings.date
-	GROUP BY top_yearly_rankings.date;
-
+		JOIN driver_yearly_rankings ON rankings._driver = driver_yearly_rankings._driver AND top_yearly_rankings.date = driver_yearly_rankings.date;
