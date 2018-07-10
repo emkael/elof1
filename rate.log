@@ -74511,3 +74511,59 @@ Podium rating:  7411.02 7446.07
 Average rating:  2181.1695
 Average rating change:  37.34
 
+usage: elo.py [-h] [--date DATE] [--limit LIMIT] [-v] [--force] [COMMAND]
+elo.py: error: argument COMMAND: invalid choice: 'rate.log' (choose from 'print', 'rate', 'reset', 'init')
+2018 British Grand Prix - qualifying (2018-07-07)
+
+#44 (<Lewis Hamilton (#1140)>) 1[1] 2599.73 2602.32
+#5 (<Sebastian Vettel (#1135)>) 2[2] 2525.26 2527.78
+#7 (<Kimi Räikkönen (#1141)>) 3[3] 2496.35 2497.96
+#77 (<Valtteri Bottas (#1161)>) 4[4] 2464.01 2464.83
+#33 (<Max Verstappen (#1172)>) 5[5] 2424.46 2424.75
+#3 (<Daniel Ricciardo (#1157)>) 6[6] 2418.17 2417.03
+#20 (<Kevin Magnussen (#1165)>) 7[7] 2158.32 2164.58
+#8 (<Romain Grosjean (#1144)>) 8[8] 2137.69 2143.21
+#16 (<Charles Leclerc (#1184)>) 9[9] 2119.37 2124.06
+#31 (<Esteban Ocon (#1179)>) 10[10] 2045.58 2051.84
+#27 (<Nico Hülkenberg (#1148)>) 11[11] 2164.43 2164.04
+#11 (<Sergio Pérez (#1155)>) 12[12] 2126.87 2126.45
+#14 (<Fernando Alonso (#1127)>) 13[13] 2163.17 2159.63
+#10 (<Pierre Gasly (#1182)>) 14[14] 2040.4 2040.48
+#26179 (<Marcus Ericsson (#1167)>) 15[15] 2038.22 2036.8
+#55 (<Carlos Sainz (#1170)>) 16[16] 2173.12 2164.37
+#2 (<Stoffel Vandoorne (#1178)>) 17[17] 1877.33 1877.41
+#35 (<Sergey Sirotkin (#1185)>) 18[18] 1893.75 1890.73
+#18 (<Lance Stroll (#1181)>) 19[19] 1854.07 1850.28
+#28 (<Brendon Hartley (#1183)>) 20[20] 1903.09 1894.85
+
+Podium rating:  7621.34 7628.06
+Average rating:  2181.1695
+Average rating change:  3.0715
+
+2018 British Grand Prix (2018-07-08)
+
+#5 (<Sebastian Vettel (#1135)>) 1[1] 2527.78 2562.77
+#44 (<Lewis Hamilton (#1140)>) 2[2] 2602.32 2600.19
+#7 (<Kimi Räikkönen (#1141)>) 3[2] 2497.96 2514.92
+#77 (<Valtteri Bottas (#1161)>) 4[3] 2464.83 2456.84
+#3 (<Daniel Ricciardo (#1157)>) 5[3] 2417.03 2419.94
+#27 (<Nico Hülkenberg (#1148)>) 6[4] 2164.04 2184.69
+#31 (<Esteban Ocon (#1179)>) 7[4] 2051.84 2112.75
+#14 (<Fernando Alonso (#1127)>) 8[4] 2159.63 2181.82
+#20 (<Kevin Magnussen (#1165)>) 9[4] 2164.58 2185.04
+#11 (<Sergio Pérez (#1155)>) 10[4] 2126.45 2160.41
+#2 (<Stoffel Vandoorne (#1178)>) 11[5] 1877.41 1928.42
+#18 (<Lance Stroll (#1181)>) 12[5] 1850.28 1910.28
+#10 (<Pierre Gasly (#1182)>) 13[5] 2040.48 2021.46
+#35 (<Sergey Sirotkin (#1185)>) 14[5] 1890.73 1937.03
+#33 (<Max Verstappen (#1172)>) R[0] 2424.75 2424.75
+#16 (<Charles Leclerc (#1184)>) R[0] 2124.06 2124.06
+#28 (<Brendon Hartley (#1183)>) R[0] 1894.85 1894.85
+#8 (<Romain Grosjean (#1144)>) R[6] 2143.21 2019.19
+#55 (<Carlos Sainz (#1170)>) R[6] 2164.37 2032.9
+#9 (<Marcus Ericsson (#1167)>) R[6] 2036.8 1951.09
+
+Podium rating:  7628.06 7677.88
+Average rating:  2181.17
+Average rating change:  43.5694117647
+
