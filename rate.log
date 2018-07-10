@@ -74511,8 +74511,6 @@ Podium rating:  7411.02 7446.07
 Average rating:  2181.1695
 Average rating change:  37.34
 
-usage: elo.py [-h] [--date DATE] [--limit LIMIT] [-v] [--force] [COMMAND]
-elo.py: error: argument COMMAND: invalid choice: 'rate.log' (choose from 'print', 'rate', 'reset', 'init')
 2018 British Grand Prix - qualifying (2018-07-07)
 
 #44 (<Lewis Hamilton (#1140)>) 1[1] 2599.73 2602.32
@@ -74566,4 +74564,3 @@ Average rating change:  3.0715
 Podium rating:  7628.06 7677.88
 Average rating:  2181.17
 Average rating change:  43.5694117647
-
