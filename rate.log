@@ -72534,10 +72534,10 @@ Average rating change:  4.54285714286
 #9 (<Marcus Ericsson (#1167)>) 16[5] 1901.31 1988.44
 #20 (<Kevin Magnussen (#1165)>) 17[5] 2000.63 2030.68
 #31 (<Esteban Ocon (#1179)>) 18[6] 1978.18 1935.4
-#26 (<Daniil Kvyat (#1166)>) Ret3[0] 2121.09 2121.09
+#26 (<Daniil Kvyat (#1166)>) Ret[0] 2121.09 2121.09
 #94 (<Pascal Wehrlein (#1177)>) Ret[0] 1871.85 1871.85
 #30 (<Jolyon Palmer (#1175)>) Ret[7] 2044.34 1957.18
-#12 (<Felipe Nasr (#1171)>) Ret4[7] 2029.0 1948.03
+#12 (<Felipe Nasr (#1171)>) Ret[7] 2029.0 1948.03
 
 Podium rating:  7536.12 7633.05
 Average rating:  2197.225
@@ -75370,4 +75370,3 @@ Average rating change:  6.891
 Podium rating:  7836.75 7883.72
 Average rating:  2196.7255
 Average rating change:  40.6294444444
-
