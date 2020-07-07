@@ -106,7 +106,7 @@ def fetch_raw():
             csv.writerow(result)
 
 def fetch_decades():
-    for decade in range(1950, 2020, 5):
+    for decade in range(1950, 2025, 5):
         drivers = []
         for year in range(decade, decade + 5):
             for driver_id in connection.execute(text('''
