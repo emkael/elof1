@@ -8,7 +8,7 @@ For qualifying, a group is simply the qualifying position (not applying any carr
 For races the following rules apply:
 
  * race winning entry forms group "1"
- * among the drivers classified on the lead lap, other groups are as follows: 2-3 places are group "2", 4-5 places are group "3", 6-10 places are group "4", 11-15 places are group "5", etc.
+ * among the drivers classified on the lead lap, other groups are as follows: 2-3 places are group "2", 4-5 places are group "3", 6-10 places are group "4", places 11 and lower are group "5"
  * for drivers classified outside the lead lap, the groups are formed by the drivers classified with the same numbers of completed laps (each distinct lap number as a separate group)
  * non-classified drivers (because of completing not enough laps, but not retiring) form a single separate group, below all the classified drivers
  * drivers retiring due to driver-induced accidents form a single separate group, below other drivers
