@@ -20,8 +20,9 @@ Race importance factor:
 
 Heats and aggregates:
 
- * for multi-heat races with bracket-style heats and a final heats count as qualifying sessions and the final count as a race (except for Bologna Sprints, in which every heat from the full bracket gets non-championship race importance)
- * for multi-heat races with aggregate-style standings the initial grid counts as qualifying and the aggregate results count as a race
+ * for multi-heat races with bracket-style heats and a final, heats count as qualifying sessions and the final counts as a race (except for Bologna Sprints, in which every heat from the full bracket gets non-championship race importance)
+ * the above also applies to 2021 sprint qualifying: the initial grid is not rated, sprint qualifying results count as a qualifying session, and the race counts as a race
+ * for multi-heat races with aggregate-style standings, the initial grid counts as qualifying and the aggregate results count as a race
 
 Other remarks:
 
